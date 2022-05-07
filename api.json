@@ -1,5 +1,34 @@
 [
   {
+    "title": "How Emotions Are Made",
+    "authors": [
+      "Lisa Feldman Barrett"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2017-03-07",
+    "description": "Preeminent psychologist Lisa Barrett lays out how the brain constructs emotions in a way that could revolutionize psychology, health care, the legal system, and our understanding of the human mind. “Fascinating . . . A thought-provoking journey into emotion science.”—The Wall Street Journal “A singular book, remarkable for the freshness of its ideas and the boldness and clarity with which they are presented.”—Scientific American “A brilliant and original book on the science of emotion, by the deepest thinker about this topic since Darwin.”—Daniel Gilbert, best-selling author of Stumbling on Happiness The science of emotion is in the midst of a revolution on par with the discovery of relativity in physics and natural selection in biology. Leading the charge is psychologist and neuroscientist Lisa Feldman Barrett, whose research overturns the long-standing belief that emotions are automatic, universal, and hardwired in different brain regions. Instead, Barrett shows, we construct each instance of emotion through a unique interplay of brain, body, and culture. A lucid report from the cutting edge of emotion science, How Emotions Are Made reveals the profound real-world consequences of this breakthrough for everything from neuroscience and medicine to the legal system and even national security, laying bare the immense implications of our latest and most intimate scientific revolution.",
+    "image": "http://books.google.com/books/content?id=hN8MBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 5,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 448,
+    "isbn10": "0544129962",
+    "isbn13": "9780544129962",
+    "googleBooks": {
+      "id": "hN8MBgAAQBAJ",
+      "preview": "http://books.google.com/books?id=hN8MBgAAQBAJ&printsec=frontcover&dq=intitle:How+Emotions+Are+Made:+The+Secret+Life+of+the+Brain++Barrett,+Lisa+Feldman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ"
+    },
+    "issueNumber": 4,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T21:15:13.000Z"
+  },
+  {
     "title": "The Molecule of More",
     "authors": [
       "Daniel Z. Lieberman",
