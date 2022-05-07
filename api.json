@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "title": "The Molecule of More",
+    "authors": [
+      "Daniel Z. Lieberman",
+      "Michael E. Long"
+    ],
+    "publisher": "BenBella Books",
+    "publishedDate": "2018-08-14",
+    "description": "Why are we obsessed with the things we want only to be bored when we get them? Why is addiction perfectly logical to an addict? Why does love change so quickly from passion to indifference? Why are some people die-hard liberals and others hardcore conservatives? Why are we always hopeful for solutions even in the darkest times—and so good at figuring them out? The answer is found in a single chemical in your brain: dopamine. Dopamine ensured the survival of early man. Thousands of years later, it is the source of our most basic behaviors and cultural ideas—and progress itself. Dopamine is the chemical of desire that always asks for more—more stuff, more stimulation, and more surprises. In pursuit of these things, it is undeterred by emotion, fear, or morality. Dopamine is the source of our every urge, that little bit of biology that makes an ambitious business professional sacrifice everything in pursuit of success, or that drives a satisfied spouse to risk it all for the thrill of someone new. Simply put, it is why we seek and succeed; it is why we discover and prosper. Yet, at the same time, it's why we gamble and squander. From dopamine's point of view, it's not the having that matters. It's getting something—anything—that's new. From this understanding—the difference between possessing something versus anticipating it—we can understand in a revolutionary new way why we behave as we do in love, business, addiction, politics, religion—and we can even predict those behaviors in ourselves and others. In The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and will Determine the Fate of the Human Race, George Washington University professor and psychiatrist Daniel Z. Lieberman, MD, and Georgetown University lecturer Michael E. Long present a potentially life-changing proposal: Much of human life has an unconsidered component that explains an array of behaviors previously thought to be unrelated, including why winners cheat, why geniuses often suffer with mental illness, why nearly all diets fail, and why the brains of liberals and conservatives really are different.",
+    "image": "http://books.google.com/books/content?id=ngFCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 2,
+    "ratingsCount": 1,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 240,
+    "isbn10": "1946885290",
+    "isbn13": "9781946885296",
+    "googleBooks": {
+      "id": "ngFCDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=ngFCDwAAQBAJ&printsec=frontcover&dq=intitle:The+Molecule+of+More:+How+a+Single+Chemical+in+Your+Brain+Drives+Love,+Sex,+and+Creativity--and+Will+Determine+the+Fate+of+the+Human+Race+by+Lieberman,+Daniel+Z.%3B+Long,+Michael+E.&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=ngFCDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=ngFCDwAAQBAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T20:47:11.000Z"
+  },
+  {
+    "title": "The God-Shaped Heart",
+    "authors": [
+      "Timothy R. MD Jennings"
+    ],
+    "publisher": "Baker Books",
+    "publishedDate": "2017-09-05",
+    "description": "The key to spiritual and emotional health is to grasp the truth of God's transforming love for us and then let that reality influence our own hearts and relationships. It seems simple, but we are experts at complicating simple things. Instead of living lives characterized by love we find ourselves trapped in cycles of shame, violence, and addiction that steal our joy and keep us from loving others--so much so that, by all indications, Christians are living no differently than anyone else when it comes to abuse rates, use of pornography, alcohol and drug addiction, and more. Christian psychiatrist Dr. Timothy Jennings wants to release us from this prison. With powerful illustrations from case studies and from Scripture, Jennings shows believers who are stuck in addiction, violence, fear, and broken relationships how to experience true freedom through God's transforming love to experience greater health, fulfillment, and well-being.",
+    "image": "http://books.google.com/books/content?id=O8U4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 304,
+    "isbn10": "1493409433",
+    "isbn13": "9781493409433",
+    "googleBooks": {
+      "id": "O8U4DgAAQBAJ",
+      "preview": "http://books.google.com/books?id=O8U4DgAAQBAJ&pg=PT3&dq=intitle:The+Soul+of+Desire:+Discovering+the+Neuroscience+of+Longing,+Beauty,+and+Community+by+Thompson+MD,+Curt&hl=&cd=3&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ"
+    },
+    "issueNumber": 1,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T20:43:23.000Z"
+  }
+]
