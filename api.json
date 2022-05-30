@@ -53,8 +53,11 @@
     },
     "issueNumber": 5,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-07T21:16:59.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-07T21:16:59.000Z",
+    "completedAt": "2022-05-30T18:09:10.000Z",
+    "timeToComplete": 1975931000,
+    "timeToCompleteFormatted": "3 weeks"
   },
   {
     "title": "How Emotions Are Made",
