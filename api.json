@@ -1,5 +1,34 @@
 [
   {
+    "title": "Invisible Man",
+    "authors": [
+      "Ralph Ellison"
+    ],
+    "publisher": "Penguin Modern Classics",
+    "publishedDate": "2001-01-01",
+    "description": "Ralph Ellison's impassioned first novel, winner of the prestigious American National Book Award, tells the story of an invisible man simply because people refuse to see me. Yet his powerfully depicted adventures go far beyond the story of one man.",
+    "image": "http://books.google.com/books/content?id=d_a3QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 94,
+    "categories": [
+      "African Americans"
+    ],
+    "pageCount": 581,
+    "isbn10": "0141184426",
+    "isbn13": "9780141184425",
+    "googleBooks": {
+      "id": "d_a3QgAACAAJ",
+      "preview": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Invisible_Man.html?hl=&id=d_a3QgAACAAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-06-01T05:13:01.000Z"
+  },
+  {
     "title": "Screwtape Letters, The - UK Gift Edition",
     "authors": [
       "Clive Staples Lewis"
