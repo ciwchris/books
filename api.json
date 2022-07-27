@@ -54,8 +54,11 @@
     },
     "issueNumber": 7,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-06-01T05:11:14.000Z"
+    "state": "completed",
+    "startedAt": "2022-06-01T05:11:14.000Z",
+    "completedAt": "2022-07-27T14:46:59.000Z",
+    "timeToComplete": 4872945000,
+    "timeToCompleteFormatted": "1 month"
   },
   {
     "title": "Lifespan",
@@ -205,7 +208,10 @@
     },
     "issueNumber": 1,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-07T20:43:23.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-07T20:43:23.000Z",
+    "completedAt": "2022-07-27T14:47:15.000Z",
+    "timeToComplete": 6977032000,
+    "timeToCompleteFormatted": "2 months"
   }
 ]
