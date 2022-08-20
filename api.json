@@ -1,5 +1,34 @@
 [
   {
+    "title": "Curious",
+    "authors": [
+      "Ian Leslie"
+    ],
+    "publisher": "Basic Books (AZ)",
+    "publishedDate": "2014-08-26",
+    "description": "“I have no special talents,” said Albert Einstein. “I am only passionately curious.” Everyone is born curious. But only some retain the habits of exploring, learning, and discovering as they grow older. Those who do so tend to be smarter, more creative, and more successful. So why are many of us allowing our curiosity to wane? In Curious, Ian Leslie makes a passionate case for the cultivation of our “desire to know.” Just when the rewards of curiosity have never been higher, it is misunderstood, undervalued, and increasingly monopolized by a cognitive elite. A “curiosity divide” is opening up. This divide is being exacerbated by the way we use the Internet. Thanks to smartphones and tools such as Google and Wikipedia, we can answer almost any question instantly. But does this easy access to information guarantee the growth of curiosity? No—quite the opposite. Leslie argues that true curiosity the sustained quest for understanding that begets insight and innovation—is in fact at risk in a wired world. Drawing on fascinating research from psychology, economics, education, and business, Curious looks at what feeds curiosity and what starves it, and finds surprising answers. Curiosity isn’t, as we’re encouraged to think, a gift that keeps on giving. It is a mental muscle that atrophies without regular exercise and a habit that parents, schools, and workplaces need to nurture. Filled with inspiring stories, case studies, and practical advice, Curious will change the way you think about your own mental habits, and those of your family, friends, and colleagues.",
+    "image": "http://books.google.com/books/content?id=qaAVBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 240,
+    "isbn10": "0465079962",
+    "isbn13": "9780465079964",
+    "googleBooks": {
+      "id": "qaAVBQAAQBAJ",
+      "preview": "http://books.google.com/books?id=qaAVBQAAQBAJ&printsec=frontcover&dq=intitle:Curious:+The+desire+to+know+and+why+your+future+depends+on+it,+Ian+Leslie&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=qaAVBQAAQBAJ&dq=intitle:Curious:+The+desire+to+know+and+why+your+future+depends+on+it,+Ian+Leslie&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Curious.html?hl=&id=qaAVBQAAQBAJ"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-08-20T16:25:37.000Z"
+  },
+  {
     "title": "Bittersweet",
     "authors": [
       "Susan Cain"
