@@ -23,8 +23,11 @@
     },
     "issueNumber": 10,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-28T15:45:51.000Z"
+    "state": "completed",
+    "startedAt": "2022-07-28T15:45:51.000Z",
+    "completedAt": "2022-08-20T16:23:37.000Z",
+    "timeToComplete": 1989466000,
+    "timeToCompleteFormatted": "3 weeks"
   },
   {
     "title": "Invisible Man",
