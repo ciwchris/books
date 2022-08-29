@@ -25,8 +25,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Molecule of More](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DngFCDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/2 "The Molecule of More by Daniel Z. Lieberman, Michael E. Long completed in 3 weeks on June 2022")
 [![Book cover of The God-Shaped Heart](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DO8U4DgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/1 "The God-Shaped Heart by Timothy R. MD Jennings completed in 2 months on July 2022")
 
-### ⏭️ Want to Read (2)
+### ⏭️ Want to Read (3)
 
+[![Book cover of Tattoos on the Heart](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DOoz8Ke9w89QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/16 "Tattoos on the Heart by Greg Boyle completed in undefined on Invalid Date")
 [![Book cover of Being You](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DarVCEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/15 "Being You by Anil Seth completed in undefined on Invalid Date")
 [![Book cover of Wild Problems](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D85xBEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/14 "Wild Problems by Russ Roberts completed in undefined on Invalid Date")
 
