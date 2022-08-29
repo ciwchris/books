@@ -1,5 +1,35 @@
 [
   {
+    "title": "Jaws",
+    "authors": [
+      "Sandra Kahn",
+      "Paul R. Ehrlich"
+    ],
+    "publisher": "Stanford University Press",
+    "publishedDate": "2018-04-10",
+    "description": "There's a silent epidemic in western civilization, and it is right under our noses. Our jaws are getting smaller and our teeth crooked and crowded, creating not only aesthetic challenges but also difficulties with breathing. Modern orthodontics has persuaded us that braces and oral devices can correct these problems. While teeth can certainly be straightened, what about the underlying causes of this rapid shift in oral evolution and the health risks posed by obstructed airways? Sandra Kahn and Paul R. Ehrlich, a pioneering orthodontist and a world-renowned evolutionist, respectively, present the biological, dietary, and cultural changes that have driven us toward this major health challenge. They propose simple adjustments that can alleviate this developing crisis, as well as a major alternative to orthodontics that promises more significant long-term relief. Jaws will change your life. Every parent should read this book.",
+    "image": "http://books.google.com/books/content?id=YvJUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 216,
+    "isbn10": "1503606465",
+    "isbn13": "9781503606463",
+    "googleBooks": {
+      "id": "YvJUDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=YvJUDwAAQBAJ&printsec=frontcover&dq=intitle:Jaws:+The+Story+of+a+Hidden+Epidemic,+Paul+Ehrlich&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=YvJUDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=YvJUDwAAQBAJ"
+    },
+    "issueNumber": 22,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:30:19.000Z"
+  },
+  {
     "title": "Rule Makers, Rule Breakers",
     "authors": [
       "Michele Gelfand"
