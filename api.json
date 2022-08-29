@@ -1,5 +1,28 @@
 [
   {
+    "title": "The Nature of the Beast",
+    "authors": [
+      "David Anderson"
+    ],
+    "publishedDate": "2022-03-15",
+    "description": "Most of what we know about emotions is unreliable. It's gathered either by asking people about their feelings, or by putting them in an MRI and studying how they react to pretend situations, to which they are unlikely to respond as they would in real life. If we're ever going to understand how emotions work, we need a better way of studying them. In The Nature of the Beast, pioneering neuroscientist David J. Anderson reveals how he has begun to solve this problem. He and his team have figured out how to study the brain activity of animals as they navigate real-life scenarios, like foraging, fleeing a predator, or competing for a mate. His research has revolutionized what we know about animal fear and aggression. Here, he explains what his research can teach us about human behavior, offering new insights into why isolation makes us more aggressive, how sex and violence connect, and whether there's a link between aggression and mental illness. Part How Emotions Are Made, part Mama's Last Hug, The Nature of the Beast reconceptualizes how the brain regulates emotions--and explains why we have them at all.",
+    "image": "http://books.google.com/books/content?id=u4h_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 272,
+    "isbn10": "1541674634",
+    "isbn13": "9781541674639",
+    "googleBooks": {
+      "id": "u4h_zgEACAAJ",
+      "preview": "http://books.google.com/books?id=u4h_zgEACAAJ&dq=intitle:The+Nature+of+the+Beast:+How+Emotions+Guide+Us,+David+J.+Anderson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=u4h_zgEACAAJ&dq=intitle:The+Nature+of+the+Beast:+How+Emotions+Guide+Us,+David+J.+Anderson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Nature_of_the_Beast.html?hl=&id=u4h_zgEACAAJ"
+    },
+    "issueNumber": 18,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:26:11.000Z"
+  },
+  {
     "title": "The Seven Principles for Making Marriage Work",
     "authors": [
       "John Gottman, PhD",
