@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Spike",
+    "authors": [
+      "Mark Humphries"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2021-03-02",
+    "description": "The story of a neural impulse and what it reveals about how our brains work We see the last cookie in the box and think, can I take that? We reach a hand out. In the 2.1 seconds that this impulse travels through our brain, billions of neurons communicate with one another, sending blips of voltage through our sensory and motor regions. Neuroscientists call these blips “spikes.” Spikes enable us to do everything: talk, eat, run, see, plan, and decide. In The Spike, Mark Humphries takes readers on the epic journey of a spike through a single, brief reaction. In vivid language, Humphries tells the story of what happens in our brain, what we know about spikes, and what we still have left to understand about them. Drawing on decades of research in neuroscience, Humphries explores how spikes are born, how they are transmitted, and how they lead us to action. He dives into previously unanswered mysteries: Why are most neurons silent? What causes neurons to fire spikes spontaneously, without input from other neurons or the outside world? Why do most spikes fail to reach any destination? Humphries presents a new vision of the brain, one where fundamental computations are carried out by spontaneous spikes that predict what will happen in the world, helping us to perceive, decide, and react quickly enough for our survival. Traversing neuroscience’s expansive terrain, The Spike follows a single electrical response to illuminate how our extraordinary brains work.",
+    "image": "http://books.google.com/books/content?id=2An-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 232,
+    "isbn10": "0691195889",
+    "isbn13": "9780691195889",
+    "googleBooks": {
+      "id": "2An-DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=2An-DwAAQBAJ&printsec=frontcover&dq=intitle:The+Spike:+An+Epic+Journey+Through+the+Brain+in+2.1+Seconds,+Mark+Humphries&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=2An-DwAAQBAJ&dq=intitle:The+Spike:+An+Epic+Journey+Through+the+Brain+in+2.1+Seconds,+Mark+Humphries&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Spike.html?hl=&id=2An-DwAAQBAJ"
+    },
+    "issueNumber": 23,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:31:17.000Z"
+  },
+  {
     "title": "Jaws",
     "authors": [
       "Sandra Kahn",
