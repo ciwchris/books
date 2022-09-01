@@ -1,5 +1,34 @@
 [
   {
+    "title": "Drive",
+    "authors": [
+      "Daniel H. Pink"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2011-04-05",
+    "description": "The New York Times bestseller that gives readers a paradigm-shattering new way to think about motivation from the author of When: The Scientific Secrets of Perfect Timing Most people believe that the best way to motivate is with rewards like money—the carrot-and-stick approach. That's a mistake, says Daniel H. Pink (author of To Sell Is Human: The Surprising Truth About Motivating Others). In this provocative and persuasive new book, he asserts that the secret to high performance and satisfaction-at work, at school, and at home—is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world. Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does—and how that affects every aspect of life. He examines the three elements of true motivation—autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.",
+    "image": "http://books.google.com/books/content?id=pYc-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 3444,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 288,
+    "isbn10": "1594484805",
+    "isbn13": "9781594484803",
+    "googleBooks": {
+      "id": "pYc-DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=pYc-DwAAQBAJ&printsec=frontcover&dq=intitle:Drive:+The+Surprising+Truth+About+What+Motivates+Us,+Daniel+H.+Pink&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=pYc-DwAAQBAJ&dq=intitle:Drive:+The+Surprising+Truth+About+What+Motivates+Us,+Daniel+H.+Pink&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Drive.html?hl=&id=pYc-DwAAQBAJ"
+    },
+    "issueNumber": 24,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-09-01T03:15:24.000Z"
+  },
+  {
     "title": "The Spike",
     "authors": [
       "Mark Humphries"
