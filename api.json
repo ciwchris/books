@@ -54,8 +54,11 @@
     },
     "issueNumber": 24,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-09-01T03:15:24.000Z"
+    "state": "completed",
+    "startedAt": "2022-09-01T03:15:24.000Z",
+    "completedAt": "2022-09-09T16:01:44.000Z",
+    "timeToComplete": 737180000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "The Spike",
