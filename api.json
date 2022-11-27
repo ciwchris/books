@@ -1,5 +1,34 @@
 [
   {
+    "title": "Angela's Ashes",
+    "authors": [
+      "Frank McCourt"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2005",
+    "description": "A heartfelt account of poverty in Ireland and emigration to America. -- back cover.",
+    "image": "http://books.google.com/books/content?id=5KBImUDYq2QC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 1,
+    "ratingsCount": 19,
+    "categories": [
+      "Children"
+    ],
+    "pageCount": 468,
+    "isbn10": "0007205236",
+    "isbn13": "9780007205233",
+    "googleBooks": {
+      "id": "5KBImUDYq2QC",
+      "preview": "http://books.google.com/books?id=5KBImUDYq2QC&dq=intitle:Angela%27s+Ashes,+Frank+McCourt&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=5KBImUDYq2QC&dq=intitle:Angela%27s+Ashes,+Frank+McCourt&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Angela_s_Ashes.html?hl=&id=5KBImUDYq2QC"
+    },
+    "issueNumber": 32,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-11-27T04:52:57.000Z"
+  },
+  {
     "title": "Redefining Rich",
     "authors": [
       "Shannon Hayes"
