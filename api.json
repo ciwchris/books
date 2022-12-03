@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Lion, the Witch and the Wardrobe Read-Aloud Edition",
+    "authors": [
+      "C. S. Lewis"
+    ],
+    "publisher": "Zondervan",
+    "publishedDate": "2005-11",
+    "description": "Four English school children enter the magic land of Narnia through the back of a wardrobe and assist Aslan, the golden lion, in defeating the White Witch who has cursed the land with eternal winter.",
+    "image": "http://books.google.com/books/content?id=ySmKh01_1p8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 394,
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 216,
+    "isbn10": "0060845244",
+    "isbn13": "9780060845247",
+    "googleBooks": {
+      "id": "ySmKh01_1p8C",
+      "preview": "http://books.google.com/books?id=ySmKh01_1p8C&printsec=frontcover&dq=intitle:The+Lion,+the+Witch+and+the+Wardrobe,+C.+S.+Lewis&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=ySmKh01_1p8C&dq=intitle:The+Lion,+the+Witch+and+the+Wardrobe,+C.+S.+Lewis&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Lion_the_Witch_and_the_Wardrobe_Read.html?hl=&id=ySmKh01_1p8C"
+    },
+    "issueNumber": 33,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-12-03T17:52:27.000Z"
+  },
+  {
     "title": "Angela's Ashes",
     "authors": [
       "Frank McCourt"
