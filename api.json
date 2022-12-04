@@ -1,5 +1,32 @@
 [
   {
+    "title": "Quit",
+    "authors": [
+      "Annie Duke"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2022-10-04",
+    "description": "From the bestselling author of Thinking in Bets comes a toolkit for mastering the skill of quitting to achieve greater success Business leaders, with millions of dollars down the drain, struggle to abandon a new app or product that just isn’t working. Governments, caught in a hopeless conflict, believe that the next tactic will finally be the one that wins the war. And in our own lives, we persist in relationships or careers that no longer serve us. Why? According to Annie Duke, in the face of tough decisions, we’re terrible quitters. And that is significantly holding us back. In Quit, Duke teaches you how to get good at quitting. Drawing on stories from elite athletes like Mount Everest climbers, founders of leading companies like Stewart Butterfield, the CEO of Slack, and top entertainers like Dave Chappelle, Duke explains why quitting is integral to success, as well as strategies for determining when to hold em, and when to fold em, that will save you time, energy, and money. You’ll learn: How the paradox of quitting influences decision making: If you quit on time, you will feel you quit early What forces work against good quitting behavior, such as escalation commitment, desire for certainty, and status quo bias How to think in expected value in order to make better decisions, as well as other best practices, such as increasing flexibility in goal-setting, establishing “quitting contracts,” anticipating optionality, and conducting premortems and backcasts Whether you’re facing a make-or-break business decision or life-altering personal choice, mastering the skill of quitting will help you make the best next move.",
+    "image": "http://books.google.com/books/content?id=o6hXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 337,
+    "isbn10": "0593422996",
+    "isbn13": "9780593422991",
+    "googleBooks": {
+      "id": "o6hXEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=o6hXEAAAQBAJ&printsec=frontcover&dq=intitle:Quit:+The+Power+of+Knowing+When+to+Walk+Away,+Annie+Duke&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=o6hXEAAAQBAJ&dq=intitle:Quit:+The+Power+of+Knowing+When+to+Walk+Away,+Annie+Duke&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Quit.html?hl=&id=o6hXEAAAQBAJ"
+    },
+    "issueNumber": 34,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-12-04T21:59:44.000Z"
+  },
+  {
     "title": "The Lion, the Witch and the Wardrobe Read-Aloud Edition",
     "authors": [
       "C. S. Lewis"
@@ -851,37 +878,5 @@
     "completedAt": "2022-06-01T05:07:37.000Z",
     "timeToComplete": 2103626000,
     "timeToCompleteFormatted": "3 weeks"
-  },
-  {
-    "title": "The God-Shaped Heart",
-    "authors": [
-      "Timothy R. MD Jennings"
-    ],
-    "publisher": "Baker Books",
-    "publishedDate": "2017-09-05",
-    "description": "The key to spiritual and emotional health is to grasp the truth of God's transforming love for us and then let that reality influence our own hearts and relationships. It seems simple, but we are experts at complicating simple things. Instead of living lives characterized by love we find ourselves trapped in cycles of shame, violence, and addiction that steal our joy and keep us from loving others--so much so that, by all indications, Christians are living no differently than anyone else when it comes to abuse rates, use of pornography, alcohol and drug addiction, and more. Christian psychiatrist Dr. Timothy Jennings wants to release us from this prison. With powerful illustrations from case studies and from Scripture, Jennings shows believers who are stuck in addiction, violence, fear, and broken relationships how to experience true freedom through God's transforming love to experience greater health, fulfillment, and well-being.",
-    "image": "http://books.google.com/books/content?id=O8U4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 1,
-    "categories": [
-      "Religion"
-    ],
-    "pageCount": 304,
-    "isbn10": "1493409433",
-    "isbn13": "9781493409433",
-    "googleBooks": {
-      "id": "O8U4DgAAQBAJ",
-      "preview": "http://books.google.com/books?id=O8U4DgAAQBAJ&pg=PT3&dq=intitle:The+Soul+of+Desire:+Discovering+the+Neuroscience+of+Longing,+Beauty,+and+Community+by+Thompson+MD,+Curt&hl=&cd=3&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ"
-    },
-    "issueNumber": 1,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-05-07T20:43:23.000Z",
-    "completedAt": "2022-07-27T14:47:15.000Z",
-    "timeToComplete": 6977032000,
-    "timeToCompleteFormatted": "2 months"
   }
 ]
