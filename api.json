@@ -25,8 +25,11 @@
     },
     "issueNumber": 33,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-12-03T17:52:27.000Z"
+    "state": "completed",
+    "startedAt": "2022-12-03T17:52:27.000Z",
+    "completedAt": "2022-12-04T21:58:52.000Z",
+    "timeToComplete": 101185000,
+    "timeToCompleteFormatted": "1 day"
   },
   {
     "title": "Angela's Ashes",
