@@ -1,5 +1,32 @@
 [
   {
+    "title": "Nineteen Ways of Looking at Consciousness",
+    "authors": [
+      "Patrick House"
+    ],
+    "publisher": "St. Martin's Press",
+    "publishedDate": "2022-10-11",
+    "description": "A concise, elegant, and thought-provoking exploration of the mystery of consciousness and the functioning of the brain. Despite decades of research, remarkable imagery, and insights from a range of scientific and medical disciplines, the human brain remains largely unexplored. Consciousness has eluded explanation. Nineteen Ways of Looking at Consciousness offers a brilliant overview of the state of modern consciousness research in twenty brief, revealing chapters. Neuroscientist and author Patrick House describes complex concepts in accessible terms, weaving brain science, technology, gaming, analogy, and philosophy into a tapestry that illuminates how the brain works and what enables consciousness. This remarkable book fosters a sense of mystery and wonder about the strangeness of the relationship between our inner selves and our environment.",
+    "image": "http://books.google.com/books/content?id=KXpVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 138,
+    "isbn10": "125015118X",
+    "isbn13": "9781250151186",
+    "googleBooks": {
+      "id": "KXpVEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=KXpVEAAAQBAJ&printsec=frontcover&dq=intitle:Nineteen+Ways+of+Looking+at+Consciousness,+Patrick+House&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=KXpVEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=KXpVEAAAQBAJ"
+    },
+    "issueNumber": 35,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-12-07T05:59:10.000Z"
+  },
+  {
     "title": "Quit",
     "authors": [
       "Annie Duke"
@@ -848,38 +875,5 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2022-05-07T21:15:13.000Z"
-  },
-  {
-    "title": "The Molecule of More",
-    "authors": [
-      "Daniel Z. Lieberman",
-      "Michael E. Long"
-    ],
-    "publisher": "BenBella Books",
-    "publishedDate": "2018-08-14",
-    "description": "Why are we obsessed with the things we want only to be bored when we get them? Why is addiction perfectly logical to an addict? Why does love change so quickly from passion to indifference? Why are some people die-hard liberals and others hardcore conservatives? Why are we always hopeful for solutions even in the darkest times—and so good at figuring them out? The answer is found in a single chemical in your brain: dopamine. Dopamine ensured the survival of early man. Thousands of years later, it is the source of our most basic behaviors and cultural ideas—and progress itself. Dopamine is the chemical of desire that always asks for more—more stuff, more stimulation, and more surprises. In pursuit of these things, it is undeterred by emotion, fear, or morality. Dopamine is the source of our every urge, that little bit of biology that makes an ambitious business professional sacrifice everything in pursuit of success, or that drives a satisfied spouse to risk it all for the thrill of someone new. Simply put, it is why we seek and succeed; it is why we discover and prosper. Yet, at the same time, it's why we gamble and squander. From dopamine's point of view, it's not the having that matters. It's getting something—anything—that's new. From this understanding—the difference between possessing something versus anticipating it—we can understand in a revolutionary new way why we behave as we do in love, business, addiction, politics, religion—and we can even predict those behaviors in ourselves and others. In The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and will Determine the Fate of the Human Race, George Washington University professor and psychiatrist Daniel Z. Lieberman, MD, and Georgetown University lecturer Michael E. Long present a potentially life-changing proposal: Much of human life has an unconsidered component that explains an array of behaviors previously thought to be unrelated, including why winners cheat, why geniuses often suffer with mental illness, why nearly all diets fail, and why the brains of liberals and conservatives really are different.",
-    "image": "http://books.google.com/books/content?id=ngFCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 2,
-    "ratingsCount": 1,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 240,
-    "isbn10": "1946885290",
-    "isbn13": "9781946885296",
-    "googleBooks": {
-      "id": "ngFCDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=ngFCDwAAQBAJ&printsec=frontcover&dq=intitle:The+Molecule+of+More:+How+a+Single+Chemical+in+Your+Brain+Drives+Love,+Sex,+and+Creativity--and+Will+Determine+the+Fate+of+the+Human+Race+by+Lieberman,+Daniel+Z.%3B+Long,+Michael+E.&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=ngFCDwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=ngFCDwAAQBAJ"
-    },
-    "issueNumber": 2,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-05-07T20:47:11.000Z",
-    "completedAt": "2022-06-01T05:07:37.000Z",
-    "timeToComplete": 2103626000,
-    "timeToCompleteFormatted": "3 weeks"
   }
 ]
