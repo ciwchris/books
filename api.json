@@ -1,5 +1,34 @@
 [
   {
+    "title": "Sooley",
+    "authors": [
+      "John Grisham"
+    ],
+    "publisher": "National Geographic Books",
+    "publishedDate": "2021-04-27",
+    "description": "#1 NEW YORK TIMES BEST SELLER • John Grisham takes you to a different kind of court in his first basketball novel. Samuel “Sooley” Sooleymon is a raw, young talent with big hoop dreams—and even bigger challenges off the court. “Hard to put down ... the pages turn quickly ... building to a climax that won’t leave readers doubting whether this is a John Grisham novel.” —Associated Press In the summer of his seventeenth year, Sam­uel Sooleymon gets the chance of a lifetime: a trip to the United States with his South Sudanese teammates to play in a showcase basket­ball tournament. He has never been away from home, nor has he ever been on an airplane. The opportunity to be scouted by dozens of college coaches is a dream come true. Samuel is an amazing athlete, with speed, quick­ness, and an astonishing vertical leap. The rest of his game, though, needs work, and the American coaches are less than impressed. During the tournament, Samuel receives dev­astating news from home: A civil war is raging across South Sudan, and rebel troops have ran­sacked his village. His father is dead, his sister is missing, and his mother and two younger brothers are in a refugee camp. Samuel desperately wants to go home, but it’s just not possible. Partly out of sympathy, the coach of North Carolina Central offers him a scholar­ship. Samuel moves to Durham, enrolls in classes, joins the team, and prepares to sit out his freshman season. There is plenty of more mature talent and he isn’t immediately needed. But Samuel has something no other player has: a fierce determination to succeed so he can bring his family to America. He works tirelessly on his game, shooting baskets every morning at dawn by himself in the gym, and soon he’s dominating everyone in practice. With the Central team los­ing and suffering injury after injury, Sooley, as he is nicknamed, is called off the bench. And the legend begins. But how far can Sooley take his team? And will success allow him to save his family? Gripping and moving, Sooley showcases John Grisham’s unparalleled storytelling powers in a whole new light. This is Grisham at the top of his game.",
+    "image": "http://books.google.com/books/content?id=AkKNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 16,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 0,
+    "isbn10": "0385547684",
+    "isbn13": "9780385547680",
+    "googleBooks": {
+      "id": "AkKNEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=AkKNEAAAQBAJ&dq=intitle:Sooley,+John+Grisham&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=AkKNEAAAQBAJ&dq=intitle:Sooley,+John+Grisham&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Sooley.html?hl=&id=AkKNEAAAQBAJ"
+    },
+    "issueNumber": 36,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-12-11T19:22:21.000Z"
+  },
+  {
     "title": "Nineteen Ways of Looking at Consciousness",
     "authors": [
       "Patrick House"
@@ -846,34 +875,5 @@
     "completedAt": "2022-05-30T18:09:10.000Z",
     "timeToComplete": 1975931000,
     "timeToCompleteFormatted": "3 weeks"
-  },
-  {
-    "title": "How Emotions Are Made",
-    "authors": [
-      "Lisa Feldman Barrett"
-    ],
-    "publisher": "HarperCollins",
-    "publishedDate": "2017-03-07",
-    "description": "Preeminent psychologist Lisa Barrett lays out how the brain constructs emotions in a way that could revolutionize psychology, health care, the legal system, and our understanding of the human mind. “Fascinating . . . A thought-provoking journey into emotion science.”—The Wall Street Journal “A singular book, remarkable for the freshness of its ideas and the boldness and clarity with which they are presented.”—Scientific American “A brilliant and original book on the science of emotion, by the deepest thinker about this topic since Darwin.”—Daniel Gilbert, best-selling author of Stumbling on Happiness The science of emotion is in the midst of a revolution on par with the discovery of relativity in physics and natural selection in biology. Leading the charge is psychologist and neuroscientist Lisa Feldman Barrett, whose research overturns the long-standing belief that emotions are automatic, universal, and hardwired in different brain regions. Instead, Barrett shows, we construct each instance of emotion through a unique interplay of brain, body, and culture. A lucid report from the cutting edge of emotion science, How Emotions Are Made reveals the profound real-world consequences of this breakthrough for everything from neuroscience and medicine to the legal system and even national security, laying bare the immense implications of our latest and most intimate scientific revolution.",
-    "image": "http://books.google.com/books/content?id=hN8MBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 5,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 448,
-    "isbn10": "0544129962",
-    "isbn13": "9780544129962",
-    "googleBooks": {
-      "id": "hN8MBgAAQBAJ",
-      "preview": "http://books.google.com/books?id=hN8MBgAAQBAJ&printsec=frontcover&dq=intitle:How+Emotions+Are+Made:+The+Secret+Life+of+the+Brain++Barrett,+Lisa+Feldman&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ"
-    },
-    "issueNumber": 4,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-07T21:15:13.000Z"
   }
 ]
