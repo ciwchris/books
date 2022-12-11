@@ -25,8 +25,11 @@
     },
     "issueNumber": 36,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-12-11T19:22:21.000Z"
+    "state": "completed",
+    "startedAt": "2022-12-11T19:22:21.000Z",
+    "completedAt": "2022-12-11T19:59:47.000Z",
+    "timeToComplete": 2246000,
+    "timeToCompleteFormatted": "37 minutes"
   },
   {
     "title": "Nineteen Ways of Looking at Consciousness",
