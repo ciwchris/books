@@ -1,5 +1,34 @@
 [
   {
+    "title": "Letters to a Young Poet",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "publisher": "Modern Library",
+    "publishedDate": "2001-12-04",
+    "description": "Rilke’s Letters to a Young Poet are arguably the most famous and beloved letters of the twentieth century. Written when the poet was himself still a young man, with most of his greatest work before him, they were addressed to a student who had sent Rilke some of his own writing, asking for advice on becoming a writer. The two never met, but over a period of several years Rilke wrote him these ten letters, which have been cherished by hundreds of thousands of readers for what Stephen Mitchell calls in his Foreword the \"vibrant and deeply felt experience of life\" that informs them. Eloquent and personal, Rilke’s meditations on the creative process, the nature of love, the wisdom of children, and the importance of solitude offer a wealth of spiritual and practical guidance for anyone. At the same time, this collection, in Stephen Mitchell’s definitive translation, reveals the thoughts and feelings of one of the greatest poets and most distinctive sensibilities of the twentieth century.",
+    "image": "http://books.google.com/books/content?id=h5HODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 10,
+    "categories": [
+      "Literary Collections"
+    ],
+    "pageCount": 134,
+    "isbn10": "0679642323",
+    "isbn13": "9780679642329",
+    "googleBooks": {
+      "id": "h5HODwAAQBAJ",
+      "preview": "http://books.google.com/books?id=h5HODwAAQBAJ&printsec=frontcover&dq=intitle:Letters+to+a+Young+Poet,+Rainer+Maria+Rilke&hl=&cd=4&source=gbs_api",
+      "info": "http://books.google.com/books?id=h5HODwAAQBAJ&dq=intitle:Letters+to+a+Young+Poet,+Rainer+Maria+Rilke&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Letters_to_a_Young_Poet.html?hl=&id=h5HODwAAQBAJ"
+    },
+    "issueNumber": 37,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-12-17T05:43:49.000Z"
+  },
+  {
     "title": "Sooley",
     "authors": [
       "John Grisham"
@@ -848,35 +877,5 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2022-05-07T21:18:07.000Z"
-  },
-  {
-    "title": "Projections",
-    "authors": [
-      "Karl Deisseroth"
-    ],
-    "publisher": "Random House",
-    "publishedDate": "2021-06-15",
-    "description": "A groundbreaking tour of the human mind that illuminates the biological nature of our inner worlds and emotions, through gripping, moving—and, at times, harrowing—clinical stories “[A] scintillating and moving analysis of the human brain and emotions.”—Nature “Beautifully connects the inner feelings within all human beings to deep insights from modern psychiatry and neuroscience.”—Robert Lefkowitz, Nobel Laureate Karl Deisseroth has spent his life pursuing truths about the human mind, both as a renowned clinical psychiatrist and as a researcher creating and developing the revolutionary field of optogenetics, which uses light to help decipher the brain’s workings. In Projections, he combines his knowledge of the brain’s inner circuitry with a deep empathy for his patients to examine what mental illness reveals about the human mind and the origin of human feelings—how the broken can illuminate the unbroken. Through cutting-edge research and gripping case studies from Deisseroth’s own patients, Projections tells a larger story about the material origins of human emotion, bridging the gap between the ancient circuits of our brain and the poignant moments of suffering in our daily lives. The stories of Deisseroth’s patients are rich with humanity and shine an unprecedented light on the self—and the ways in which it can break down. A young woman with an eating disorder reveals how the mind can rebel against the brain’s most primitive drives of hunger and thirst; an older man, smothered into silence by depression and dementia, shows how humans evolved to feel not only joy but also its absence; and a lonely Uighur woman far from her homeland teaches both the importance—and challenges—of deep social bonds. Illuminating, literary, and essential, Projections is a revelatory, immensely powerful work. It transforms our understanding not only of the brain but of ourselves as social beings—giving vivid illustrations through science and resonant human stories of our yearning for connection and meaning.",
-    "image": "http://books.google.com/books/content?id=4AEvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 256,
-    "isbn10": "1984853694",
-    "isbn13": "9781984853691",
-    "googleBooks": {
-      "id": "4AEvEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=4AEvEAAAQBAJ&printsec=frontcover&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=4AEvEAAAQBAJ&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Projections.html?hl=&id=4AEvEAAAQBAJ"
-    },
-    "issueNumber": 5,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-05-07T21:16:59.000Z",
-    "completedAt": "2022-05-30T18:09:10.000Z",
-    "timeToComplete": 1975931000,
-    "timeToCompleteFormatted": "3 weeks"
   }
 ]
