@@ -11,12 +11,13 @@ This repository is used to track the books I'm reading these days, powered by [B
 <!--start:bookshelf-action-->
 ### ⌛ Currently reading (2)
 
-[![Book cover of Letters to a Young Poet](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dh5HODwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/37 "Letters to a Young Poet by Rainer Maria Rilke")
+[![Book cover of The Body Keeps the Score](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFMPdAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/39 "The Body Keeps the Score by Bessel van der Kolk")
 [![Book cover of Invisible Man](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dd_a3QgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/8 "Invisible Man by Ralph Ellison")
 
 ### ✅ Completed (11)
 
 [![Book cover of 11 Lessons in Self-leadership](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D39KgdL6Zj6wC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/38 "11 Lessons in Self-leadership by Larry Holman completed in 6 days on December 2022")
+[![Book cover of Letters to a Young Poet](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dh5HODwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/37 "Letters to a Young Poet by Rainer Maria Rilke completed in 1 week on December 2022")
 [![Book cover of Sooley](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DAkKNEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/36 "Sooley by John Grisham completed in 37 minutes on December 2022")
 [![Book cover of The Lion, the Witch and the Wardrobe Read-Aloud Edition](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DySmKh01_1p8C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/33 "The Lion, the Witch and the Wardrobe Read-Aloud Edition by C. S. Lewis completed in 1 day on December 2022")
 [![Book cover of Angela's Ashes](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5KBImUDYq2QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/32 "Angela's Ashes by Frank McCourt completed in 1 week on December 2022")
@@ -26,7 +27,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Obstacle Is the Way](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DjWqJDQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/12 "The Obstacle Is the Way by Ryan Holiday completed in 6 days on August 2022")
 [![Book cover of Curious](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqaAVBQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/11 "Curious by Ian Leslie completed in 1 week on August 2022")
 [![Book cover of Bittersweet](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dk5k7EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/10 "Bittersweet by Susan Cain completed in 3 weeks on August 2022")
-[![Book cover of Screwtape Letters, The - UK Gift Edition](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D339CkgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/7 "Screwtape Letters, The - UK Gift Edition by Clive Staples Lewis completed in 1 month on July 2022")
 
 ### ⏭️ Want to Read (17)
 

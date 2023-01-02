@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Body Keeps the Score",
+    "authors": [
+      "Bessel van der Kolk"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2014-09-25",
+    "description": "The effects of trauma can be devastating for sufferers, their families and future generations. Here one of the world's experts on traumatic stress offers a bold new paradigm for treatment, moving away from standard talking and drug therapies and towards an alternative approach that heals mind, brain and body. 'Van der Kolk draws on thirty years of experience to argue powerfully that trauma is one of the West's most urgent public health issues ... Packed with science and human stories' New Scientist 'Breathtaking in its scope and breadth, a seminal work by one of the preeminent pioneers in trauma research and treatment' Peter A. Levine, author of In An Unspoken Voice 'Dr. van der Kolk's masterpiece combines the boundless curiosity of the scientist, the erudition of the scholar, and the passion of the truth teller' Judith Herman, author of Trauma and Recovery",
+    "image": "http://books.google.com/books/content?id=FMPdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 464,
+    "isbn10": "0141978627",
+    "isbn13": "9780141978628",
+    "googleBooks": {
+      "id": "FMPdAgAAQBAJ",
+      "preview": "http://books.google.com/books?id=FMPdAgAAQBAJ&dq=intitle:The+Body+Keeps+the+Score:+Brain,+Mind,+and+Body+in+the+Healing+of+Trauma,+Bessel+van+der+Kolk&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=FMPdAgAAQBAJ&dq=intitle:The+Body+Keeps+the+Score:+Brain,+Mind,+and+Body+in+the+Healing+of+Trauma,+Bessel+van+der+Kolk&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Body_Keeps_the_Score.html?hl=&id=FMPdAgAAQBAJ"
+    },
+    "issueNumber": 39,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-01-02T03:04:37.000Z"
+  },
+  {
     "title": "11 Lessons in Self-leadership",
     "authors": [
       "Larry Holman"
@@ -53,8 +82,11 @@
     },
     "issueNumber": 37,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-12-17T05:43:49.000Z"
+    "state": "completed",
+    "startedAt": "2022-12-17T05:43:49.000Z",
+    "completedAt": "2022-12-27T01:38:30.000Z",
+    "timeToComplete": 849281000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Sooley",
@@ -843,37 +875,5 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2022-06-01T05:13:01.000Z"
-  },
-  {
-    "title": "Screwtape Letters, The - UK Gift Edition",
-    "authors": [
-      "Clive Staples Lewis"
-    ],
-    "publisher": "HarperCollins",
-    "publishedDate": "2001-11-01",
-    "description": "Sly and ironic portrayal of human life from the vantage point of Screwtape, a highly placed assistant to \"Our Father Below\". Gives us the correspondence of the worldy-wise old devil to his nephew Wormwood, a novice demon in charge of securing the damnation of an ordinary young man.",
-    "image": "http://books.google.com/books/content?id=339CkgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 133,
-    "categories": [
-      "Religion"
-    ],
-    "pageCount": 209,
-    "isbn10": "0007131879",
-    "isbn13": "9780007131877",
-    "googleBooks": {
-      "id": "339CkgEACAAJ",
-      "preview": "http://books.google.com/books?id=339CkgEACAAJ&dq=intitle:The+Screwtape+Letters(Lewis+Signature+Classics)++Lewis,+Clive+Staples&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=339CkgEACAAJ&dq=intitle:The+Screwtape+Letters(Lewis+Signature+Classics)++Lewis,+Clive+Staples&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Screwtape_Letters_The_UK_Gift_Edition.html?hl=&id=339CkgEACAAJ"
-    },
-    "issueNumber": 7,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-06-01T05:11:14.000Z",
-    "completedAt": "2022-07-27T14:46:59.000Z",
-    "timeToComplete": 4872945000,
-    "timeToCompleteFormatted": "1 month"
   }
 ]
