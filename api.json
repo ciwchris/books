@@ -204,8 +204,11 @@
     },
     "issueNumber": 34,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-12-04T21:59:44.000Z"
+    "state": "completed",
+    "startedAt": "2022-12-04T21:59:44.000Z",
+    "completedAt": "2023-01-18T18:19:37.000Z",
+    "timeToComplete": 3874793000,
+    "timeToCompleteFormatted": "1 month"
   },
   {
     "title": "The Lion, the Witch and the Wardrobe Read-Aloud Edition",
