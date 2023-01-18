@@ -1,5 +1,35 @@
 [
   {
+    "title": "Algorithms to Live By",
+    "authors": [
+      "Brian Christian",
+      "Tom Griffiths"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2016-04-19",
+    "description": "'Algorithms to Live By' looks at the simple, precise algorithms that computers use to solve the complex 'human' problems that we face, and discovers what they can tell us about the nature and origin of the mind.",
+    "image": "http://books.google.com/books/content?id=Ydn_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 17,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 366,
+    "isbn10": "1627790365",
+    "isbn13": "9781627790369",
+    "googleBooks": {
+      "id": "Ydn_CwAAQBAJ",
+      "preview": "http://books.google.com/books?id=Ydn_CwAAQBAJ&printsec=frontcover&dq=intitle:Algorithms+to+Live+By:+The+Computer+Science+of+Human+Decisions+Brian+Christian+,+Tom+Griffiths&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Ydn_CwAAQBAJ&dq=intitle:Algorithms+to+Live+By:+The+Computer+Science+of+Human+Decisions+Brian+Christian+,+Tom+Griffiths&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Algorithms_to_Live_By.html?hl=&id=Ydn_CwAAQBAJ"
+    },
+    "issueNumber": 40,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-18T03:35:02.000Z"
+  },
+  {
     "title": "The Body Keeps the Score",
     "authors": [
       "Bessel van der Kolk"
@@ -174,7 +204,7 @@
     },
     "issueNumber": 34,
     "progressPercent": 0,
-    "state": "want-to-read",
+    "state": "reading",
     "startedAt": "2022-12-04T21:59:44.000Z"
   },
   {
@@ -849,34 +879,5 @@
     "completedAt": "2022-08-20T16:23:37.000Z",
     "timeToComplete": 1989466000,
     "timeToCompleteFormatted": "3 weeks"
-  },
-  {
-    "title": "Invisible Man",
-    "authors": [
-      "Ralph Ellison"
-    ],
-    "publisher": "Penguin Modern Classics",
-    "publishedDate": "2001-01-01",
-    "description": "Ralph Ellison's impassioned first novel, winner of the prestigious American National Book Award, tells the story of an invisible man simply because people refuse to see me. Yet his powerfully depicted adventures go far beyond the story of one man.",
-    "image": "http://books.google.com/books/content?id=d_a3QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 94,
-    "categories": [
-      "African Americans"
-    ],
-    "pageCount": 581,
-    "isbn10": "0141184426",
-    "isbn13": "9780141184425",
-    "googleBooks": {
-      "id": "d_a3QgAACAAJ",
-      "preview": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Invisible_Man.html?hl=&id=d_a3QgAACAAJ"
-    },
-    "issueNumber": 8,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-06-01T05:13:01.000Z"
   }
 ]
