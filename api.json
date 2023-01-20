@@ -1,5 +1,34 @@
 [
   {
+    "title": "Four Thousand Weeks",
+    "authors": [
+      "Oliver Burkeman"
+    ],
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedDate": "2021-07-13",
+    "description": "Time is our biggest worry: there is too little of it. The award-winning, renowned Guardian columnist Oliver Burkeman offers a lively, entertaining philosophical guide to time and time management, setting aside superficial efficiency solutions in favor of reckoning with and finding joy in the finitude of human life The average human lifespan is absurdly, insultingly brief. Assuming you live to be eighty, you have just over four thousand weeks. Nobody needs telling there isn’t enough time. We’re obsessed with our lengthening to-do lists, our overfilled inboxes, work-life balance, and the ceaseless struggle against distraction; and we’re deluged with advice on becoming more productive and efficient, and “life hacks” to optimize our days. But such techniques often end up making things worse. The sense of anxious hurry grows more intense, and still the most meaningful parts of life seem to lie just beyond the horizon. Still, we rarely make the connection between our daily struggles with time and the ultimate time management problem: the challenge of how best to use our four thousand weeks. Drawing on the insights of both ancient and contemporary philosophers, psychologists, and spiritual teachers, Oliver Burkeman delivers an entertaining, humorous, practical, and ultimately profound guide to time and time management. Rejecting the futile modern obsession with “getting everything done,” Four Thousand Weeks introduces readers to tools for constructing a meaningful life, showing how many of the unhelpful ways we’ve come to think about time aren’t inescapable, unchanging truths, but choices we’ve made as individuals and as a society—and that we could do things differently.",
+    "image": "http://books.google.com/books/content?id=5my-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 9,
+    "categories": [
+      "Self-Help"
+    ],
+    "pageCount": 224,
+    "isbn10": "0374159122",
+    "isbn13": "9780374159122",
+    "googleBooks": {
+      "id": "5my-zQEACAAJ",
+      "preview": "http://books.google.com/books?id=5my-zQEACAAJ&dq=intitle:Four+Thousand+Weeks+Time+Management+for+Mortals,+Oliver+Burkeman&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=5my-zQEACAAJ&dq=intitle:Four+Thousand+Weeks+Time+Management+for+Mortals,+Oliver+Burkeman&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=5my-zQEACAAJ"
+    },
+    "issueNumber": 41,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-01-20T19:19:42.000Z"
+  },
+  {
     "title": "Algorithms to Live By",
     "authors": [
       "Brian Christian",
@@ -852,35 +881,5 @@
     "completedAt": "2022-08-28T23:16:44.000Z",
     "timeToComplete": 715867000,
     "timeToCompleteFormatted": "1 week"
-  },
-  {
-    "title": "Bittersweet",
-    "authors": [
-      "Susan Cain"
-    ],
-    "publisher": "Crown",
-    "publishedDate": "2022-04-05",
-    "description": "#1 NEW YORK TIMES BESTSELLER • Sadness is your superpower. In her new masterpiece, the author of the bestselling phenomenon Quiet explores the power of the bittersweet personality, revealing a misunderstood side of mental health and creativity while offering a roadmap to facing grief in order to live life to the fullest. “Bittersweet grabs you by the heart and doesn’t let go.”—BRENÉ BROWN, author of Atlas of the Heart “Susan Cain has described and validated my existence once again!”—GLENNON DOYLE, author of Untamed “The perfect cure for toxic positivity.”—ADAM GRANT, author of Think Again ONE OF THE MOST ANTICIPATED BOOKS OF 2022—Oprah Daily, BookPage Bittersweetness is a tendency to states of long­ing, poignancy, and sorrow; an acute aware­ness of passing time; and a curiously piercing joy at the beauty of the world. It recognizes that light and dark, birth and death—bitter and sweet—are forever paired. If you’ve ever wondered why you like sad music . . . If you find comfort or inspiration in a rainy day . . . If you react intensely to music, art, nature, and beauty . . . Then you probably identify with the bitter­sweet state of mind. With Quiet, Susan Cain urged our society to cultivate space for the undervalued, indispensable introverts among us, thereby revealing an un­tapped power hidden in plain sight. Now she em­ploys the same mix of research, storytelling, and memoir to explore why we experience sorrow and longing, and how embracing the bittersweetness at the heart of life is the true path to creativity, con­nection, and transcendence. Cain shows how a bittersweet state of mind is the quiet force that helps us transcend our personal and collective pain, whether from a death or breakup, addiction or illness. If we don’t acknowledge our own heartache, she says, we can end up inflicting it on others via abuse, domination, or neglect. But if we realize that all humans know—or will know—loss and suffering, we can turn toward one another. At a time of profound discord and personal anxiety, Bittersweet brings us together in deep and unexpected ways.",
-    "image": "http://books.google.com/books/content?id=k5k7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 352,
-    "isbn10": "0451499808",
-    "isbn13": "9780451499806",
-    "googleBooks": {
-      "id": "k5k7EAAAQBAJ",
-      "preview": "http://books.google.com/books?id=k5k7EAAAQBAJ&printsec=frontcover&dq=intitle:Bittersweet:+How+Sorrow+and+Longing+Make+Us+Whole,+Susan+Cain&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=k5k7EAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=k5k7EAAAQBAJ"
-    },
-    "issueNumber": 10,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-07-28T15:45:51.000Z",
-    "completedAt": "2022-08-20T16:23:37.000Z",
-    "timeToComplete": 1989466000,
-    "timeToCompleteFormatted": "3 weeks"
   }
 ]

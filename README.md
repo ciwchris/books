@@ -9,7 +9,11 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ✅ Completed (13)
+### ⌛ Currently reading (1)
+
+[![Book cover of Four Thousand Weeks](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5my-zQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/41 "Four Thousand Weeks by Oliver Burkeman")
+
+### ✅ Completed (12)
 
 [![Book cover of The Body Keeps the Score](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFMPdAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/39 "The Body Keeps the Score by Bessel van der Kolk completed in 1 week on January 2023")
 [![Book cover of 11 Lessons in Self-leadership](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D39KgdL6Zj6wC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/38 "11 Lessons in Self-leadership by Larry Holman completed in 6 days on December 2022")
@@ -23,7 +27,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of Drive](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpYc-DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/24 "Drive by Daniel H. Pink completed in 1 week on September 2022")
 [![Book cover of The Obstacle Is the Way](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DjWqJDQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/12 "The Obstacle Is the Way by Ryan Holiday completed in 6 days on August 2022")
 [![Book cover of Curious](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqaAVBQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/11 "Curious by Ian Leslie completed in 1 week on August 2022")
-[![Book cover of Bittersweet](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dk5k7EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/10 "Bittersweet by Susan Cain completed in 3 weeks on August 2022")
 
 ### ⏭️ Want to Read (17)
 
