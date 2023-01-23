@@ -1,5 +1,26 @@
 [
   {
+    "title": "Seeing with Fresh Eyes",
+    "authors": [
+      "Edward Tufte"
+    ],
+    "publishedDate": "2020-08-17",
+    "image": "https://tse2.mm.bing.net/th?q=Seeing%20with%20Fresh%20Eyes%20by%20Edward%20Tufte&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "isbn10": "0961392193",
+    "isbn13": "9780961392192",
+    "googleBooks": {
+      "id": "qPuuzQEACAAJ",
+      "preview": "http://books.google.com/books?id=qPuuzQEACAAJ&dq=intitle:Seeing+With+Fresh+Eyes:+Meaning,+Space,+Data,+Truth,+Edward+Tufte&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=qPuuzQEACAAJ&dq=intitle:Seeing+With+Fresh+Eyes:+Meaning,+Space,+Data,+Truth,+Edward+Tufte&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Seeing_with_Fresh_Eyes.html?hl=&id=qPuuzQEACAAJ"
+    },
+    "issueNumber": 42,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-23T18:39:23.000Z"
+  },
+  {
     "title": "Four Thousand Weeks",
     "authors": [
       "Oliver Burkeman"
@@ -849,37 +870,5 @@
     "completedAt": "2022-08-28T23:16:32.000Z",
     "timeToComplete": 600833000,
     "timeToCompleteFormatted": "6 days"
-  },
-  {
-    "title": "Curious",
-    "authors": [
-      "Ian Leslie"
-    ],
-    "publisher": "Basic Books (AZ)",
-    "publishedDate": "2014-08-26",
-    "description": "“I have no special talents,” said Albert Einstein. “I am only passionately curious.” Everyone is born curious. But only some retain the habits of exploring, learning, and discovering as they grow older. Those who do so tend to be smarter, more creative, and more successful. So why are many of us allowing our curiosity to wane? In Curious, Ian Leslie makes a passionate case for the cultivation of our “desire to know.” Just when the rewards of curiosity have never been higher, it is misunderstood, undervalued, and increasingly monopolized by a cognitive elite. A “curiosity divide” is opening up. This divide is being exacerbated by the way we use the Internet. Thanks to smartphones and tools such as Google and Wikipedia, we can answer almost any question instantly. But does this easy access to information guarantee the growth of curiosity? No—quite the opposite. Leslie argues that true curiosity the sustained quest for understanding that begets insight and innovation—is in fact at risk in a wired world. Drawing on fascinating research from psychology, economics, education, and business, Curious looks at what feeds curiosity and what starves it, and finds surprising answers. Curiosity isn’t, as we’re encouraged to think, a gift that keeps on giving. It is a mental muscle that atrophies without regular exercise and a habit that parents, schools, and workplaces need to nurture. Filled with inspiring stories, case studies, and practical advice, Curious will change the way you think about your own mental habits, and those of your family, friends, and colleagues.",
-    "image": "http://books.google.com/books/content?id=qaAVBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 2,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 240,
-    "isbn10": "0465079962",
-    "isbn13": "9780465079964",
-    "googleBooks": {
-      "id": "qaAVBQAAQBAJ",
-      "preview": "http://books.google.com/books?id=qaAVBQAAQBAJ&printsec=frontcover&dq=intitle:Curious:+The+desire+to+know+and+why+your+future+depends+on+it,+Ian+Leslie&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=qaAVBQAAQBAJ&dq=intitle:Curious:+The+desire+to+know+and+why+your+future+depends+on+it,+Ian+Leslie&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Curious.html?hl=&id=qaAVBQAAQBAJ"
-    },
-    "issueNumber": 11,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-08-20T16:25:37.000Z",
-    "completedAt": "2022-08-28T23:16:44.000Z",
-    "timeToComplete": 715867000,
-    "timeToCompleteFormatted": "1 week"
   }
 ]

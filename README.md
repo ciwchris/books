@@ -5,7 +5,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 
 [![Book cover of Four Thousand Weeks](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5my-zQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/41 "Four Thousand Weeks by Oliver Burkeman")
 
-### ✅ Completed (12)
+### ✅ Completed (11)
 
 [![Book cover of The Body Keeps the Score](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFMPdAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/39 "The Body Keeps the Score by Bessel van der Kolk completed in 1 week on January 2023")
 [![Book cover of 11 Lessons in Self-leadership](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D39KgdL6Zj6wC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/38 "11 Lessons in Self-leadership by Larry Holman completed in 6 days on December 2022")
@@ -18,10 +18,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Lincoln Highway](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DB2tBEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/25 "The Lincoln Highway by Amor Towles completed in 2 weeks on September 2022")
 [![Book cover of Drive](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpYc-DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/24 "Drive by Daniel H. Pink completed in 1 week on September 2022")
 [![Book cover of The Obstacle Is the Way](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DjWqJDQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/12 "The Obstacle Is the Way by Ryan Holiday completed in 6 days on August 2022")
-[![Book cover of Curious](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqaAVBQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/11 "Curious by Ian Leslie completed in 1 week on August 2022")
 
-### ⏭️ Want to Read (17)
+### ⏭️ Want to Read (18)
 
+[![Book cover of Seeing with Fresh Eyes](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DSeeing%2520with%2520Fresh%2520Eyes%2520by%2520Edward%2520Tufte%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/42 "Seeing with Fresh Eyes by Edward Tufte completed in undefined on Invalid Date")
 [![Book cover of Algorithms to Live By](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYdn_CwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/40 "Algorithms to Live By by Brian Christian, Tom Griffiths completed in undefined on Invalid Date")
 [![Book cover of Nineteen Ways of Looking at Consciousness](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKXpVEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/35 "Nineteen Ways of Looking at Consciousness by Patrick House completed in undefined on Invalid Date")
 [![Book cover of Redefining Rich](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFu9KEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/31 "Redefining Rich by Shannon Hayes completed in undefined on Invalid Date")
