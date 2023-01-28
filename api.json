@@ -46,8 +46,11 @@
     },
     "issueNumber": 41,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-01-20T19:19:42.000Z"
+    "state": "completed",
+    "startedAt": "2023-01-20T19:19:42.000Z",
+    "completedAt": "2023-01-28T17:23:50.000Z",
+    "timeToComplete": 684248000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Algorithms to Live By",
