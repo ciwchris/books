@@ -1,5 +1,34 @@
 [
   {
+    "title": "Tread of Angels",
+    "authors": [
+      "Rebecca Roanhorse"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2022-11-15",
+    "description": "Celeste, a card sharp with a need for justice, takes on the role of advocatus diaboli, to defend her sister Mariel, accused of murdering a Virtue, a member of the ruling class of this mining town, in a new world of dark fantasy from the New York Times bestselling author of Black Sun, Rebecca Roanhorse. The year is 1883 and the mining town of Goetia is booming as prospectors from near and far come to mine the powerful new element Divinity from the high mountains of Colorado with the help of the pariahs of society known as the Fallen. The Fallen are the descendants of demonkind living amongst the Virtues, the winners in an ancient war, with the descendants of both sides choosing to live alongside Abaddon’s mountain in this tale of the mythological West from the bestselling mastermind Rebecca Roanhorse.",
+    "image": "http://books.google.com/books/content?id=GRpdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 208,
+    "isbn10": "1982166207",
+    "isbn13": "9781982166205",
+    "googleBooks": {
+      "id": "GRpdEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=GRpdEAAAQBAJ&printsec=frontcover&dq=intitle:Tread+of+Angels,+Rebecca+Roanhorse&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=GRpdEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=GRpdEAAAQBAJ"
+    },
+    "issueNumber": 43,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-03-14T04:45:18.000Z"
+  },
+  {
     "title": "Seeing with Fresh Eyes",
     "authors": [
       "Edward Tufte"
@@ -841,37 +870,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:16:59.000Z"
-  },
-  {
-    "title": "The Obstacle Is the Way",
-    "authors": [
-      "Ryan Holiday"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2014-05-01",
-    "description": "#1 Wall Street Journal Bestseller The Obstacle is the Way has become a cult classic, beloved by men and women around the world who apply its wisdom to become more successful at whatever they do. Its many fans include a former governor and movie star (Arnold Schwarzenegger), a hip hop icon (LL Cool J), an Irish tennis pro (James McGee), an NBC sportscaster (Michele Tafoya), and the coaches and players of winning teams like the New England Patriots, Seattle Seahawks, Chicago Cubs, and University of Texas men’s basketball team. The book draws its inspiration from stoicism, the ancient Greek philosophy of enduring pain or adversity with perseverance and resilience. Stoics focus on the things they can control, let go of everything else, and turn every new obstacle into an opportunity to get better, stronger, tougher. As Marcus Aurelius put it nearly 2000 years ago: “The impediment to action advances action. What stands in the way becomes the way.” Ryan Holiday shows us how some of the most successful people in history—from John D. Rockefeller to Amelia Earhart to Ulysses S. Grant to Steve Jobs—have applied stoicism to overcome difficult or even impossible situations. Their embrace of these principles ultimately mattered more than their natural intelligence, talents, or luck. If you’re feeling frustrated, demoralized, or stuck in a rut, this book can help you turn your problems into your biggest advantages. And along the way it will inspire you with dozens of true stories of the greats from every age and era.",
-    "image": "http://books.google.com/books/content?id=jWqJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 426,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 224,
-    "isbn10": "1591846358",
-    "isbn13": "9781591846352",
-    "googleBooks": {
-      "id": "jWqJDQAAQBAJ",
-      "preview": "http://books.google.com/books?id=jWqJDQAAQBAJ&pg=PA195&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&cd=10&source=gbs_api",
-      "info": "http://books.google.com/books?id=jWqJDQAAQBAJ&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Obstacle_Is_the_Way.html?hl=&id=jWqJDQAAQBAJ"
-    },
-    "issueNumber": 12,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-08-22T00:22:39.000Z",
-    "completedAt": "2022-08-28T23:16:32.000Z",
-    "timeToComplete": 600833000,
-    "timeToCompleteFormatted": "6 days"
   }
 ]
