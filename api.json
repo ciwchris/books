@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Sacred Depths of Nature",
+    "authors": [
+      "Ursula Goodenough"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2023",
+    "description": "\"When people talk about religion, most soon mention the major religious traditions of our times, but then, thinking further, most mention as well the religions of Indigenous peoples and of such vanished civilizations as ancient Greece and Egypt and Persia. That is, we have come to understand that there are-and have been-many different religions; anthropologists estimate the total in the thousands. They also estimate that there have been thousands of human cultures, which is to say that the making of a culture and the making of its religion go together: each religion is embedded in its cultural history. True, certain religions have attempted, and variously succeeded, in crossing cultural boundaries to \"convert the heathens,\" but the invaded cultures usually put their unmistakable stamp on what they import, as evinced by the pulsating percussive Catholic masses sung in Africa. In the end, each of these religions addresses two fundamental human concerns: How Things Are and Which Things Matter. How Things Are is articulated as a Cosmology or Cosmos: How the natural world came to be, how humans came to be, what happens after we die, the origins of evil and tragedy and natural disaster and love. Which Things Matter becomes codified as a Morality or Ethos: the Judaic Ten Commandments, the Christian Sermon on the Mount, the Five Pillars of Islam, the Buddhist Vinaya, the Confucian Five Relations, and the understandings inherent in numerous Indigenous traditions. The role of a religion is to integrate the Cosmology and the Morality, to render the cosmological narrative so rich and compelling that it elicits our allegiance and our commitment to its attendant moral understandings. As a culture evolves, a distinctive Cosmos and Ethos appears in its co-evolving religion. For billions of us, back to the early humans, the stories, ceremonies and art associated with our religions-of-origin have been central to our lives. I stand in awe of these religions. I have no need to take on their contradictions or immiscibility, any more than I would quarrel with the fact that Scottish bagpipe ceremonies coexist with Japanese tea ceremonies. And indeed, the failure of Soviet Marxism to obliterate Russian Orthodoxy, and of Maoism to obliterate Buddhism, Confucianism, or Daoism, and of Christianity to obliterate Indigenous understandings, reminds us that projects designed to overthrow religious traditions face strong headwinds\"--",
+    "image": "http://books.google.com/books/content?id=2AamEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 4,
+    "categories": [
+      "Biology"
+    ],
+    "pageCount": 289,
+    "isbn10": "0197662064",
+    "isbn13": "9780197662069",
+    "googleBooks": {
+      "id": "2AamEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=2AamEAAAQBAJ&pg=PA238&dq=intitle:The+Matter+With+Things:+Our+Brains,+Our+Delusions+and+the+Unmaking+of+the+World,+Iain+McGilchrist&hl=&cd=5&source=gbs_api",
+      "info": "http://books.google.com/books?id=2AamEAAAQBAJ&dq=intitle:The+Matter+With+Things:+Our+Brains,+Our+Delusions+and+the+Unmaking+of+the+World,+Iain+McGilchrist&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Sacred_Depths_of_Nature.html?hl=&id=2AamEAAAQBAJ"
+    },
+    "issueNumber": 45,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-03-18T17:02:38.000Z"
+  },
+  {
     "title": "Hello Sleep",
     "authors": [
       "Jade Wu"
@@ -844,34 +873,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:24:43.000Z"
-  },
-  {
-    "title": "Being You",
-    "authors": [
-      "Anil Seth"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2021-10-19",
-    "description": "INTERNATIONAL BESTSELLER A Best Book of 2021—Bloomberg Businessweek; A Best Science Book of 2021—The Guardian; A Best Science Book of 2021—Financial Times; A Best Philosophy Book of 2021—Five Books; A Best Book of 2021—The Economist Anil Seth's quest to understand the biological basis of conscious experience is one of the most exciting contributions to twenty-first-century science. What does it mean to “be you”—that is, to have a specific, conscious experience of the world around you and yourself within it? There may be no more elusive or fascinating question. Historically, humanity has considered the nature of consciousness to be a primarily spiritual or philosophical inquiry, but scientific research is now mapping out compelling biological theories and explanations for consciousness and selfhood. Now, internationally renowned neuroscience professor, researcher, and author Anil Seth is offers a window into our consciousness in BEING YOU: A New Science of Consciousness. Anil Seth is both a leading expert on the neuroscience of consciousness and one of most prominent spokespeople for this relatively new field of science. His radical argument is that we do not perceive the world as it objectively is, but rather that we are prediction machines, constantly inventing our world and correcting our mistakes by the microsecond, and that we can now observe the biological mechanisms in the brain that accomplish this process of consciousness. Seth has been interviewed for documentaries aired on the BBC, Netflix, and Amazon and podcasts by Sam Harris, Russell Brand, and Chris Anderson, and his 2017 TED Talk on the topic has been viewed over 11 million times, a testament to his uncanny ability to make unimaginably complex science accessible and entertaining.",
-    "image": "http://books.google.com/books/content?id=arVCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 2.5,
-    "ratingsCount": 2,
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 352,
-    "isbn10": "1524742872",
-    "isbn13": "9781524742874",
-    "googleBooks": {
-      "id": "arVCEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=arVCEAAAQBAJ&printsec=frontcover&dq=intitle:Being+You:+A+New+Science+of+Consciousness,+Anil+Seth&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=arVCEAAAQBAJ&dq=intitle:Being+You:+A+New+Science+of+Consciousness,+Anil+Seth&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Being_You.html?hl=&id=arVCEAAAQBAJ"
-    },
-    "issueNumber": 15,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:24:01.000Z"
   }
 ]
