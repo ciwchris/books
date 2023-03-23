@@ -1,8 +1,9 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
+[![Book cover of Weapons of Math Destruction](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DNgEwCwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/46 "Weapons of Math Destruction by Cathy O'Neil")
 [![Book cover of Hello Sleep](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D7IxrEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/44 "Hello Sleep by Jade Wu")
 
 ### ✅ Completed (12)
@@ -20,7 +21,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Lincoln Highway](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DB2tBEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/25 "The Lincoln Highway by Amor Towles completed in 2 weeks on September 2022")
 [![Book cover of Drive](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpYc-DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/24 "Drive by Daniel H. Pink completed in 1 week on September 2022")
 
-### ⏭️ Want to Read (17)
+### ⏭️ Want to Read (16)
 
 [![Book cover of The Sacred Depths of Nature](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D2AamEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/45 "The Sacred Depths of Nature by Ursula Goodenough completed in undefined on Invalid Date")
 [![Book cover of Seeing with Fresh Eyes](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DSeeing%2520with%2520Fresh%2520Eyes%2520by%2520Edward%2520Tufte%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/42 "Seeing with Fresh Eyes by Edward Tufte completed in undefined on Invalid Date")
@@ -38,7 +39,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of God Can't](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dgtv8DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/19 "God Can't by Thomas Jay Oord completed in undefined on Invalid Date")
 [![Book cover of The Nature of the Beast](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Du4h_zgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/18 "The Nature of the Beast by David Anderson completed in undefined on Invalid Date")
 [![Book cover of The Seven Principles for Making Marriage Work](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZZVoBAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/17 "The Seven Principles for Making Marriage Work by John Gottman, PhD, Nan Silver completed in undefined on Invalid Date")
-[![Book cover of Tattoos on the Heart](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DOoz8Ke9w89QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/16 "Tattoos on the Heart by Greg Boyle completed in undefined on Invalid Date")
 
 <!--end:bookshelf-action-->
 

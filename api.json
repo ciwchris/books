@@ -1,5 +1,34 @@
 [
   {
+    "title": "Weapons of Math Destruction",
+    "authors": [
+      "Cathy O'Neil"
+    ],
+    "publisher": "Crown",
+    "publishedDate": "2016-09-06",
+    "description": "NEW YORK TIMES BESTSELLER • A former Wall Street quant sounds the alarm on Big Data and the mathematical models that threaten to rip apart our social fabric—with a new afterword “A manual for the twenty-first-century citizen . . . relevant and urgent.”—Financial Times NATIONAL BOOK AWARD LONGLIST • NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review • The Boston Globe • Wired • Fortune • Kirkus Reviews • The Guardian • Nature • On Point We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we can get a job or a loan, how much we pay for health insurance—are being made not by humans, but by machines. In theory, this should lead to greater fairness: Everyone is judged according to the same rules. But as mathematician and data scientist Cathy O’Neil reveals, the mathematical models being used today are unregulated and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination—propping up the lucky, punishing the downtrodden, and undermining our democracy in the process. Welcome to the dark side of Big Data.",
+    "image": "http://books.google.com/books/content?id=NgEwCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 37,
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 288,
+    "isbn10": "0553418823",
+    "isbn13": "9780553418828",
+    "googleBooks": {
+      "id": "NgEwCwAAQBAJ",
+      "preview": "http://books.google.com/books?id=NgEwCwAAQBAJ&pg=PR6&dq=intitle:Weapons+of+Math+Destruction:+How+Big+Data+Increases+Inequality+and+Threatens+Democracy,+Cathy+O%27Neil&hl=&cd=7&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=NgEwCwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=NgEwCwAAQBAJ"
+    },
+    "issueNumber": 46,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-03-23T05:16:47.000Z"
+  },
+  {
     "title": "The Sacred Depths of Nature",
     "authors": [
       "Ursula Goodenough"
@@ -844,34 +873,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:25:32.000Z"
-  },
-  {
-    "title": "Tattoos on the Heart",
-    "authors": [
-      "Greg Boyle"
-    ],
-    "publisher": "Simon and Schuster",
-    "publishedDate": "2011-02-08",
-    "description": "Father Boyle started Homeboy Industries nearly 20 years ago, which has served members of more than half of the gangs in Los Angeles. This collection presents parables about kinship and the sacredness of life drawn from Boyle's years of working with gangs.",
-    "image": "http://books.google.com/books/content?id=Ooz8Ke9w89QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4.5,
-    "ratingsCount": 30,
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 240,
-    "isbn10": "1439153159",
-    "isbn13": "9781439153154",
-    "googleBooks": {
-      "id": "Ooz8Ke9w89QC",
-      "preview": "http://books.google.com/books?id=Ooz8Ke9w89QC&printsec=frontcover&dq=intitle:Tattoos+on+the+Heart:+The+Power+of+Boundless+Compassion,+Gregory+Boyle&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=Ooz8Ke9w89QC&dq=intitle:Tattoos+on+the+Heart:+The+Power+of+Boundless+Compassion,+Gregory+Boyle&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Tattoos_on_the_Heart.html?hl=&id=Ooz8Ke9w89QC"
-    },
-    "issueNumber": 16,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:24:43.000Z"
   }
 ]
