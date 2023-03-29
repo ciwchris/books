@@ -1,5 +1,32 @@
 [
   {
+    "title": "Excellent Advice for Living",
+    "authors": [
+      "Kevin Kelly"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2023-05-02",
+    "description": "Succinct bits of wise, practical, optimistic life advice from author, leading technology thinker, and cofounder of Wired magazine Kevin Kelly On his sixty-eighth birthday, Kevin Kelly wrote down for his young adult son some things he had learned about relationships, business, and life that he wished he had known earlier. To his surprise, he had more to say than he thought, so he continued composing these short passages of guidance until he had more than four hundred of them. Kelly’s bits of advice cover an astonishing range of subject matter, and each statement is meant to be a memorable prompt for an action one could take. Many of them are about right living, good conduct, and civility. There is advice on setting ambitious goals, forgiveness and gratitude, taking responsibility for mistakes, optimizing generosity, and cultivating awareness, compassion, and creativity. Career, work, and financial advice is given, as well as guidance related to practical matters ranging from parenting and troubleshooting to the importance of learning how to tie a bowline knot. Excellent Advice for Living is aimed primarily at young people, and in particular at young professionals, but it will speak to anyone at any stage of life. Kelly’s advice is memorable, and, more important, needed right now.",
+    "image": "http://books.google.com/books/content?id=qLuFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Self-Help"
+    ],
+    "pageCount": 0,
+    "isbn10": "0593654528",
+    "isbn13": "9780593654521",
+    "googleBooks": {
+      "id": "qLuFEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=qLuFEAAAQBAJ&dq=intitle:Excellent+Advice+for+Living,+Kevin+Kelly&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=qLuFEAAAQBAJ&dq=intitle:Excellent+Advice+for+Living,+Kevin+Kelly&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Excellent_Advice_for_Living.html?hl=&id=qLuFEAAAQBAJ"
+    },
+    "issueNumber": 48,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-03-29T04:24:04.000Z"
+  },
+  {
     "title": "Transcendent Kingdom",
     "authors": [
       "Yaa Gyasi"
@@ -852,28 +879,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:27:11.000Z"
-  },
-  {
-    "title": "The Nature of the Beast",
-    "authors": [
-      "David Anderson"
-    ],
-    "publishedDate": "2022-03-15",
-    "description": "Most of what we know about emotions is unreliable. It's gathered either by asking people about their feelings, or by putting them in an MRI and studying how they react to pretend situations, to which they are unlikely to respond as they would in real life. If we're ever going to understand how emotions work, we need a better way of studying them. In The Nature of the Beast, pioneering neuroscientist David J. Anderson reveals how he has begun to solve this problem. He and his team have figured out how to study the brain activity of animals as they navigate real-life scenarios, like foraging, fleeing a predator, or competing for a mate. His research has revolutionized what we know about animal fear and aggression. Here, he explains what his research can teach us about human behavior, offering new insights into why isolation makes us more aggressive, how sex and violence connect, and whether there's a link between aggression and mental illness. Part How Emotions Are Made, part Mama's Last Hug, The Nature of the Beast reconceptualizes how the brain regulates emotions--and explains why we have them at all.",
-    "image": "http://books.google.com/books/content?id=u4h_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "pageCount": 272,
-    "isbn10": "1541674634",
-    "isbn13": "9781541674639",
-    "googleBooks": {
-      "id": "u4h_zgEACAAJ",
-      "preview": "http://books.google.com/books?id=u4h_zgEACAAJ&dq=intitle:The+Nature+of+the+Beast:+How+Emotions+Guide+Us,+David+J.+Anderson&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=u4h_zgEACAAJ&dq=intitle:The+Nature+of+the+Beast:+How+Emotions+Guide+Us,+David+J.+Anderson&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Nature_of_the_Beast.html?hl=&id=u4h_zgEACAAJ"
-    },
-    "issueNumber": 18,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:26:11.000Z"
   }
 ]
