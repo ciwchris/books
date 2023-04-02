@@ -77,8 +77,11 @@
     },
     "issueNumber": 47,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-03-28T17:32:56.000Z"
+    "state": "completed",
+    "startedAt": "2023-03-28T17:32:56.000Z",
+    "completedAt": "2023-04-02T04:15:52.000Z",
+    "timeToComplete": 384176000,
+    "timeToCompleteFormatted": "4 days"
   },
   {
     "title": "Weapons of Math Destruction",
