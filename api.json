@@ -1,5 +1,32 @@
 [
   {
+    "title": "God, Human, Animal, Machine",
+    "authors": [
+      "Meghan O'Gieblyn"
+    ],
+    "publisher": "Anchor",
+    "publishedDate": "2022-07-12",
+    "description": "A strikingly original exploration of what it might mean to be authentically human in the age of artificial intelligence, from the author of the critically-acclaimed Interior States. \"Meghan O’Gieblyn is a brilliant and humble philosopher, and her book is an explosively thought-provoking, candidly personal ride I wished never to end ... This book is such an original synthesis of ideas and disclosures. It introduces what will soon be called the O’Gieblyn genre of essay writing.” —Heidi Julavits, author of The Folded Clock For most of human history the world was a magical and enchanted place ruled by forces beyond our understanding. The rise of science and Descartes's division of mind from world made materialism our ruling paradigm, in the process asking whether our own consciousness—i.e., souls—might be illusions. Now the inexorable rise of technology, with artificial intelligences that surpass our comprehension and control, and the spread of digital metaphors for self-understanding, the core questions of existence—identity, knowledge, the very nature and purpose of life itself—urgently require rethinking. Meghan O'Gieblyn tackles this challenge with philosophical rigor, intellectual reach, essayistic verve, refreshing originality, and an ironic sense of contradiction. She draws deeply and sometimes humorously from her own personal experience as a formerly religious believer still haunted by questions of faith, and she serves as the best possible guide to navigating the territory we are all entering.",
+    "image": "http://books.google.com/books/content?id=cNp0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 305,
+    "isbn10": "0525562710",
+    "isbn13": "9780525562719",
+    "googleBooks": {
+      "id": "cNp0EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=cNp0EAAAQBAJ&printsec=frontcover&dq=intitle:God+human+animal+machine+technology+metaphor+and+the+search+for+meaning,+Meghan+O%27Gieblyn&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=cNp0EAAAQBAJ&dq=intitle:God+human+animal+machine+technology+metaphor+and+the+search+for+meaning,+Meghan+O%27Gieblyn&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/God_Human_Animal_Machine.html?hl=&id=cNp0EAAAQBAJ"
+    },
+    "issueNumber": 51,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-04-11T02:59:58.000Z"
+  },
+  {
     "title": "You're Not That Great",
     "authors": [
       "Daniel Crosby"
@@ -851,34 +878,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:28:36.000Z"
-  },
-  {
-    "title": "Anger, Madness, and the Daimonic",
-    "authors": [
-      "Stephen A. Diamond"
-    ],
-    "publisher": "SUNY Press",
-    "publishedDate": "1996-01-01",
-    "description": "Explores the links between anger, rage, violence, evil, and creativity and describes a dynamic therapeutic approach that can help channel anger and violent impulses into constructive and creative activity.",
-    "image": "http://books.google.com/books/content?id=NgB0yim87cQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 1,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 402,
-    "isbn10": "0791430758",
-    "isbn13": "9780791430750",
-    "googleBooks": {
-      "id": "NgB0yim87cQC",
-      "preview": "http://books.google.com/books?id=NgB0yim87cQC&pg=PA314&dq=intitle:Anger:+The+Misunderstood+Emotion,+Carol+Tavris&hl=&cd=9&source=gbs_api",
-      "info": "http://books.google.com/books?id=NgB0yim87cQC&dq=intitle:Anger:+The+Misunderstood+Emotion,+Carol+Tavris&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Anger_Madness_and_the_Daimonic.html?hl=&id=NgB0yim87cQC"
-    },
-    "issueNumber": 20,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:27:56.000Z"
   }
 ]
