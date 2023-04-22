@@ -1,5 +1,34 @@
 [
   {
+    "title": "Where the Crawdads Sing (Movie Tie-In)",
+    "authors": [
+      "Delia Owens"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2022-06-28",
+    "description": "NOW A MAJOR MOTION PICTURE The #1 New York Times bestselling worldwide sensation with more than 15 million copies sold, “a painfully beautiful first novel that is at once a murder mystery, a coming-of-age narrative and a celebration of nature” (The New York Times Book Review). For years, rumors of the “Marsh Girl” have haunted Barkley Cove, a quiet town on the North Carolina coast. So in late 1969, when handsome Chase Andrews is found dead, the locals immediately suspect Kya Clark, the so-called Marsh Girl. But Kya is not what they say. Sensitive and intelligent, she has survived for years alone in the marsh that she calls home, finding friends in the gulls and lessons in the sand. Then the time comes when she yearns to be touched and loved. When two young men from town become intrigued by her wild beauty, Kya opens herself to a new life—until the unthinkable happens. Where the Crawdads Sing is at once an exquisite ode to the natural world, a heartbreaking coming-of-age story, and a surprising tale of possible murder. Delia Owens reminds us that we are forever shaped by the children we once were, and that we are all subject to the beautiful and violent secrets that nature keeps.",
+    "image": "http://books.google.com/books/content?id=LmRlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 241,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 481,
+    "isbn10": "0593540352",
+    "isbn13": "9780593540350",
+    "googleBooks": {
+      "id": "LmRlEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=LmRlEAAAQBAJ&printsec=frontcover&dq=intitle:Where+the+crawdads+sing,+Delia+Owens&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=LmRlEAAAQBAJ&dq=intitle:Where+the+crawdads+sing,+Delia+Owens&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Where_the_Crawdads_Sing_Movie_Tie_In.html?hl=&id=LmRlEAAAQBAJ"
+    },
+    "issueNumber": 52,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-04-22T17:52:04.000Z"
+  },
+  {
     "title": "God, Human, Animal, Machine",
     "authors": [
       "Meghan O'Gieblyn"
@@ -852,34 +881,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:30:19.000Z"
-  },
-  {
-    "title": "Rule Makers, Rule Breakers",
-    "authors": [
-      "Michele Gelfand"
-    ],
-    "publisher": "Scribner",
-    "publishedDate": "2019-08-20",
-    "description": "A celebrated social psychologist offers a radical new perspective on cultural differences that reveals why some countries, cultures, and individuals take rules more seriously and how following the rules influences the way we think and act. In Rule Makers, Rule Breakers, Michele Gelfand, “an engaging writer with intellectual range” (The New York Times Book Review), takes us on an epic journey through human cultures, offering a startling new view of the world and ourselves. With a mix of brilliantly conceived studies and surprising on-the-ground discoveries, she shows that much of the diversity in the way we think and act derives from a key difference—how tightly or loosely we adhere to social norms. Just as DNA affects everything from eye color to height, our tight-loose social coding influences much of what we do. Why are clocks in Germany so accurate while those in Brazil are frequently wrong? Why do New Zealand’s women have the highest number of sexual partners? Why are red and blue states really so divided? Why was the Daimler-Chrysler merger ill-fated from the start? Why is the driver of a Jaguar more likely to run a red light than the driver of a plumber’s van? Why does one spouse prize running a tight ship while the other refuses to sweat the small stuff? In search of a common answer, Gelfand spent two decades conducting research in more than fifty countries. Across all age groups, family variations, social classes, businesses, states, and nationalities, she has identified a primal pattern that can trigger cooperation or conflict. Her fascinating conclusion: behavior is highly influenced by the perception of threat. “A useful and engaging take on human behavior” (Kirkus Reviews) with an approach that is consistently riveting, Rule Makers, Ruler Breakers thrusts many of the puzzling attitudes and actions we observe into sudden and surprising clarity.",
-    "image": "http://books.google.com/books/content?id=bLSkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 1,
-    "categories": [
-      "Social Science"
-    ],
-    "pageCount": 384,
-    "isbn10": "1501152947",
-    "isbn13": "9781501152948",
-    "googleBooks": {
-      "id": "bLSkDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=bLSkDwAAQBAJ&pg=PP6&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=bLSkDwAAQBAJ&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Rule_Makers_Rule_Breakers.html?hl=&id=bLSkDwAAQBAJ"
-    },
-    "issueNumber": 21,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:28:36.000Z"
   }
 ]
