@@ -1,13 +1,13 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (1)
 
-[![Book cover of Where the Crawdads Sing (Movie Tie-In)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DLmRlEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/52 "Where the Crawdads Sing (Movie Tie-In) by Delia Owens")
 [![Book cover of Hello Sleep](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D7IxrEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/44 "Hello Sleep by Jade Wu")
 
-### ✅ Completed (15)
+### ✅ Completed (16)
 
+[![Book cover of Where the Crawdads Sing (Movie Tie-In)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DLmRlEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/52 "Where the Crawdads Sing (Movie Tie-In) by Delia Owens completed in 1 week on April 2023")
 [![Book cover of God, Human, Animal, Machine](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DcNp0EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/51 "God, Human, Animal, Machine by Meghan O'Gieblyn completed in 4 days on April 2023")
 [![Book cover of Transcendent Kingdom](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DfOO3DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/47 "Transcendent Kingdom by Yaa Gyasi completed in 4 days on April 2023")
 [![Book cover of Weapons of Math Destruction](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DNgEwCwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/46 "Weapons of Math Destruction by Cathy O'Neil completed in 1 day on March 2023")
