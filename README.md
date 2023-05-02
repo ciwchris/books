@@ -1,8 +1,9 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
+[![Book cover of The Experience Machine](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Du7F3EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/53 "The Experience Machine by Andy Clark")
 [![Book cover of Hello Sleep](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D7IxrEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/44 "Hello Sleep by Jade Wu")
 
 ### ✅ Completed (16)
@@ -24,7 +25,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Lincoln Highway](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DB2tBEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/25 "The Lincoln Highway by Amor Towles completed in 2 weeks on September 2022")
 [![Book cover of Drive](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DpYc-DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/24 "Drive by Daniel H. Pink completed in 1 week on September 2022")
 
-### ⏭️ Want to Read (13)
+### ⏭️ Want to Read (12)
 
 [![Book cover of You're Not That Great](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DYou're%2520Not%2520That%2520Great%2520by%2520Daniel%2520Crosby%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/49 "You're Not That Great by Daniel Crosby completed in undefined on Invalid Date")
 [![Book cover of Excellent Advice for Living](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqLuFEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/48 "Excellent Advice for Living by Kevin Kelly completed in undefined on Invalid Date")
@@ -38,7 +39,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Righteous Mind](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DU21BxGfm3RUC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/27 "The Righteous Mind by Jonathan Haidt completed in undefined on Invalid Date")
 [![Book cover of Fortitude](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqWexDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/26 "Fortitude by Dan Crenshaw completed in undefined on Invalid Date")
 [![Book cover of The Spike](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D2An-DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/23 "The Spike by Mark Humphries completed in undefined on Invalid Date")
-[![Book cover of Jaws](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYvJUDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/22 "Jaws by Sandra Kahn, Paul R. Ehrlich completed in undefined on Invalid Date")
 
 <!--end:bookshelf-action-->
 
