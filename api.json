@@ -1,5 +1,34 @@
 [
   {
+    "title": "Team Human",
+    "authors": [
+      "Douglas Rushkoff"
+    ],
+    "publisher": "National Geographic Books",
+    "publishedDate": "2021-01-12",
+    "description": "Porchlight’s Management and Workplace Culture Book of The Year “[A] thoroughly fascinating exploration of the long interplay between power and the technologies of communication.” —Adam Frank, NPR Team Human is a fiery distillation of preeminent digital theorist Douglas Rushkoff’s most urgent thoughts on civilization, technology, and human nature. In one hundred concise statements, he argues that we are essentially social creatures who achieve our greatest aspirations when we work together not as individuals. Yet today, an antihuman ethos has overtaken our society, undermining our ability to connect. Technologies that were meant to foster cooperation from currency to computers too often are used to exploit and divide us. If we are to adapt and survive these destructive forces, we must recognize that being human is a team sport. Rushkoff inspires us to find the others who understand this fundamental truth and reassert our humanity together.",
+    "image": "http://books.google.com/books/content?id=FF-NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 1,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 0,
+    "isbn10": "0393541533",
+    "isbn13": "9780393541533",
+    "googleBooks": {
+      "id": "FF-NEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=FF-NEAAAQBAJ&dq=intitle:Team+Human,++Douglas+Rushkoff&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=FF-NEAAAQBAJ&dq=intitle:Team+Human,++Douglas+Rushkoff&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Team_Human.html?hl=&id=FF-NEAAAQBAJ"
+    },
+    "issueNumber": 54,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-05-18T17:07:12.000Z"
+  },
+  {
     "title": "The Experience Machine",
     "authors": [
       "Andy Clark"
@@ -852,34 +881,5 @@
     "completedAt": "2022-09-09T16:01:44.000Z",
     "timeToComplete": 737180000,
     "timeToCompleteFormatted": "1 week"
-  },
-  {
-    "title": "The Spike",
-    "authors": [
-      "Mark Humphries"
-    ],
-    "publisher": "Princeton University Press",
-    "publishedDate": "2021-03-02",
-    "description": "The story of a neural impulse and what it reveals about how our brains work We see the last cookie in the box and think, can I take that? We reach a hand out. In the 2.1 seconds that this impulse travels through our brain, billions of neurons communicate with one another, sending blips of voltage through our sensory and motor regions. Neuroscientists call these blips “spikes.” Spikes enable us to do everything: talk, eat, run, see, plan, and decide. In The Spike, Mark Humphries takes readers on the epic journey of a spike through a single, brief reaction. In vivid language, Humphries tells the story of what happens in our brain, what we know about spikes, and what we still have left to understand about them. Drawing on decades of research in neuroscience, Humphries explores how spikes are born, how they are transmitted, and how they lead us to action. He dives into previously unanswered mysteries: Why are most neurons silent? What causes neurons to fire spikes spontaneously, without input from other neurons or the outside world? Why do most spikes fail to reach any destination? Humphries presents a new vision of the brain, one where fundamental computations are carried out by spontaneous spikes that predict what will happen in the world, helping us to perceive, decide, and react quickly enough for our survival. Traversing neuroscience’s expansive terrain, The Spike follows a single electrical response to illuminate how our extraordinary brains work.",
-    "image": "http://books.google.com/books/content?id=2An-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 1,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 232,
-    "isbn10": "0691195889",
-    "isbn13": "9780691195889",
-    "googleBooks": {
-      "id": "2An-DwAAQBAJ",
-      "preview": "http://books.google.com/books?id=2An-DwAAQBAJ&printsec=frontcover&dq=intitle:The+Spike:+An+Epic+Journey+Through+the+Brain+in+2.1+Seconds,+Mark+Humphries&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=2An-DwAAQBAJ&dq=intitle:The+Spike:+An+Epic+Journey+Through+the+Brain+in+2.1+Seconds,+Mark+Humphries&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Spike.html?hl=&id=2An-DwAAQBAJ"
-    },
-    "issueNumber": 23,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:31:17.000Z"
   }
 ]
