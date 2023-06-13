@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Gene",
+    "authors": [
+      "Siddhartha Mukherjee"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-05-17",
+    "description": "The #1 NEW YORK TIMES Bestseller The basis for the PBS Ken Burns Documentary The Gene: An Intimate History Now includes an excerpt from Siddhartha Mukherjee’s new book Song of the Cell! From the Pulitzer Prize–winning author of The Emperor of All Maladies—a fascinating history of the gene and “a magisterial account of how human minds have laboriously, ingeniously picked apart what makes us tick” (Elle). “Sid Mukherjee has the uncanny ability to bring together science, history, and the future in a way that is understandable and riveting, guiding us through both time and the mystery of life itself.” —Ken Burns “Dr. Siddhartha Mukherjee dazzled readers with his Pulitzer Prize-winning The Emperor of All Maladies in 2010. That achievement was evidently just a warm-up for his virtuoso performance in The Gene: An Intimate History, in which he braids science, history, and memoir into an epic with all the range and biblical thunder of Paradise Lost” (The New York Times). In this biography Mukherjee brings to life the quest to understand human heredity and its surprising influence on our lives, personalities, identities, fates, and choices. “Mukherjee expresses abstract intellectual ideas through emotional stories…[and] swaddles his medical rigor with rhapsodic tenderness, surprising vulnerability, and occasional flashes of pure poetry” (The Washington Post). Throughout, the story of Mukherjee’s own family—with its tragic and bewildering history of mental illness—reminds us of the questions that hang over our ability to translate the science of genetics from the laboratory to the real world. In riveting and dramatic prose, he describes the centuries of research and experimentation—from Aristotle and Pythagoras to Mendel and Darwin, from Boveri and Morgan to Crick, Watson and Franklin, all the way through the revolutionary twenty-first century innovators who mapped the human genome. “A fascinating and often sobering history of how humans came to understand the roles of genes in making us who we are—and what our manipulation of those genes might mean for our future” (Milwaukee Journal-Sentinel), The Gene is the revelatory and magisterial history of a scientific idea coming to life, the most crucial science of our time, intimately explained by a master. “The Gene is a book we all should read” (USA TODAY).",
+    "image": "http://books.google.com/books/content?id=fOvaCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 354,
+    "categories": [
+      "Medical"
+    ],
+    "pageCount": 624,
+    "isbn10": "1476733538",
+    "isbn13": "9781476733531",
+    "googleBooks": {
+      "id": "fOvaCgAAQBAJ",
+      "preview": "http://books.google.com/books?id=fOvaCgAAQBAJ&printsec=frontcover&dq=intitle:The+Song+of+the+Cell,+Siddhartha+Mukherjee&hl=&cd=4&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=fOvaCgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=fOvaCgAAQBAJ"
+    },
+    "issueNumber": 55,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-06-13T12:39:55.000Z"
+  },
+  {
     "title": "Team Human",
     "authors": [
       "Douglas Rushkoff"
@@ -849,37 +878,5 @@
     "completedAt": "2022-09-21T05:08:50.000Z",
     "timeToComplete": 1555177000,
     "timeToCompleteFormatted": "2 weeks"
-  },
-  {
-    "title": "Drive",
-    "authors": [
-      "Daniel H. Pink"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2011-04-05",
-    "description": "The New York Times bestseller that gives readers a paradigm-shattering new way to think about motivation from the author of When: The Scientific Secrets of Perfect Timing Most people believe that the best way to motivate is with rewards like money—the carrot-and-stick approach. That's a mistake, says Daniel H. Pink (author of To Sell Is Human: The Surprising Truth About Motivating Others). In this provocative and persuasive new book, he asserts that the secret to high performance and satisfaction-at work, at school, and at home—is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world. Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does—and how that affects every aspect of life. He examines the three elements of true motivation—autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.",
-    "image": "http://books.google.com/books/content?id=pYc-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 3444,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 288,
-    "isbn10": "1594484805",
-    "isbn13": "9781594484803",
-    "googleBooks": {
-      "id": "pYc-DwAAQBAJ",
-      "preview": "http://books.google.com/books?id=pYc-DwAAQBAJ&printsec=frontcover&dq=intitle:Drive:+The+Surprising+Truth+About+What+Motivates+Us,+Daniel+H.+Pink&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=pYc-DwAAQBAJ&dq=intitle:Drive:+The+Surprising+Truth+About+What+Motivates+Us,+Daniel+H.+Pink&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Drive.html?hl=&id=pYc-DwAAQBAJ"
-    },
-    "issueNumber": 24,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-09-01T03:15:24.000Z",
-    "completedAt": "2022-09-09T16:01:44.000Z",
-    "timeToComplete": 737180000,
-    "timeToCompleteFormatted": "1 week"
   }
 ]
