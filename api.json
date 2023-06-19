@@ -315,8 +315,11 @@
     },
     "issueNumber": 44,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-03-14T04:46:11.000Z"
+    "state": "completed",
+    "startedAt": "2023-03-14T04:46:11.000Z",
+    "completedAt": "2023-06-19T22:36:01.000Z",
+    "timeToComplete": 8444990000,
+    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Tread of Angels",
