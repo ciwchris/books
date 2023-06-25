@@ -1,5 +1,6 @@
 ## Library
 
+- River Boy, Tim Bowler
 - The biological mind : how brain, body, and environment collaborate to make us who we are, Alan Jasanoff
 - The biology book : from the origin of life to epigenetics, 250 milestones in the history of biology, Michael Gerald
 - Conflicted : how productive disagreements lead to better outcomes, Ian Leslie
@@ -13,6 +14,8 @@
 
 ## Other
 
+- Different: gender through the eyes of a primatologist, Frans de Waal (Or maybe any of his book, Peterson)
+- From Extraterrestrials to Animal Minds: Six Myths of Evolution, Simon Conway Morris (Langauage of God 122)
 - Agile Conversations: Transform Your Conversations, Transform Your Culture, Douglas Squirrel, Jeffrey Fredrick
 - God Can't: How to Believe in God and Love after Tragedy, Abuse, and Other Evils, Thomas Jay Oord
 - The Better Angels of Our Nature: Why Violence Has Declined, Steven Pinker
