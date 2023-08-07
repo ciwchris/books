@@ -14,6 +14,7 @@
 
 ## Other
 
+-  The World Behind the World: Consciousness, Free Will, and the Limits of Science, Erik Hoel (EconTalk July 24h 2023)
 - The Truth and Beauty: How the Lives and Works of England's Greatest Poets Point the Way to a Deeper Understanding of the Words of Jesus, Andrew Klavan (Maybe God podcast 71)
 - Different: gender through the eyes of a primatologist, Frans de Waal (Or maybe any of his book, Peterson)
 - From Extraterrestrials to Animal Minds: Six Myths of Evolution, Simon Conway Morris (Langauage of God 122)
