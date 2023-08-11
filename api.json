@@ -1,5 +1,33 @@
 [
   {
+    "title": "Jonathan Livingston Seagull",
+    "authors": [
+      "Richard Bach"
+    ],
+    "publishedDate": "2011",
+    "description": "Jonathan Livingston Seagull, the most celebrated inspirational fable of our time, tells the story of a bird determined to be more than ordinary. This bestselling modern classic, reissued with a beautiful new cover design, is a story for people who want to follow their dreams and make their own rules and has inspired people for decades. `Most gulls don't bother to learn more than the simplest facts of flight how to get from shore to food and back again,' writes author Richard Bach in this allegory about a unique bird named Jonathan Livingston Seagull. `For most gulls it is not flying that matters, but eating. For this gull, though, it was not eating that mattered, but flight.' Flight is indeed the metaphor that makes this story soar. This bestselling modern classic is a fable about seeking a higher purpose in life, even if your flock, tribe or neighbourhood finds your ambition threatening (at one point our beloved gull is even banished from his flock). By not compromising his higher vision, Jonathan learns the meaning of love and kindness and gets the ultimate payoff transcendence. The dreamy illustrations by Russell Munson provide just the right illustrations for this spirituality classic that has inspired thousands of readers to follow their own path in life and so fulfill their true potential.",
+    "image": "https://tse2.mm.bing.net/th?q=Jonathan%20Livingston%20Seagull%20by%20Richard%20Bach&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 80,
+    "categories": [
+      "Fables"
+    ],
+    "pageCount": 87,
+    "isbn10": "817223578X",
+    "isbn13": "9788172235789",
+    "googleBooks": {
+      "id": "rQVlPgAACAAJ",
+      "preview": "http://books.google.com/books?id=rQVlPgAACAAJ&dq=intitle:Jonathan+Livingston+Seagul,+Richard+Bach&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=rQVlPgAACAAJ&dq=intitle:Jonathan+Livingston+Seagul,+Richard+Bach&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Jonathan_Livingston_Seagull.html?hl=&id=rQVlPgAACAAJ"
+    },
+    "issueNumber": 56,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-08-11T20:02:27.000Z"
+  },
+  {
     "title": "The Gene",
     "authors": [
       "Siddhartha Mukherjee"
@@ -849,37 +877,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-09-09T16:02:20.000Z"
-  },
-  {
-    "title": "The Lincoln Highway",
-    "authors": [
-      "Amor Towles"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2021-10-05",
-    "description": "#1 NEW YORK TIMES BESTSELLER A TODAY Show Read with Jenna Book Club Pick A New York Times Notable Book, and Chosen by Oprah Daily, Time, NPR, The Washington Post and Barack Obama as a Best Book of the Year “Wise and wildly entertaining . . . permeated with light, wit, youth.” —The New York Times Book Review “A classic that we will read for years to come.” —Jenna Bush Hager, Read with Jenna book club “A real joyride . . . elegantly constructed and compulsively readable.” – NPR The bestselling author of A Gentleman in Moscow and Rules of Civility and master of absorbing, sophisticated fiction returns with a stylish and propulsive novel set in 1950s America In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York. Spanning just ten days and told from multiple points of view, Towles's third novel will satisfy fans of his multi-layered literary styling while providing them an array of new and richly imagined settings, characters, and themes.",
-    "image": "http://books.google.com/books/content?id=B2tBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 61,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 592,
-    "isbn10": "0735222355",
-    "isbn13": "9780735222359",
-    "googleBooks": {
-      "id": "B2tBEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=B2tBEAAAQBAJ&printsec=frontcover&dq=intitle:The+Lincoln+highway,+Amor+Towles&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=B2tBEAAAQBAJ&dq=intitle:The+Lincoln+highway,+Amor+Towles&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Lincoln_Highway.html?hl=&id=B2tBEAAAQBAJ"
-    },
-    "issueNumber": 25,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-09-03T05:09:13.000Z",
-    "completedAt": "2022-09-21T05:08:50.000Z",
-    "timeToComplete": 1555177000,
-    "timeToCompleteFormatted": "2 weeks"
   }
 ]

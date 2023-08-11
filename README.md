@@ -1,12 +1,13 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (3)
 
+[![Book cover of Jonathan Livingston Seagull](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DJonathan%2520Livingston%2520Seagull%2520by%2520Richard%2520Bach%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/56 "Jonathan Livingston Seagull by Richard Bach")
 [![Book cover of The Gene](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DfOvaCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/55 "The Gene by Siddhartha Mukherjee")
 [![Book cover of The Experience Machine](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Du7F3EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/53 "The Experience Machine by Andy Clark")
 
-### ✅ Completed (16)
+### ✅ Completed (15)
 
 [![Book cover of Where the Crawdads Sing (Movie Tie-In)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DLmRlEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/52 "Where the Crawdads Sing (Movie Tie-In) by Delia Owens completed in 1 week on April 2023")
 [![Book cover of God, Human, Animal, Machine](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DcNp0EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/51 "God, Human, Animal, Machine by Meghan O'Gieblyn completed in 4 days on April 2023")
@@ -23,7 +24,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Lion, the Witch and the Wardrobe Read-Aloud Edition](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DySmKh01_1p8C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/33 "The Lion, the Witch and the Wardrobe Read-Aloud Edition by C. S. Lewis completed in 1 day on December 2022")
 [![Book cover of Angela's Ashes](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5KBImUDYq2QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/32 "Angela's Ashes by Frank McCourt completed in 1 week on December 2022")
 [![Book cover of American Dirt (Oprah's Book Club)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFkiSDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/28 "American Dirt (Oprah's Book Club) by Jeanine Cummins completed in 1 month on November 2022")
-[![Book cover of The Lincoln Highway](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DB2tBEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/25 "The Lincoln Highway by Amor Towles completed in 2 weeks on September 2022")
 
 ### ⏭️ Want to Read (12)
 
