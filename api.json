@@ -24,8 +24,11 @@
     },
     "issueNumber": 56,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-08-11T20:02:27.000Z"
+    "state": "completed",
+    "startedAt": "2023-08-11T20:02:27.000Z",
+    "completedAt": "2023-08-11T20:09:25.000Z",
+    "timeToComplete": 418000,
+    "timeToCompleteFormatted": "6 minutes"
   },
   {
     "title": "The Gene",
