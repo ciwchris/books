@@ -56,8 +56,11 @@
     },
     "issueNumber": 55,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-06-13T12:39:55.000Z"
+    "state": "completed",
+    "startedAt": "2023-06-13T12:39:55.000Z",
+    "completedAt": "2023-08-20T17:59:24.000Z",
+    "timeToComplete": 5894369000,
+    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "Team Human",
