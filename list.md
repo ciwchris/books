@@ -19,7 +19,6 @@
 - Different: gender through the eyes of a primatologist, Frans de Waal (Or maybe any of his book, Peterson)
 - From Extraterrestrials to Animal Minds: Six Myths of Evolution, Simon Conway Morris (Langauage of God 122)
 - Agile Conversations: Transform Your Conversations, Transform Your Culture, Douglas Squirrel, Jeffrey Fredrick
-- God Can't: How to Believe in God and Love after Tragedy, Abuse, and Other Evils, Thomas Jay Oord
 - The Better Angels of Our Nature: Why Violence Has Declined, Steven Pinker
 - Anger: The Misunderstood Emotion, Carol Tavris
 - Rule Makers, Rule Breakers: How Tight and Loose Cultures Wire Our World, Michele Gelfand 
@@ -38,3 +37,4 @@
 - Emotions, Learning, and the Brain: Exploring the Educational Implications of Affective Neuroscience, Mary Helen Immordino-Yang
 - The Anxiety Opportunity: How Worry Is the Doorway to Your Best Self, Curtis Chang
 - On Second Thought How Ambivalence Shapes Your Life, William R. Miller
+- Life Time: Your Body Clock and Its Essential Roles in Good Health and Sleep, Russell Foster (https://www.noemamag.com/the-rediscovery-of-circadian-rhythms/)
