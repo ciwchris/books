@@ -1,5 +1,36 @@
 [
   {
+    "title": "The Brothers Karamazov",
+    "authors": [
+      "Fyodor Dostoyevsky",
+      "Larissa Volokhonsky",
+      "Malcolm V. Jones"
+    ],
+    "publisher": "Everyman's Library Limited",
+    "publishedDate": "1997",
+    "description": "A magnificent new translation of Dostoevsky's masterpiece, which when first published in 1991 was described by the TIMES as 'a miracle' and by THE INDEPENDENT as a near 'ideal translation'. The BROTHERS KARAMAZOV - Dostoevsky's most widely read novel - is at once a murder mystery, a mordant comedy of family intrigue, a pioneering work of psychological realism and an unblinking look into the abyss of human suffering.",
+    "image": "http://books.google.com/books/content?id=YgNgQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 130,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 796,
+    "isbn10": "1857150708",
+    "isbn13": "9781857150704",
+    "googleBooks": {
+      "id": "YgNgQgAACAAJ",
+      "preview": "http://books.google.com/books?id=YgNgQgAACAAJ&dq=intitle:The+Brothers+Karamazov,+Fyodor+Dostoevsky&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=YgNgQgAACAAJ&dq=intitle:The+Brothers+Karamazov,+Fyodor+Dostoevsky&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Brothers_Karamazov.html?hl=&id=YgNgQgAACAAJ"
+    },
+    "issueNumber": 58,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-08-24T05:29:07.000Z"
+  },
+  {
     "title": "Excellent Advice for Living",
     "authors": [
       "Kevin Kelly"
@@ -852,34 +883,5 @@
     "completedAt": "2022-11-05T01:18:28.000Z",
     "timeToComplete": 3104009000,
     "timeToCompleteFormatted": "1 month"
-  },
-  {
-    "title": "The Righteous Mind",
-    "authors": [
-      "Jonathan Haidt"
-    ],
-    "publisher": "Vintage",
-    "publishedDate": "2013",
-    "description": "Presents a groundbreaking investigation into the origins of morality at the core of religion and politics, offering scholarly insight into the motivations behind cultural clashes that are polarizing America.",
-    "image": "http://books.google.com/books/content?id=U21BxGfm3RUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 36,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 500,
-    "isbn10": "0307455777",
-    "isbn13": "9780307455772",
-    "googleBooks": {
-      "id": "U21BxGfm3RUC",
-      "preview": "http://books.google.com/books?id=U21BxGfm3RUC&printsec=frontcover&dq=intitle:The+Righteous+Mind:+Why+Good+People+Are+Divided+by+Politics+and+Religion,+Jonathan+Haidt&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=U21BxGfm3RUC&dq=intitle:The+Righteous+Mind:+Why+Good+People+Are+Divided+by+Politics+and+Religion,+Jonathan+Haidt&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Righteous_Mind.html?hl=&id=U21BxGfm3RUC"
-    },
-    "issueNumber": 27,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-09-30T02:59:13.000Z"
   }
 ]
