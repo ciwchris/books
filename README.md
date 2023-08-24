@@ -1,8 +1,9 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
+[![Book cover of Excellent Advice for Living](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqLuFEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/57 "Excellent Advice for Living by Kevin Kelly")
 [![Book cover of The Experience Machine](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Du7F3EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/53 "The Experience Machine by Andy Clark")
 
 ### ✅ Completed (17)
@@ -25,7 +26,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of Angela's Ashes](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5KBImUDYq2QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/32 "Angela's Ashes by Frank McCourt completed in 1 week on December 2022")
 [![Book cover of American Dirt (Oprah's Book Club)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFkiSDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/28 "American Dirt (Oprah's Book Club) by Jeanine Cummins completed in 1 month on November 2022")
 
-### ⏭️ Want to Read (12)
+### ⏭️ Want to Read (11)
 
 [![Book cover of Team Human](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFF-NEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/54 "Team Human by Douglas Rushkoff completed in undefined on Invalid Date")
 [![Book cover of You're Not That Great](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DYou're%2520Not%2520That%2520Great%2520by%2520Daniel%2520Crosby%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/49 "You're Not That Great by Daniel Crosby completed in undefined on Invalid Date")
@@ -38,7 +39,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of A Royal Waste of Time](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D2eJp76Ri1RUC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/30 "A Royal Waste of Time by Marva J. Dawn completed in undefined on Invalid Date")
 [![Book cover of The Language of Creation](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DThe%2520Language%2520of%2520Creation%2520by%2520Matthieu%2520Pageau%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/29 "The Language of Creation by Matthieu Pageau completed in undefined on Invalid Date")
 [![Book cover of The Righteous Mind](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DU21BxGfm3RUC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/27 "The Righteous Mind by Jonathan Haidt completed in undefined on Invalid Date")
-[![Book cover of Fortitude](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqWexDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/26 "Fortitude by Dan Crenshaw completed in undefined on Invalid Date")
 
 <!--end:bookshelf-action-->
 
