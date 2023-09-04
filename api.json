@@ -1,5 +1,34 @@
 [
   {
+    "title": "From Strength to Strength",
+    "authors": [
+      "Arthur C. Brooks"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2022-02-15",
+    "description": "INSTANT #1 NEW YORK TIMES BESTSELLER The roadmap for finding purpose, meaning, and success as we age, from bestselling author, Harvard professor, and the Atlantic's happiness columnist Arthur Brooks. Many of us assume that the more successful we are, the less susceptible we become to the sense of professional and social irrelevance that often accompanies aging. But the truth is, the greater our achievements and our attachment to them, the more we notice our decline, and the more painful it is when it occurs. What can we do, starting now, to make our older years a time of happiness, purpose, and yes, success? At the height of his career at the age of 50, Arthur Brooks embarked on a seven-year journey to discover how to transform his future from one of disappointment over waning abilities into an opportunity for progress. From Strength to Strength is the result, a practical roadmap for the rest of your life. Drawing on social science, philosophy, biography, theology, and eastern wisdom, as well as dozens of interviews with everyday men and women, Brooks shows us that true life success is well within our reach. By refocusing on certain priorities and habits that anyone can learn, such as deep wisdom, detachment from empty rewards, connection and service to others, and spiritual progress, we can set ourselves up for increased happiness. Read this book and you, too, can go from strength to strength.",
+    "image": "http://books.google.com/books/content?id=BKZPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Self-Help"
+    ],
+    "pageCount": 273,
+    "isbn10": "059319148X",
+    "isbn13": "9780593191484",
+    "googleBooks": {
+      "id": "BKZPEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=BKZPEAAAQBAJ&printsec=frontcover&dq=intitle:From+Strength+to+Strength:+Finding+Success,+Happiness,+and+Deep+Purpose+in+the+Second+Half+of+Life,+Arthur+Brooks&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=BKZPEAAAQBAJ&dq=intitle:From+Strength+to+Strength:+Finding+Success,+Happiness,+and+Deep+Purpose+in+the+Second+Half+of+Life,+Arthur+Brooks&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/From_Strength_to_Strength.html?hl=&id=BKZPEAAAQBAJ"
+    },
+    "issueNumber": 63,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-09-04T15:38:14.000Z"
+  },
+  {
     "title": "The Brothers Karamazov",
     "authors": [
       "Fyodor Dostoyevsky",
