@@ -6,7 +6,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of The Brothers Karamazov](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYgNgQgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/58 "The Brothers Karamazov by Fyodor Dostoyevsky, Larissa Volokhonsky, Malcolm V. Jones")
 [![Book cover of The Experience Machine](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Du7F3EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/53 "The Experience Machine by Andy Clark")
 
-### ✅ Completed (18)
+### ✅ Completed (17)
 
 [![Book cover of Excellent Advice for Living](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqLuFEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/57 "Excellent Advice for Living by Kevin Kelly completed in 1 day on August 2023")
 [![Book cover of Jonathan Livingston Seagull](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DJonathan%2520Livingston%2520Seagull%2520by%2520Richard%2520Bach%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/56 "Jonathan Livingston Seagull by Richard Bach completed in 6 minutes on August 2023")
@@ -25,7 +25,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of Quit](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Do6hXEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/34 "Quit by Annie Duke completed in 1 month on January 2023")
 [![Book cover of The Lion, the Witch and the Wardrobe Read-Aloud Edition](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DySmKh01_1p8C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/33 "The Lion, the Witch and the Wardrobe Read-Aloud Edition by C. S. Lewis completed in 1 day on December 2022")
 [![Book cover of Angela's Ashes](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5KBImUDYq2QC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/32 "Angela's Ashes by Frank McCourt completed in 1 week on December 2022")
-[![Book cover of American Dirt (Oprah's Book Club)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFkiSDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/28 "American Dirt (Oprah's Book Club) by Jeanine Cummins completed in 1 month on November 2022")
 
 ### ⏭️ Want to Read (10)
 

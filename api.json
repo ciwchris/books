@@ -854,37 +854,5 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-11-07T05:06:35.000Z"
-  },
-  {
-    "title": "American Dirt (Oprah's Book Club)",
-    "authors": [
-      "Jeanine Cummins"
-    ],
-    "publisher": "Flatiron Books",
-    "publishedDate": "2020-01-21",
-    "description": "Jeanine Cummins's American Dirt, the #1 New York Times bestseller and Oprah Book Club pick that has sold over two million copies Lydia lives in Acapulco. She has a son, Luca, the love of her life, and a wonderful husband who is a journalist. And while cracks are beginning to show in Acapulco because of the cartels, Lydia’s life is, by and large, fairly comfortable. But after her husband’s tell-all profile of the newest drug lord is published, none of their lives will ever be the same. Forced to flee, Lydia and Luca find themselves joining the countless people trying to reach the United States. Lydia soon sees that everyone is running from something. But what exactly are they running to?",
-    "image": "http://books.google.com/books/content?id=FkiSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 86,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 400,
-    "isbn10": "1250209773",
-    "isbn13": "9781250209771",
-    "googleBooks": {
-      "id": "FkiSDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=FkiSDwAAQBAJ&printsec=frontcover&dq=intitle:American+Dirt,+Jeanine+Cummins&hl=&cd=5&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=FkiSDwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=FkiSDwAAQBAJ"
-    },
-    "issueNumber": 28,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-09-30T03:04:59.000Z",
-    "completedAt": "2022-11-05T01:18:28.000Z",
-    "timeToComplete": 3104009000,
-    "timeToCompleteFormatted": "1 month"
   }
 ]
