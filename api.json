@@ -322,8 +322,11 @@
     },
     "issueNumber": 48,
     "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2023-03-29T04:24:04.000Z"
+    "state": "completed",
+    "startedAt": "2023-03-29T04:24:04.000Z",
+    "completedAt": "2023-09-09T18:02:34.000Z",
+    "timeToComplete": 14218710000,
+    "timeToCompleteFormatted": "5 months"
   },
   {
     "title": "Transcendent Kingdom",
