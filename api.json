@@ -812,6 +812,32 @@
     "timeToCompleteFormatted": "1 week"
   },
   {
+    "title": "Curious: The Desire to Know and Why Your Future Depends On It",
+    "authors": [
+      "Ian Leslie"
+    ],
+    "publishedDate": "2014-08-26",
+    "description": "Everyone is born curious. But only some retain the habits of exploring, learning, and discovering as they grow older. Those who do so tend to be smarter, more creative, and more successful. So why are many of us allowing our curiosity to wane?",
+    "image": "https://books.google.com/books/publisher/content?id=qaAVBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72-QhTNsOL1XL8pV2Y7K2fAePHL6MwIDYaFwG24edh8BgdTAs2Jfd0LJrVfrU0ySVlpFb4fL2k-hFJGj_y-3y-DS1L--nMxcAQGDKuZirHmNwGV9MCZT5wrGlVCe9ms8FZUNsH2",
+    "language": "en",
+    "pageCount": 240,
+    "isbn10": "0465079962",
+    "isbn13": "9780465079964",
+    "googleBooks": {
+      "id": "KkJWuAEACAAJ",
+      "preview": "https://books.google.com/books?id=qaAVBQAAQBAJ&printsec=frontcover",
+      "info": "https://books.google.com/books?id=qaAVBQAAQBAJ&printsec=frontcover",
+      "canonical": "https://books.google.com/books?id=qaAVBQAAQBAJ"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-08-20T16:25:57.000Z",
+    "completedAt": "2022-08-28T11:16:43.000Z",
+    "timeToComplete": 867886000,
+    "timeToCompleteFormatted": "1 week"
+  },
+  {
     "title": "Redefining Rich",
     "authors": [
       "Shannon Hayes"
