@@ -25,8 +25,11 @@
     },
     "issueNumber": 63,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-09-04T15:38:14.000Z"
+    "state": "completed",
+    "startedAt": "2023-09-04T15:38:14.000Z",
+    "completedAt": "2023-09-09T15:42:24.000Z",
+    "timeToComplete": 432250000,
+    "timeToCompleteFormatted": "5 days"
   },
   {
     "title": "The Brothers Karamazov",
