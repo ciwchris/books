@@ -208,8 +208,11 @@
     },
     "issueNumber": 53,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-05-02T04:07:01.000Z"
+    "state": "completed",
+    "startedAt": "2023-05-02T04:07:01.000Z",
+    "completedAt": "2023-09-25T05:27:21.000Z",
+    "timeToComplete": 12619220000,
+    "timeToCompleteFormatted": "4 months"
   },
   {
     "title": "Where the Crawdads Sing (Movie Tie-In)",
@@ -297,36 +300,6 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2023-03-29T04:29:58.000Z"
-  },
-  {
-    "title": "Excellent Advice for Living",
-    "authors": [
-      "Kevin Kelly"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2023-05-02",
-    "description": "Succinct bits of wise, practical, optimistic life advice from author, leading technology thinker, and cofounder of Wired magazine Kevin Kelly On his sixty-eighth birthday, Kevin Kelly wrote down for his young adult son some things he had learned about relationships, business, and life that he wished he had known earlier. To his surprise, he had more to say than he thought, so he continued composing these short passages of guidance until he had more than four hundred of them. Kelly’s bits of advice cover an astonishing range of subject matter, and each statement is meant to be a memorable prompt for an action one could take. Many of them are about right living, good conduct, and civility. There is advice on setting ambitious goals, forgiveness and gratitude, taking responsibility for mistakes, optimizing generosity, and cultivating awareness, compassion, and creativity. Career, work, and financial advice is given, as well as guidance related to practical matters ranging from parenting and troubleshooting to the importance of learning how to tie a bowline knot. Excellent Advice for Living is aimed primarily at young people, and in particular at young professionals, but it will speak to anyone at any stage of life. Kelly’s advice is memorable, and, more important, needed right now.",
-    "image": "http://books.google.com/books/content?id=qLuFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Self-Help"
-    ],
-    "pageCount": 0,
-    "isbn10": "0593654528",
-    "isbn13": "9780593654521",
-    "googleBooks": {
-      "id": "qLuFEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=qLuFEAAAQBAJ&dq=intitle:Excellent+Advice+for+Living,+Kevin+Kelly&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=qLuFEAAAQBAJ&dq=intitle:Excellent+Advice+for+Living,+Kevin+Kelly&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Excellent_Advice_for_Living.html?hl=&id=qLuFEAAAQBAJ"
-    },
-    "issueNumber": 48,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-03-29T04:24:04.000Z",
-    "completedAt": "2023-09-09T18:02:34.000Z",
-    "timeToComplete": 14218710000,
-    "timeToCompleteFormatted": "5 months"
   },
   {
     "title": "Transcendent Kingdom",
@@ -812,32 +785,6 @@
     "timeToCompleteFormatted": "1 week"
   },
   {
-    "title": "Curious: The Desire to Know and Why Your Future Depends On It",
-    "authors": [
-      "Ian Leslie"
-    ],
-    "publishedDate": "2014-08-26",
-    "description": "Everyone is born curious. But only some retain the habits of exploring, learning, and discovering as they grow older. Those who do so tend to be smarter, more creative, and more successful. So why are many of us allowing our curiosity to wane?",
-    "image": "https://books.google.com/books/publisher/content?id=qaAVBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72-QhTNsOL1XL8pV2Y7K2fAePHL6MwIDYaFwG24edh8BgdTAs2Jfd0LJrVfrU0ySVlpFb4fL2k-hFJGj_y-3y-DS1L--nMxcAQGDKuZirHmNwGV9MCZT5wrGlVCe9ms8FZUNsH2",
-    "language": "en",
-    "pageCount": 240,
-    "isbn10": "0465079962",
-    "isbn13": "9780465079964",
-    "googleBooks": {
-      "id": "KkJWuAEACAAJ",
-      "preview": "https://books.google.com/books?id=qaAVBQAAQBAJ&printsec=frontcover",
-      "info": "https://books.google.com/books?id=qaAVBQAAQBAJ&printsec=frontcover",
-      "canonical": "https://books.google.com/books?id=qaAVBQAAQBAJ"
-    },
-    "issueNumber": 11,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-08-20T16:25:57.000Z",
-    "completedAt": "2022-08-28T11:16:43.000Z",
-    "timeToComplete": 867886000,
-    "timeToCompleteFormatted": "1 week"
-  },
-  {
     "title": "Redefining Rich",
     "authors": [
       "Shannon Hayes"
@@ -915,5 +862,753 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-11-07T05:06:35.000Z"
+  },
+  {
+    "title": "American Dirt (Oprah's Book Club)",
+    "authors": [
+      "Jeanine Cummins"
+    ],
+    "publisher": "Flatiron Books",
+    "publishedDate": "2020-01-21",
+    "description": "Jeanine Cummins's American Dirt, the #1 New York Times bestseller and Oprah Book Club pick that has sold over two million copies Lydia lives in Acapulco. She has a son, Luca, the love of her life, and a wonderful husband who is a journalist. And while cracks are beginning to show in Acapulco because of the cartels, Lydia’s life is, by and large, fairly comfortable. But after her husband’s tell-all profile of the newest drug lord is published, none of their lives will ever be the same. Forced to flee, Lydia and Luca find themselves joining the countless people trying to reach the United States. Lydia soon sees that everyone is running from something. But what exactly are they running to?",
+    "image": "http://books.google.com/books/content?id=FkiSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 86,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 400,
+    "isbn10": "1250209773",
+    "isbn13": "9781250209771",
+    "googleBooks": {
+      "id": "FkiSDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=FkiSDwAAQBAJ&printsec=frontcover&dq=intitle:American+Dirt,+Jeanine+Cummins&hl=&cd=5&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=FkiSDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=FkiSDwAAQBAJ"
+    },
+    "issueNumber": 28,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-09-30T03:04:59.000Z",
+    "completedAt": "2022-11-05T01:18:28.000Z",
+    "timeToComplete": 3104009000,
+    "timeToCompleteFormatted": "1 month"
+  },
+  {
+    "title": "The Righteous Mind",
+    "authors": [
+      "Jonathan Haidt"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2013",
+    "description": "Presents a groundbreaking investigation into the origins of morality at the core of religion and politics, offering scholarly insight into the motivations behind cultural clashes that are polarizing America.",
+    "image": "http://books.google.com/books/content?id=U21BxGfm3RUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 36,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 500,
+    "isbn10": "0307455777",
+    "isbn13": "9780307455772",
+    "googleBooks": {
+      "id": "U21BxGfm3RUC",
+      "preview": "http://books.google.com/books?id=U21BxGfm3RUC&printsec=frontcover&dq=intitle:The+Righteous+Mind:+Why+Good+People+Are+Divided+by+Politics+and+Religion,+Jonathan+Haidt&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=U21BxGfm3RUC&dq=intitle:The+Righteous+Mind:+Why+Good+People+Are+Divided+by+Politics+and+Religion,+Jonathan+Haidt&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Righteous_Mind.html?hl=&id=U21BxGfm3RUC"
+    },
+    "issueNumber": 27,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-09-30T02:59:13.000Z"
+  },
+  {
+    "title": "Fortitude",
+    "authors": [
+      "Dan Crenshaw"
+    ],
+    "publisher": "Twelve",
+    "publishedDate": "2020-04-07",
+    "description": "Jordan Peterson's Twelve Rules for Life meets Jocko Willink and Leif Babin's Extreme Ownership in this tough-love leadership book from a Navy SEAL and rising star in Republican politics. In 2012, on his third tour of duty, an improvised explosive device left Dan Crenshaw's right eye destroyed and his left blinded. Only through the careful hand of his surgeons, and what doctors called a miracle, did Crenshaw's left eye recover partial vision. And yet, he persevered, completing two more deployments. Why? There are certain stories we tell ourselves about the hardships we face—we can become paralyzed by adversity or we can adapt and overcome. We can be fragile or we can find our fortitude. Crenshaw delivers a set of lessons to help you do just that. Most people's everyday challenges aren't as extreme as surviving combat, and yet our society is more fragile than ever: exploding with outrage, drowning in microaggressions, and devolving into divisive mob politics. The American spirit—long characterized by grit and fortitude—is unraveling. We must fix it. That's exactly what Crenshaw accomplishes with Fortitude. This book isn't about the problem, it's about the solution. And that solution begins with each and every one of us. We must all lighten up, toughen up, and begin treating our fellow Americans with respect and grace. Fortitude is a no-nonsense advice book for finding the strength to deal with everything from menial daily frustrations to truly difficult challenges. More than that, it is a roadmap for a more resilient American culture. With meditations on perseverance, failure, and finding much-needed heroes, the book is the antidote for a prevailing \"safety culture\" of trigger warnings and safe spaces. Interspersed with lessons from history and psychology is Crenshaw's own story of how an average American kid from the Houston suburbs went from war zones to the halls of Congress—and managed to navigate his path with a sense of humor and an even greater sense that, no matter what anyone else around us says or does, we are in control of our own destiny.",
+    "image": "http://books.google.com/books/content?id=qWexDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 256,
+    "isbn10": "1538733293",
+    "isbn13": "9781538733295",
+    "googleBooks": {
+      "id": "qWexDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=qWexDwAAQBAJ&printsec=frontcover&dq=intitle:Fortitude+:+American+resilience+in+the+era+of+outrage,+Dan+Crenshaw&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=qWexDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=qWexDwAAQBAJ"
+    },
+    "issueNumber": 26,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-09-09T16:02:20.000Z"
+  },
+  {
+    "title": "The Lincoln Highway",
+    "authors": [
+      "Amor Towles"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2021-10-05",
+    "description": "#1 NEW YORK TIMES BESTSELLER A TODAY Show Read with Jenna Book Club Pick A New York Times Notable Book, and Chosen by Oprah Daily, Time, NPR, The Washington Post and Barack Obama as a Best Book of the Year “Wise and wildly entertaining . . . permeated with light, wit, youth.” —The New York Times Book Review “A classic that we will read for years to come.” —Jenna Bush Hager, Read with Jenna book club “A real joyride . . . elegantly constructed and compulsively readable.” – NPR The bestselling author of A Gentleman in Moscow and Rules of Civility and master of absorbing, sophisticated fiction returns with a stylish and propulsive novel set in 1950s America In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York. Spanning just ten days and told from multiple points of view, Towles's third novel will satisfy fans of his multi-layered literary styling while providing them an array of new and richly imagined settings, characters, and themes.",
+    "image": "http://books.google.com/books/content?id=B2tBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 61,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 592,
+    "isbn10": "0735222355",
+    "isbn13": "9780735222359",
+    "googleBooks": {
+      "id": "B2tBEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=B2tBEAAAQBAJ&printsec=frontcover&dq=intitle:The+Lincoln+highway,+Amor+Towles&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=B2tBEAAAQBAJ&dq=intitle:The+Lincoln+highway,+Amor+Towles&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Lincoln_Highway.html?hl=&id=B2tBEAAAQBAJ"
+    },
+    "issueNumber": 25,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-09-03T05:09:13.000Z",
+    "completedAt": "2022-09-21T05:08:50.000Z",
+    "timeToComplete": 1555177000,
+    "timeToCompleteFormatted": "2 weeks"
+  },
+  {
+    "title": "Drive",
+    "authors": [
+      "Daniel H. Pink"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2011-04-05",
+    "description": "The New York Times bestseller that gives readers a paradigm-shattering new way to think about motivation from the author of When: The Scientific Secrets of Perfect Timing Most people believe that the best way to motivate is with rewards like money—the carrot-and-stick approach. That's a mistake, says Daniel H. Pink (author of To Sell Is Human: The Surprising Truth About Motivating Others). In this provocative and persuasive new book, he asserts that the secret to high performance and satisfaction-at work, at school, and at home—is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world. Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does—and how that affects every aspect of life. He examines the three elements of true motivation—autonomy, mastery, and purpose-and offers smart and surprising techniques for putting these into action in a unique book that will change how we think and transform how we live.",
+    "image": "http://books.google.com/books/content?id=pYc-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 3444,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 288,
+    "isbn10": "1594484805",
+    "isbn13": "9781594484803",
+    "googleBooks": {
+      "id": "pYc-DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=pYc-DwAAQBAJ&printsec=frontcover&dq=intitle:Drive:+The+Surprising+Truth+About+What+Motivates+Us,+Daniel+H.+Pink&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=pYc-DwAAQBAJ&dq=intitle:Drive:+The+Surprising+Truth+About+What+Motivates+Us,+Daniel+H.+Pink&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Drive.html?hl=&id=pYc-DwAAQBAJ"
+    },
+    "issueNumber": 24,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-09-01T03:15:24.000Z",
+    "completedAt": "2022-09-09T16:01:44.000Z",
+    "timeToComplete": 737180000,
+    "timeToCompleteFormatted": "1 week"
+  },
+  {
+    "title": "The Spike",
+    "authors": [
+      "Mark Humphries"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2021-03-02",
+    "description": "The story of a neural impulse and what it reveals about how our brains work We see the last cookie in the box and think, can I take that? We reach a hand out. In the 2.1 seconds that this impulse travels through our brain, billions of neurons communicate with one another, sending blips of voltage through our sensory and motor regions. Neuroscientists call these blips “spikes.” Spikes enable us to do everything: talk, eat, run, see, plan, and decide. In The Spike, Mark Humphries takes readers on the epic journey of a spike through a single, brief reaction. In vivid language, Humphries tells the story of what happens in our brain, what we know about spikes, and what we still have left to understand about them. Drawing on decades of research in neuroscience, Humphries explores how spikes are born, how they are transmitted, and how they lead us to action. He dives into previously unanswered mysteries: Why are most neurons silent? What causes neurons to fire spikes spontaneously, without input from other neurons or the outside world? Why do most spikes fail to reach any destination? Humphries presents a new vision of the brain, one where fundamental computations are carried out by spontaneous spikes that predict what will happen in the world, helping us to perceive, decide, and react quickly enough for our survival. Traversing neuroscience’s expansive terrain, The Spike follows a single electrical response to illuminate how our extraordinary brains work.",
+    "image": "http://books.google.com/books/content?id=2An-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 232,
+    "isbn10": "0691195889",
+    "isbn13": "9780691195889",
+    "googleBooks": {
+      "id": "2An-DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=2An-DwAAQBAJ&printsec=frontcover&dq=intitle:The+Spike:+An+Epic+Journey+Through+the+Brain+in+2.1+Seconds,+Mark+Humphries&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=2An-DwAAQBAJ&dq=intitle:The+Spike:+An+Epic+Journey+Through+the+Brain+in+2.1+Seconds,+Mark+Humphries&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Spike.html?hl=&id=2An-DwAAQBAJ"
+    },
+    "issueNumber": 23,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:31:17.000Z"
+  },
+  {
+    "title": "Jaws",
+    "authors": [
+      "Sandra Kahn",
+      "Paul R. Ehrlich"
+    ],
+    "publisher": "Stanford University Press",
+    "publishedDate": "2018-04-10",
+    "description": "There's a silent epidemic in western civilization, and it is right under our noses. Our jaws are getting smaller and our teeth crooked and crowded, creating not only aesthetic challenges but also difficulties with breathing. Modern orthodontics has persuaded us that braces and oral devices can correct these problems. While teeth can certainly be straightened, what about the underlying causes of this rapid shift in oral evolution and the health risks posed by obstructed airways? Sandra Kahn and Paul R. Ehrlich, a pioneering orthodontist and a world-renowned evolutionist, respectively, present the biological, dietary, and cultural changes that have driven us toward this major health challenge. They propose simple adjustments that can alleviate this developing crisis, as well as a major alternative to orthodontics that promises more significant long-term relief. Jaws will change your life. Every parent should read this book.",
+    "image": "http://books.google.com/books/content?id=YvJUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 216,
+    "isbn10": "1503606465",
+    "isbn13": "9781503606463",
+    "googleBooks": {
+      "id": "YvJUDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=YvJUDwAAQBAJ&printsec=frontcover&dq=intitle:Jaws:+The+Story+of+a+Hidden+Epidemic,+Paul+Ehrlich&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=YvJUDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=YvJUDwAAQBAJ"
+    },
+    "issueNumber": 22,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:30:19.000Z"
+  },
+  {
+    "title": "Rule Makers, Rule Breakers",
+    "authors": [
+      "Michele Gelfand"
+    ],
+    "publisher": "Scribner",
+    "publishedDate": "2019-08-20",
+    "description": "A celebrated social psychologist offers a radical new perspective on cultural differences that reveals why some countries, cultures, and individuals take rules more seriously and how following the rules influences the way we think and act. In Rule Makers, Rule Breakers, Michele Gelfand, “an engaging writer with intellectual range” (The New York Times Book Review), takes us on an epic journey through human cultures, offering a startling new view of the world and ourselves. With a mix of brilliantly conceived studies and surprising on-the-ground discoveries, she shows that much of the diversity in the way we think and act derives from a key difference—how tightly or loosely we adhere to social norms. Just as DNA affects everything from eye color to height, our tight-loose social coding influences much of what we do. Why are clocks in Germany so accurate while those in Brazil are frequently wrong? Why do New Zealand’s women have the highest number of sexual partners? Why are red and blue states really so divided? Why was the Daimler-Chrysler merger ill-fated from the start? Why is the driver of a Jaguar more likely to run a red light than the driver of a plumber’s van? Why does one spouse prize running a tight ship while the other refuses to sweat the small stuff? In search of a common answer, Gelfand spent two decades conducting research in more than fifty countries. Across all age groups, family variations, social classes, businesses, states, and nationalities, she has identified a primal pattern that can trigger cooperation or conflict. Her fascinating conclusion: behavior is highly influenced by the perception of threat. “A useful and engaging take on human behavior” (Kirkus Reviews) with an approach that is consistently riveting, Rule Makers, Ruler Breakers thrusts many of the puzzling attitudes and actions we observe into sudden and surprising clarity.",
+    "image": "http://books.google.com/books/content?id=bLSkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 384,
+    "isbn10": "1501152947",
+    "isbn13": "9781501152948",
+    "googleBooks": {
+      "id": "bLSkDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=bLSkDwAAQBAJ&pg=PP6&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=bLSkDwAAQBAJ&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Rule_Makers_Rule_Breakers.html?hl=&id=bLSkDwAAQBAJ"
+    },
+    "issueNumber": 21,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:28:36.000Z"
+  },
+  {
+    "title": "Anger, Madness, and the Daimonic",
+    "authors": [
+      "Stephen A. Diamond"
+    ],
+    "publisher": "SUNY Press",
+    "publishedDate": "1996-01-01",
+    "description": "Explores the links between anger, rage, violence, evil, and creativity and describes a dynamic therapeutic approach that can help channel anger and violent impulses into constructive and creative activity.",
+    "image": "http://books.google.com/books/content?id=NgB0yim87cQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 402,
+    "isbn10": "0791430758",
+    "isbn13": "9780791430750",
+    "googleBooks": {
+      "id": "NgB0yim87cQC",
+      "preview": "http://books.google.com/books?id=NgB0yim87cQC&pg=PA314&dq=intitle:Anger:+The+Misunderstood+Emotion,+Carol+Tavris&hl=&cd=9&source=gbs_api",
+      "info": "http://books.google.com/books?id=NgB0yim87cQC&dq=intitle:Anger:+The+Misunderstood+Emotion,+Carol+Tavris&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Anger_Madness_and_the_Daimonic.html?hl=&id=NgB0yim87cQC"
+    },
+    "issueNumber": 20,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:27:56.000Z"
+  },
+  {
+    "title": "God Can't",
+    "authors": [
+      "Thomas Jay Oord"
+    ],
+    "publisher": "SacraSage Press",
+    "publishedDate": "2019-01-05",
+    "description": "Hurting people ask heart-felt questions about God and suffering. Some \"answers\" they receive appeal to mystery: “God’s ways are not our ways”. Some answers say God allows evil for a greater purpose. Some say evil is God's punishment. The usual answers fail. They don't support the truth that God loves everyone all the time. God Can't gives a believable answer to why a good and powerful God doesn't prevent evil. Author Thomas Jay Oord says God’s love is inherently uncontrolling. God loves everyone and everything, so God can't control anyone or anything. This means God cannot prevent evil singlehandedly. God can’t stop evildoers, whether human, animal, organism, or inanimate objects and forces. In God Can't, Oord gives a plausible reason why some are healed, but many others are not. God always works to heal everyone, but sometimes our bodies, organisms, or other creatures do not cooperate with God's healing work. Or the conditions of creation are not right for the healing God wants to do. Some people think God causes or allows suffering to teach us lessons or build our character. God Can't disagrees. Oord says God squeezes good from the evil God didn’t want in the first place. God uses pain and suffering without willing or even allowing it. Most people think God can overcome evil singlehandedly. In God Can't, Oord says God needs cooperation for love to reign now and later. This leads to a better view of the afterlife called “relentless love.” It rejects traditional ideas of heaven, hell, and annihilation. Relentless love holds to the possibility all creatures and all creation will respond to God’s love. God Can't is written in understandable language. As a world-renown theologian, Thomas Jay Oord brings credibility to the book’s radical ideas. He explains these ideas through true stories, illustrations, and scripture. God Can't is for those who want answers to tragedy, abuse, and other evils that make sense! What They're Saying... “If conventional notions of God make less and less sense to you, you’ll find Thomas Jay Oord’s new book a breath of fresh air. Simply put, “God Can’t” presents an understanding of God that thoughtful, ethical people can believe in.” -- Brian D. McLaren, author of The Great Spiritual Migration \"I did not want this book to end. I wish Dr. Oord had written it 100 years ago, or 1000 years ago... To find your understanding of life and your love for God renewed, read this book.\" -- Dr. Karen Strand Winslow, Ph.D., Biblical and Jewish Studies Professor of Bible, Azusa Pacific University \"As a clinical psychologist working with people in trauma, I owe Thomas Jay Oord an enormous debt of gratitude for recasting the so-called problem of evil in terms that are conceptually satisfying, theologically consistent, and pastorally liberating.” -- Dr Roger Bretherton- Principal Lecturer at the University of Lincoln (UK), Chair of the British Association of Christians in Psychology “Victims of trauma sometimes hear theological responses that imply their suffering is somehow “God’s will.\" A more careful theological reflection on the nature of the power of a God who is love can help. Oord gives us a clear and compelling alternative in this profoundly insightful and admirably concrete and accessible book.” -- Dr. Anna Case-Winters, Professor of Theology at McCormick Theological Seminary “I know of no book that speaks to suffering with the depth of theological sophistication and psychological sensitivity as God Can’t. This book is a rare combination of depth and accessibility, truly written for the wounded. I recommend it to my students, parishioners, and therapy clients.” -- Dr. Brad D. Strawn, Professor of the Integration of Psychology and Theology, Fuller Theological Seminary",
+    "image": "http://books.google.com/books/content?id=gtv8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 212,
+    "isbn10": "1948609134",
+    "isbn13": "9781948609135",
+    "googleBooks": {
+      "id": "gtv8DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=gtv8DwAAQBAJ&printsec=frontcover&dq=intitle:God+Can%27t:+How+to+Believe+in+God+and+Love+after+Tragedy,+Abuse,+and+Other+Evils,+Jay+Oord&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=gtv8DwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=gtv8DwAAQBAJ"
+    },
+    "issueNumber": 19,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-08-29T03:27:11.000Z",
+    "completedAt": "2023-09-09T17:58:36.000Z",
+    "timeToComplete": 32538685000,
+    "timeToCompleteFormatted": "1 year"
+  },
+  {
+    "title": "The Nature of the Beast",
+    "authors": [
+      "David Anderson"
+    ],
+    "publishedDate": "2022-03-15",
+    "description": "Most of what we know about emotions is unreliable. It's gathered either by asking people about their feelings, or by putting them in an MRI and studying how they react to pretend situations, to which they are unlikely to respond as they would in real life. If we're ever going to understand how emotions work, we need a better way of studying them. In The Nature of the Beast, pioneering neuroscientist David J. Anderson reveals how he has begun to solve this problem. He and his team have figured out how to study the brain activity of animals as they navigate real-life scenarios, like foraging, fleeing a predator, or competing for a mate. His research has revolutionized what we know about animal fear and aggression. Here, he explains what his research can teach us about human behavior, offering new insights into why isolation makes us more aggressive, how sex and violence connect, and whether there's a link between aggression and mental illness. Part How Emotions Are Made, part Mama's Last Hug, The Nature of the Beast reconceptualizes how the brain regulates emotions--and explains why we have them at all.",
+    "image": "http://books.google.com/books/content?id=u4h_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 272,
+    "isbn10": "1541674634",
+    "isbn13": "9781541674639",
+    "googleBooks": {
+      "id": "u4h_zgEACAAJ",
+      "preview": "http://books.google.com/books?id=u4h_zgEACAAJ&dq=intitle:The+Nature+of+the+Beast:+How+Emotions+Guide+Us,+David+J.+Anderson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=u4h_zgEACAAJ&dq=intitle:The+Nature+of+the+Beast:+How+Emotions+Guide+Us,+David+J.+Anderson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Nature_of_the_Beast.html?hl=&id=u4h_zgEACAAJ"
+    },
+    "issueNumber": 18,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:26:11.000Z"
+  },
+  {
+    "title": "The Seven Principles for Making Marriage Work",
+    "authors": [
+      "John Gottman, PhD",
+      "Nan Silver"
+    ],
+    "publisher": "Harmony",
+    "publishedDate": "2015-05-05",
+    "description": "NEW YORK TIMES BESTSELLER • Over a million copies sold! “An eminently practical guide to an emotionally intelligent—and long-lasting—marriage.”—Daniel Goleman, author of Emotional Intelligence The Seven Principles for Making Marriage Work has revolutionized the way we understand, repair, and strengthen marriages. John Gottman’s unprecedented study of couples over a period of years has allowed him to observe the habits that can make—and break—a marriage. Here is the culmination of that work: the seven principles that guide couples on a path toward a harmonious and long-lasting relationship. Straightforward yet profound, these principles teach partners new approaches for resolving conflicts, creating new common ground, and achieving greater levels of intimacy. Gottman offers strategies and resources to help couples collaborate more effectively to resolve any problem, whether dealing with issues related to sex, money, religion, work, family, or anything else. Packed with new exercises and the latest research out of the esteemed Gottman Institute, this revised edition of The Seven Principles for Making Marriage Work is the definitive guide for anyone who wants their relationship to attain its highest potential.",
+    "image": "http://books.google.com/books/content?id=ZZVoBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "categories": [
+      "Family & Relationships"
+    ],
+    "pageCount": 320,
+    "isbn10": "1101902914",
+    "isbn13": "9781101902912",
+    "googleBooks": {
+      "id": "ZZVoBAAAQBAJ",
+      "preview": "http://books.google.com/books?id=ZZVoBAAAQBAJ&printsec=frontcover&dq=intitle:The+Seven+Principles+for+Making+Marriage+Work:+A+Practical+Guide+from+the+Country%27s+Foremost+Relationship+Expert,+John+Gottman,+Nan+Silver&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=ZZVoBAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=ZZVoBAAAQBAJ"
+    },
+    "issueNumber": 17,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:25:32.000Z"
+  },
+  {
+    "title": "Tattoos on the Heart",
+    "authors": [
+      "Greg Boyle"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2011-02-08",
+    "description": "Father Boyle started Homeboy Industries nearly 20 years ago, which has served members of more than half of the gangs in Los Angeles. This collection presents parables about kinship and the sacredness of life drawn from Boyle's years of working with gangs.",
+    "image": "http://books.google.com/books/content?id=Ooz8Ke9w89QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 30,
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 240,
+    "isbn10": "1439153159",
+    "isbn13": "9781439153154",
+    "googleBooks": {
+      "id": "Ooz8Ke9w89QC",
+      "preview": "http://books.google.com/books?id=Ooz8Ke9w89QC&printsec=frontcover&dq=intitle:Tattoos+on+the+Heart:+The+Power+of+Boundless+Compassion,+Gregory+Boyle&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Ooz8Ke9w89QC&dq=intitle:Tattoos+on+the+Heart:+The+Power+of+Boundless+Compassion,+Gregory+Boyle&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Tattoos_on_the_Heart.html?hl=&id=Ooz8Ke9w89QC"
+    },
+    "issueNumber": 16,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:24:43.000Z"
+  },
+  {
+    "title": "Being You",
+    "authors": [
+      "Anil Seth"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2021-10-19",
+    "description": "INTERNATIONAL BESTSELLER A Best Book of 2021—Bloomberg Businessweek; A Best Science Book of 2021—The Guardian; A Best Science Book of 2021—Financial Times; A Best Philosophy Book of 2021—Five Books; A Best Book of 2021—The Economist Anil Seth's quest to understand the biological basis of conscious experience is one of the most exciting contributions to twenty-first-century science. What does it mean to “be you”—that is, to have a specific, conscious experience of the world around you and yourself within it? There may be no more elusive or fascinating question. Historically, humanity has considered the nature of consciousness to be a primarily spiritual or philosophical inquiry, but scientific research is now mapping out compelling biological theories and explanations for consciousness and selfhood. Now, internationally renowned neuroscience professor, researcher, and author Anil Seth is offers a window into our consciousness in BEING YOU: A New Science of Consciousness. Anil Seth is both a leading expert on the neuroscience of consciousness and one of most prominent spokespeople for this relatively new field of science. His radical argument is that we do not perceive the world as it objectively is, but rather that we are prediction machines, constantly inventing our world and correcting our mistakes by the microsecond, and that we can now observe the biological mechanisms in the brain that accomplish this process of consciousness. Seth has been interviewed for documentaries aired on the BBC, Netflix, and Amazon and podcasts by Sam Harris, Russell Brand, and Chris Anderson, and his 2017 TED Talk on the topic has been viewed over 11 million times, a testament to his uncanny ability to make unimaginably complex science accessible and entertaining.",
+    "image": "http://books.google.com/books/content?id=arVCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 352,
+    "isbn10": "1524742872",
+    "isbn13": "9781524742874",
+    "googleBooks": {
+      "id": "arVCEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=arVCEAAAQBAJ&printsec=frontcover&dq=intitle:Being+You:+A+New+Science+of+Consciousness,+Anil+Seth&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=arVCEAAAQBAJ&dq=intitle:Being+You:+A+New+Science+of+Consciousness,+Anil+Seth&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Being_You.html?hl=&id=arVCEAAAQBAJ"
+    },
+    "issueNumber": 15,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:24:01.000Z"
+  },
+  {
+    "title": "Wild Problems",
+    "authors": [
+      "Russ Roberts"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2022-08-09",
+    "description": "From the host of EconTalk, a guide to decision-making when you can't crunch the numbers Algorithms and apps analyze data and tell you how to beat the traffic, what books to buy, what music to listen to, and even who to date—often with great results. But what do you do when you face the big decisions of life—the \"wild problems\" of who to marry, whether to have children, where to move, how to forge a life well-lived—that can’t be solved by measurement or calculation? In Wild Problems, beloved host of EconTalk Russ Roberts offers puzzled rationalists a way to address these wild problems. He suggests spending less time and energy on the path that promises the most happiness, and more time on figuring out who you actually want to be. He draws on the experience of great artists, writers, and scientists of the past who found creative ways to navigate life’s biggest questions. And he lays out strategies for reducing the fear and the loss of control that inevitably come when a wild problem requires a leap in the dark. Ultimately, Roberts asks us to see ourselves and our lives less as a problem to be solved than a mystery to be experienced. There's no right decision waiting to be uncovered by an app or rational analysis. Reality is harder than that and, perhaps, a little more interesting.",
+    "image": "http://books.google.com/books/content?id=85xBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 225,
+    "isbn10": "0593418263",
+    "isbn13": "9780593418260",
+    "googleBooks": {
+      "id": "85xBEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=85xBEAAAQBAJ&printsec=frontcover&dq=intitle:Wild+Problems:+A+Guide+to+the+Decisions+That+Define+Us,+Russ+Roberts&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=85xBEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=85xBEAAAQBAJ"
+    },
+    "issueNumber": 14,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2022-08-29T03:16:59.000Z"
+  },
+  {
+    "title": "The Obstacle Is the Way",
+    "authors": [
+      "Ryan Holiday"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2014-05-01",
+    "description": "#1 Wall Street Journal Bestseller The Obstacle is the Way has become a cult classic, beloved by men and women around the world who apply its wisdom to become more successful at whatever they do. Its many fans include a former governor and movie star (Arnold Schwarzenegger), a hip hop icon (LL Cool J), an Irish tennis pro (James McGee), an NBC sportscaster (Michele Tafoya), and the coaches and players of winning teams like the New England Patriots, Seattle Seahawks, Chicago Cubs, and University of Texas men’s basketball team. The book draws its inspiration from stoicism, the ancient Greek philosophy of enduring pain or adversity with perseverance and resilience. Stoics focus on the things they can control, let go of everything else, and turn every new obstacle into an opportunity to get better, stronger, tougher. As Marcus Aurelius put it nearly 2000 years ago: “The impediment to action advances action. What stands in the way becomes the way.” Ryan Holiday shows us how some of the most successful people in history—from John D. Rockefeller to Amelia Earhart to Ulysses S. Grant to Steve Jobs—have applied stoicism to overcome difficult or even impossible situations. Their embrace of these principles ultimately mattered more than their natural intelligence, talents, or luck. If you’re feeling frustrated, demoralized, or stuck in a rut, this book can help you turn your problems into your biggest advantages. And along the way it will inspire you with dozens of true stories of the greats from every age and era.",
+    "image": "http://books.google.com/books/content?id=jWqJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 426,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 224,
+    "isbn10": "1591846358",
+    "isbn13": "9781591846352",
+    "googleBooks": {
+      "id": "jWqJDQAAQBAJ",
+      "preview": "http://books.google.com/books?id=jWqJDQAAQBAJ&pg=PA195&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&cd=10&source=gbs_api",
+      "info": "http://books.google.com/books?id=jWqJDQAAQBAJ&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Obstacle_Is_the_Way.html?hl=&id=jWqJDQAAQBAJ"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-08-22T00:22:39.000Z",
+    "completedAt": "2022-08-28T23:16:32.000Z",
+    "timeToComplete": 600833000,
+    "timeToCompleteFormatted": "6 days"
+  },
+  {
+    "title": "Curious",
+    "authors": [
+      "Ian Leslie"
+    ],
+    "publisher": "Basic Books (AZ)",
+    "publishedDate": "2014-08-26",
+    "description": "“I have no special talents,” said Albert Einstein. “I am only passionately curious.” Everyone is born curious. But only some retain the habits of exploring, learning, and discovering as they grow older. Those who do so tend to be smarter, more creative, and more successful. So why are many of us allowing our curiosity to wane? In Curious, Ian Leslie makes a passionate case for the cultivation of our “desire to know.” Just when the rewards of curiosity have never been higher, it is misunderstood, undervalued, and increasingly monopolized by a cognitive elite. A “curiosity divide” is opening up. This divide is being exacerbated by the way we use the Internet. Thanks to smartphones and tools such as Google and Wikipedia, we can answer almost any question instantly. But does this easy access to information guarantee the growth of curiosity? No—quite the opposite. Leslie argues that true curiosity the sustained quest for understanding that begets insight and innovation—is in fact at risk in a wired world. Drawing on fascinating research from psychology, economics, education, and business, Curious looks at what feeds curiosity and what starves it, and finds surprising answers. Curiosity isn’t, as we’re encouraged to think, a gift that keeps on giving. It is a mental muscle that atrophies without regular exercise and a habit that parents, schools, and workplaces need to nurture. Filled with inspiring stories, case studies, and practical advice, Curious will change the way you think about your own mental habits, and those of your family, friends, and colleagues.",
+    "image": "http://books.google.com/books/content?id=qaAVBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 240,
+    "isbn10": "0465079962",
+    "isbn13": "9780465079964",
+    "googleBooks": {
+      "id": "qaAVBQAAQBAJ",
+      "preview": "http://books.google.com/books?id=qaAVBQAAQBAJ&printsec=frontcover&dq=intitle:Curious:+The+desire+to+know+and+why+your+future+depends+on+it,+Ian+Leslie&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=qaAVBQAAQBAJ&dq=intitle:Curious:+The+desire+to+know+and+why+your+future+depends+on+it,+Ian+Leslie&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Curious.html?hl=&id=qaAVBQAAQBAJ"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-08-20T16:25:37.000Z",
+    "completedAt": "2022-08-28T23:16:44.000Z",
+    "timeToComplete": 715867000,
+    "timeToCompleteFormatted": "1 week"
+  },
+  {
+    "title": "Bittersweet",
+    "authors": [
+      "Susan Cain"
+    ],
+    "publisher": "Crown",
+    "publishedDate": "2022-04-05",
+    "description": "#1 NEW YORK TIMES BESTSELLER • Sadness is your superpower. In her new masterpiece, the author of the bestselling phenomenon Quiet explores the power of the bittersweet personality, revealing a misunderstood side of mental health and creativity while offering a roadmap to facing grief in order to live life to the fullest. “Bittersweet grabs you by the heart and doesn’t let go.”—BRENÉ BROWN, author of Atlas of the Heart “Susan Cain has described and validated my existence once again!”—GLENNON DOYLE, author of Untamed “The perfect cure for toxic positivity.”—ADAM GRANT, author of Think Again ONE OF THE MOST ANTICIPATED BOOKS OF 2022—Oprah Daily, BookPage Bittersweetness is a tendency to states of long­ing, poignancy, and sorrow; an acute aware­ness of passing time; and a curiously piercing joy at the beauty of the world. It recognizes that light and dark, birth and death—bitter and sweet—are forever paired. If you’ve ever wondered why you like sad music . . . If you find comfort or inspiration in a rainy day . . . If you react intensely to music, art, nature, and beauty . . . Then you probably identify with the bitter­sweet state of mind. With Quiet, Susan Cain urged our society to cultivate space for the undervalued, indispensable introverts among us, thereby revealing an un­tapped power hidden in plain sight. Now she em­ploys the same mix of research, storytelling, and memoir to explore why we experience sorrow and longing, and how embracing the bittersweetness at the heart of life is the true path to creativity, con­nection, and transcendence. Cain shows how a bittersweet state of mind is the quiet force that helps us transcend our personal and collective pain, whether from a death or breakup, addiction or illness. If we don’t acknowledge our own heartache, she says, we can end up inflicting it on others via abuse, domination, or neglect. But if we realize that all humans know—or will know—loss and suffering, we can turn toward one another. At a time of profound discord and personal anxiety, Bittersweet brings us together in deep and unexpected ways.",
+    "image": "http://books.google.com/books/content?id=k5k7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 352,
+    "isbn10": "0451499808",
+    "isbn13": "9780451499806",
+    "googleBooks": {
+      "id": "k5k7EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=k5k7EAAAQBAJ&printsec=frontcover&dq=intitle:Bittersweet:+How+Sorrow+and+Longing+Make+Us+Whole,+Susan+Cain&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=k5k7EAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=k5k7EAAAQBAJ"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-07-28T15:45:51.000Z",
+    "completedAt": "2022-08-20T16:23:37.000Z",
+    "timeToComplete": 1989466000,
+    "timeToCompleteFormatted": "3 weeks"
+  },
+  {
+    "title": "Invisible Man",
+    "authors": [
+      "Ralph Ellison"
+    ],
+    "publisher": "Penguin Modern Classics",
+    "publishedDate": "2001-01-01",
+    "description": "Ralph Ellison's impassioned first novel, winner of the prestigious American National Book Award, tells the story of an invisible man simply because people refuse to see me. Yet his powerfully depicted adventures go far beyond the story of one man.",
+    "image": "http://books.google.com/books/content?id=d_a3QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 94,
+    "categories": [
+      "African Americans"
+    ],
+    "pageCount": 581,
+    "isbn10": "0141184426",
+    "isbn13": "9780141184425",
+    "googleBooks": {
+      "id": "d_a3QgAACAAJ",
+      "preview": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Invisible_Man.html?hl=&id=d_a3QgAACAAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-06-01T05:13:01.000Z"
+  },
+  {
+    "title": "Screwtape Letters, The - UK Gift Edition",
+    "authors": [
+      "Clive Staples Lewis"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2001-11-01",
+    "description": "Sly and ironic portrayal of human life from the vantage point of Screwtape, a highly placed assistant to \"Our Father Below\". Gives us the correspondence of the worldy-wise old devil to his nephew Wormwood, a novice demon in charge of securing the damnation of an ordinary young man.",
+    "image": "http://books.google.com/books/content?id=339CkgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 133,
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 209,
+    "isbn10": "0007131879",
+    "isbn13": "9780007131877",
+    "googleBooks": {
+      "id": "339CkgEACAAJ",
+      "preview": "http://books.google.com/books?id=339CkgEACAAJ&dq=intitle:The+Screwtape+Letters(Lewis+Signature+Classics)++Lewis,+Clive+Staples&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=339CkgEACAAJ&dq=intitle:The+Screwtape+Letters(Lewis+Signature+Classics)++Lewis,+Clive+Staples&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Screwtape_Letters_The_UK_Gift_Edition.html?hl=&id=339CkgEACAAJ"
+    },
+    "issueNumber": 7,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-06-01T05:11:14.000Z",
+    "completedAt": "2022-07-27T14:46:59.000Z",
+    "timeToComplete": 4872945000,
+    "timeToCompleteFormatted": "1 month"
+  },
+  {
+    "title": "Lifespan",
+    "authors": [
+      "David A. Sinclair",
+      "Matthew D. LaPlante"
+    ],
+    "publisher": "Atria Books",
+    "publishedDate": "2019-09-10",
+    "description": "A NEW YORK TIMES BESTSELLER “Brilliant and enthralling.”​ —The Wall Street Journal A paradigm-shifting book from an acclaimed Harvard Medical School scientist and one of Time’s most influential people. It’s a seemingly undeniable truth that aging is inevitable. But what if everything we’ve been taught to believe about aging is wrong? What if we could choose our lifespan? In this groundbreaking book, Dr. David Sinclair, leading world authority on genetics and longevity, reveals a bold new theory for why we age. As he writes: “Aging is a disease, and that disease is treatable.” This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger. Through a page-turning narrative, Dr. Sinclair invites you into the process of scientific discovery and reveals the emerging technologies and simple lifestyle changes—such as intermittent fasting, cold exposure, exercising with the right intensity, and eating less meat—that have been shown to help us live younger and healthier for longer. At once a roadmap for taking charge of our own health destiny and a bold new vision for the future of humankind, Lifespan will forever change the way we think about why we age and what we can do about it.",
+    "image": "http://books.google.com/books/content?id=x--oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 4,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 432,
+    "isbn10": "1501191977",
+    "isbn13": "9781501191978",
+    "googleBooks": {
+      "id": "x--oDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=x--oDwAAQBAJ&printsec=frontcover&dq=intitle:Lifespan:+Why+We+Age%E2%80%94and+Why+We+Don%27t+Have+To++Sinclair,+David%3B+LaPlante,+Matt&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=x--oDwAAQBAJ&dq=intitle:Lifespan:+Why+We+Age%E2%80%94and+Why+We+Don%27t+Have+To++Sinclair,+David%3B+LaPlante,+Matt&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Lifespan.html?hl=&id=x--oDwAAQBAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T21:18:07.000Z"
+  },
+  {
+    "title": "Projections",
+    "authors": [
+      "Karl Deisseroth"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2021-06-15",
+    "description": "A groundbreaking tour of the human mind that illuminates the biological nature of our inner worlds and emotions, through gripping, moving—and, at times, harrowing—clinical stories “[A] scintillating and moving analysis of the human brain and emotions.”—Nature “Beautifully connects the inner feelings within all human beings to deep insights from modern psychiatry and neuroscience.”—Robert Lefkowitz, Nobel Laureate Karl Deisseroth has spent his life pursuing truths about the human mind, both as a renowned clinical psychiatrist and as a researcher creating and developing the revolutionary field of optogenetics, which uses light to help decipher the brain’s workings. In Projections, he combines his knowledge of the brain’s inner circuitry with a deep empathy for his patients to examine what mental illness reveals about the human mind and the origin of human feelings—how the broken can illuminate the unbroken. Through cutting-edge research and gripping case studies from Deisseroth’s own patients, Projections tells a larger story about the material origins of human emotion, bridging the gap between the ancient circuits of our brain and the poignant moments of suffering in our daily lives. The stories of Deisseroth’s patients are rich with humanity and shine an unprecedented light on the self—and the ways in which it can break down. A young woman with an eating disorder reveals how the mind can rebel against the brain’s most primitive drives of hunger and thirst; an older man, smothered into silence by depression and dementia, shows how humans evolved to feel not only joy but also its absence; and a lonely Uighur woman far from her homeland teaches both the importance—and challenges—of deep social bonds. Illuminating, literary, and essential, Projections is a revelatory, immensely powerful work. It transforms our understanding not only of the brain but of ourselves as social beings—giving vivid illustrations through science and resonant human stories of our yearning for connection and meaning.",
+    "image": "http://books.google.com/books/content?id=4AEvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 256,
+    "isbn10": "1984853694",
+    "isbn13": "9781984853691",
+    "googleBooks": {
+      "id": "4AEvEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=4AEvEAAAQBAJ&printsec=frontcover&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=4AEvEAAAQBAJ&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Projections.html?hl=&id=4AEvEAAAQBAJ"
+    },
+    "issueNumber": 5,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-05-07T21:16:59.000Z",
+    "completedAt": "2022-05-30T18:09:10.000Z",
+    "timeToComplete": 1975931000,
+    "timeToCompleteFormatted": "3 weeks"
+  },
+  {
+    "title": "How Emotions Are Made",
+    "authors": [
+      "Lisa Feldman Barrett"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2017-03-07",
+    "description": "Preeminent psychologist Lisa Barrett lays out how the brain constructs emotions in a way that could revolutionize psychology, health care, the legal system, and our understanding of the human mind. “Fascinating . . . A thought-provoking journey into emotion science.”—The Wall Street Journal “A singular book, remarkable for the freshness of its ideas and the boldness and clarity with which they are presented.”—Scientific American “A brilliant and original book on the science of emotion, by the deepest thinker about this topic since Darwin.”—Daniel Gilbert, best-selling author of Stumbling on Happiness The science of emotion is in the midst of a revolution on par with the discovery of relativity in physics and natural selection in biology. Leading the charge is psychologist and neuroscientist Lisa Feldman Barrett, whose research overturns the long-standing belief that emotions are automatic, universal, and hardwired in different brain regions. Instead, Barrett shows, we construct each instance of emotion through a unique interplay of brain, body, and culture. A lucid report from the cutting edge of emotion science, How Emotions Are Made reveals the profound real-world consequences of this breakthrough for everything from neuroscience and medicine to the legal system and even national security, laying bare the immense implications of our latest and most intimate scientific revolution.",
+    "image": "http://books.google.com/books/content?id=hN8MBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 5,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 448,
+    "isbn10": "0544129962",
+    "isbn13": "9780544129962",
+    "googleBooks": {
+      "id": "hN8MBgAAQBAJ",
+      "preview": "http://books.google.com/books?id=hN8MBgAAQBAJ&printsec=frontcover&dq=intitle:How+Emotions+Are+Made:+The+Secret+Life+of+the+Brain++Barrett,+Lisa+Feldman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ"
+    },
+    "issueNumber": 4,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T21:15:13.000Z"
+  },
+  {
+    "title": "The Molecule of More",
+    "authors": [
+      "Daniel Z. Lieberman",
+      "Michael E. Long"
+    ],
+    "publisher": "BenBella Books",
+    "publishedDate": "2018-08-14",
+    "description": "Why are we obsessed with the things we want only to be bored when we get them? Why is addiction perfectly logical to an addict? Why does love change so quickly from passion to indifference? Why are some people die-hard liberals and others hardcore conservatives? Why are we always hopeful for solutions even in the darkest times—and so good at figuring them out? The answer is found in a single chemical in your brain: dopamine. Dopamine ensured the survival of early man. Thousands of years later, it is the source of our most basic behaviors and cultural ideas—and progress itself. Dopamine is the chemical of desire that always asks for more—more stuff, more stimulation, and more surprises. In pursuit of these things, it is undeterred by emotion, fear, or morality. Dopamine is the source of our every urge, that little bit of biology that makes an ambitious business professional sacrifice everything in pursuit of success, or that drives a satisfied spouse to risk it all for the thrill of someone new. Simply put, it is why we seek and succeed; it is why we discover and prosper. Yet, at the same time, it's why we gamble and squander. From dopamine's point of view, it's not the having that matters. It's getting something—anything—that's new. From this understanding—the difference between possessing something versus anticipating it—we can understand in a revolutionary new way why we behave as we do in love, business, addiction, politics, religion—and we can even predict those behaviors in ourselves and others. In The Molecule of More: How a Single Chemical in Your Brain Drives Love, Sex, and Creativity—and will Determine the Fate of the Human Race, George Washington University professor and psychiatrist Daniel Z. Lieberman, MD, and Georgetown University lecturer Michael E. Long present a potentially life-changing proposal: Much of human life has an unconsidered component that explains an array of behaviors previously thought to be unrelated, including why winners cheat, why geniuses often suffer with mental illness, why nearly all diets fail, and why the brains of liberals and conservatives really are different.",
+    "image": "http://books.google.com/books/content?id=ngFCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 2,
+    "ratingsCount": 1,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 240,
+    "isbn10": "1946885290",
+    "isbn13": "9781946885296",
+    "googleBooks": {
+      "id": "ngFCDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=ngFCDwAAQBAJ&printsec=frontcover&dq=intitle:The+Molecule+of+More:+How+a+Single+Chemical+in+Your+Brain+Drives+Love,+Sex,+and+Creativity--and+Will+Determine+the+Fate+of+the+Human+Race+by+Lieberman,+Daniel+Z.%3B+Long,+Michael+E.&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=ngFCDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=ngFCDwAAQBAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-05-07T20:47:11.000Z",
+    "completedAt": "2022-06-01T05:07:37.000Z",
+    "timeToComplete": 2103626000,
+    "timeToCompleteFormatted": "3 weeks"
+  },
+  {
+    "title": "The God-Shaped Heart",
+    "authors": [
+      "Timothy R. MD Jennings"
+    ],
+    "publisher": "Baker Books",
+    "publishedDate": "2017-09-05",
+    "description": "The key to spiritual and emotional health is to grasp the truth of God's transforming love for us and then let that reality influence our own hearts and relationships. It seems simple, but we are experts at complicating simple things. Instead of living lives characterized by love we find ourselves trapped in cycles of shame, violence, and addiction that steal our joy and keep us from loving others--so much so that, by all indications, Christians are living no differently than anyone else when it comes to abuse rates, use of pornography, alcohol and drug addiction, and more. Christian psychiatrist Dr. Timothy Jennings wants to release us from this prison. With powerful illustrations from case studies and from Scripture, Jennings shows believers who are stuck in addiction, violence, fear, and broken relationships how to experience true freedom through God's transforming love to experience greater health, fulfillment, and well-being.",
+    "image": "http://books.google.com/books/content?id=O8U4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 304,
+    "isbn10": "1493409433",
+    "isbn13": "9781493409433",
+    "googleBooks": {
+      "id": "O8U4DgAAQBAJ",
+      "preview": "http://books.google.com/books?id=O8U4DgAAQBAJ&pg=PT3&dq=intitle:The+Soul+of+Desire:+Discovering+the+Neuroscience+of+Longing,+Beauty,+and+Community+by+Thompson+MD,+Curt&hl=&cd=3&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ"
+    },
+    "issueNumber": 1,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-05-07T20:43:23.000Z",
+    "completedAt": "2022-07-27T14:47:15.000Z",
+    "timeToComplete": 6977032000,
+    "timeToCompleteFormatted": "2 months"
   }
 ]
