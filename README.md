@@ -1,8 +1,9 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (4)
+### ⌛ Currently reading (5)
 
+[![Book cover of Fortitude](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqWexDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/64 "Fortitude by Dan Crenshaw")
 [![Book cover of The Brothers Karamazov](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYgNgQgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/58 "The Brothers Karamazov by Fyodor Dostoyevsky, Larissa Volokhonsky, Malcolm V. Jones")
 [![Book cover of Invisible Man](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dd_a3QgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/8 "Invisible Man by Ralph Ellison")
 [![Book cover of Lifespan](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx--oDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/6 "Lifespan by David A. Sinclair, Matthew D. LaPlante")
