@@ -14,6 +14,7 @@
 
 ## Other
 
+- I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression, Terrence Real (The book Outlive)
 - The Soul of Civility: Timeless Principles to Heal Society and Ourselves, Alexandra Hudson (EconTalk Oct 16, 2023)
 - The World Behind the World: Consciousness, Free Will, and the Limits of Science, Erik Hoel (EconTalk July 24h 2023)
 - The Truth and Beauty: How the Lives and Works of England's Greatest Poets Point the Way to a Deeper Understanding of the Words of Jesus, Andrew Klavan (Maybe God podcast 71)
