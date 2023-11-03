@@ -14,6 +14,7 @@
 
 ## Other
 
+- A Theory of Everyone: The New Science of Who We Are, How We Got Here, and Where We’re Going, Michael Muthukrishna (Mindscape Oct 30, 2023)
 - I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression, Terrence Real (The book Outlive)
 - The Soul of Civility: Timeless Principles to Heal Society and Ourselves, Alexandra Hudson (EconTalk Oct 16, 2023)
 - The World Behind the World: Consciousness, Free Will, and the Limits of Science, Erik Hoel (EconTalk July 24h 2023)
