@@ -1,5 +1,32 @@
 [
   {
+    "title": "Wild Problems",
+    "authors": [
+      "Russ Roberts"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2022-08-09",
+    "description": "From the host of EconTalk, a guide to decision-making when you can't crunch the numbers Algorithms and apps analyze data and tell you how to beat the traffic, what books to buy, what music to listen to, and even who to date—often with great results. But what do you do when you face the big decisions of life—the \"wild problems\" of who to marry, whether to have children, where to move, how to forge a life well-lived—that can’t be solved by measurement or calculation? In Wild Problems, beloved host of EconTalk Russ Roberts offers puzzled rationalists a way to address these wild problems. He suggests spending less time and energy on the path that promises the most happiness, and more time on figuring out who you actually want to be. He draws on the experience of great artists, writers, and scientists of the past who found creative ways to navigate life’s biggest questions. And he lays out strategies for reducing the fear and the loss of control that inevitably come when a wild problem requires a leap in the dark. Ultimately, Roberts asks us to see ourselves and our lives less as a problem to be solved than a mystery to be experienced. There's no right decision waiting to be uncovered by an app or rational analysis. Reality is harder than that and, perhaps, a little more interesting.",
+    "image": "http://books.google.com/books/content?id=_KZPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 225,
+    "isbn10": "0593418255",
+    "isbn13": "9780593418253",
+    "googleBooks": {
+      "id": "_KZPEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=_KZPEAAAQBAJ&printsec=frontcover&dq=intitle:Wild+Problems:+A+Guide+to+the+Decisions+That+Define+Us,+Russell+D.+Roberts&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=_KZPEAAAQBAJ&dq=intitle:Wild+Problems:+A+Guide+to+the+Decisions+That+Define+Us,+Russell+D.+Roberts&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Wild_Problems.html?hl=&id=_KZPEAAAQBAJ"
+    },
+    "issueNumber": 66,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-11-12T05:54:32.000Z"
+  },
+  {
     "title": "Outlive",
     "authors": [
       "Peter Attia, MD"
