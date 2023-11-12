@@ -25,8 +25,11 @@
     },
     "issueNumber": 65,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-11-03T16:07:31.000Z"
+    "state": "completed",
+    "startedAt": "2023-11-03T16:07:31.000Z",
+    "completedAt": "2023-11-12T05:53:45.000Z",
+    "timeToComplete": 740774000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Fortitude",
