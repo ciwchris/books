@@ -23,8 +23,11 @@
     },
     "issueNumber": 66,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-11-12T05:54:32.000Z"
+    "state": "completed",
+    "startedAt": "2023-11-12T05:54:32.000Z",
+    "completedAt": "2023-12-02T05:00:16.000Z",
+    "timeToComplete": 1724744000,
+    "timeToCompleteFormatted": "2 weeks"
   },
   {
     "title": "Outlive",
