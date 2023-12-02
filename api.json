@@ -153,8 +153,11 @@
     },
     "issueNumber": 58,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-08-24T05:29:07.000Z"
+    "state": "completed",
+    "startedAt": "2023-08-24T05:29:07.000Z",
+    "completedAt": "2023-12-02T05:00:48.000Z",
+    "timeToComplete": 8638301000,
+    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Excellent Advice for Living",
