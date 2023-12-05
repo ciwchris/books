@@ -1,5 +1,32 @@
 [
   {
+    "title": "How to Stay Married",
+    "authors": [
+      "Harrison Scott Key"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2023-06-13",
+    "description": "\"From Harrison Scott Key, winner of the 2016 Thurber Prize for American Humor, How to Stay Married is a shockingly candid, hilarious, voyeuristic, and inspiring account of one man's personal journey through hell and back when his wife's infidelity threatens their marriage\"--",
+    "image": "http://books.google.com/books/content?id=piC_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 320,
+    "isbn10": "1668015501",
+    "isbn13": "9781668015506",
+    "googleBooks": {
+      "id": "piC_EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=piC_EAAAQBAJ&printsec=frontcover&dq=intitle:How+to+Stay+Married:+The+Most+Insane+Love+Story+Ever+Told,+Harrison+Scott+Key&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=piC_EAAAQBAJ&dq=intitle:How+to+Stay+Married:+The+Most+Insane+Love+Story+Ever+Told,+Harrison+Scott+Key&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/How_to_Stay_Married.html?hl=&id=piC_EAAAQBAJ"
+    },
+    "issueNumber": 68,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-12-05T05:41:40.000Z"
+  },
+  {
     "title": "Being Mortal",
     "authors": [
       "Atul Gawande"
