@@ -1,5 +1,34 @@
 [
   {
+    "title": "Being Mortal",
+    "authors": [
+      "Atul Gawande"
+    ],
+    "publisher": "Metropolitan Books",
+    "publishedDate": "2014-10-07",
+    "description": "#1 New York Times Bestseller In Being Mortal, bestselling author Atul Gawande tackles the hardest challenge of his profession: how medicine can not only improve life but also the process of its ending Medicine has triumphed in modern times, transforming birth, injury, and infectious disease from harrowing to manageable. But in the inevitable condition of aging and death, the goals of medicine seem too frequently to run counter to the interest of the human spirit. Nursing homes, preoccupied with safety, pin patients into railed beds and wheelchairs. Hospitals isolate the dying, checking for vital signs long after the goals of cure have become moot. Doctors, committed to extending life, continue to carry out devastating procedures that in the end extend suffering. Gawande, a practicing surgeon, addresses his profession's ultimate limitation, arguing that quality of life is the desired goal for patients and families. Gawande offers examples of freer, more socially fulfilling models for assisting the infirm and dependent elderly, and he explores the varieties of hospice care to demonstrate that a person's last weeks or months may be rich and dignified. Full of eye-opening research and riveting storytelling, Being Mortal asserts that medicine can comfort and enhance our experience even to the end, providing not only a good life but also a good end.",
+    "image": "http://books.google.com/books/content?id=tM1zAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 304,
+    "isbn10": "1627790551",
+    "isbn13": "9781627790550",
+    "googleBooks": {
+      "id": "tM1zAwAAQBAJ",
+      "preview": "http://books.google.com/books?id=tM1zAwAAQBAJ&printsec=frontcover&dq=intitle:Being+Mortal:+Medicine+and+What+Matters+in+the+End,+Atul+Gawande&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=tM1zAwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=tM1zAwAAQBAJ"
+    },
+    "issueNumber": 67,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-12-05T05:39:06.000Z"
+  },
+  {
     "title": "Wild Problems",
     "authors": [
       "Russ Roberts"
@@ -1342,33 +1371,6 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:24:01.000Z"
-  },
-  {
-    "title": "Wild Problems",
-    "authors": [
-      "Russ Roberts"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2022-08-09",
-    "description": "From the host of EconTalk, a guide to decision-making when you can't crunch the numbers Algorithms and apps analyze data and tell you how to beat the traffic, what books to buy, what music to listen to, and even who to date—often with great results. But what do you do when you face the big decisions of life—the \"wild problems\" of who to marry, whether to have children, where to move, how to forge a life well-lived—that can’t be solved by measurement or calculation? In Wild Problems, beloved host of EconTalk Russ Roberts offers puzzled rationalists a way to address these wild problems. He suggests spending less time and energy on the path that promises the most happiness, and more time on figuring out who you actually want to be. He draws on the experience of great artists, writers, and scientists of the past who found creative ways to navigate life’s biggest questions. And he lays out strategies for reducing the fear and the loss of control that inevitably come when a wild problem requires a leap in the dark. Ultimately, Roberts asks us to see ourselves and our lives less as a problem to be solved than a mystery to be experienced. There's no right decision waiting to be uncovered by an app or rational analysis. Reality is harder than that and, perhaps, a little more interesting.",
-    "image": "http://books.google.com/books/content?id=85xBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 225,
-    "isbn10": "0593418263",
-    "isbn13": "9780593418260",
-    "googleBooks": {
-      "id": "85xBEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=85xBEAAAQBAJ&printsec=frontcover&dq=intitle:Wild+Problems:+A+Guide+to+the+Decisions+That+Define+Us,+Russ+Roberts&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=85xBEAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=85xBEAAAQBAJ"
-    },
-    "issueNumber": 14,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:16:59.000Z"
   },
   {
     "title": "The Obstacle Is the Way",
