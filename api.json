@@ -23,8 +23,11 @@
     },
     "issueNumber": 68,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-12-05T05:41:40.000Z"
+    "state": "completed",
+    "startedAt": "2023-12-05T05:41:40.000Z",
+    "completedAt": "2023-12-12T03:21:33.000Z",
+    "timeToComplete": 596393000,
+    "timeToCompleteFormatted": "6 days"
   },
   {
     "title": "Being Mortal",
@@ -334,8 +337,11 @@
     },
     "issueNumber": 54,
     "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2023-05-18T17:07:12.000Z"
+    "state": "completed",
+    "startedAt": "2023-05-18T17:07:12.000Z",
+    "completedAt": "2023-12-12T03:21:45.000Z",
+    "timeToComplete": 17921673000,
+    "timeToCompleteFormatted": "6 months"
   },
   {
     "title": "The Experience Machine",
