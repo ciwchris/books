@@ -55,8 +55,11 @@
     },
     "issueNumber": 67,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-12-05T05:39:06.000Z"
+    "state": "completed",
+    "startedAt": "2023-12-05T05:39:06.000Z",
+    "completedAt": "2023-12-12T03:22:44.000Z",
+    "timeToComplete": 596618000,
+    "timeToCompleteFormatted": "6 days"
   },
   {
     "title": "Wild Problems",
