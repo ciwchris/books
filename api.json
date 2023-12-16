@@ -1,5 +1,32 @@
 [
   {
+    "title": "How to Fall in Love with Anyone",
+    "authors": [
+      "Mandy Len Catron"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2017-06-27",
+    "description": "In a series of candid essays, Mandy Len Catron takes a closer look at what it means to love someone, be loved, and how we present our love to the world. -- Adapted from publisher's summary.",
+    "image": "http://books.google.com/books/content?id=t-IoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 256,
+    "isbn10": "1501137441",
+    "isbn13": "9781501137440",
+    "googleBooks": {
+      "id": "t-IoDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=t-IoDwAAQBAJ&printsec=frontcover&dq=intitle:How+to+Fall+in+Love+with+Anyone,+Mandy+Len+Catron&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=t-IoDwAAQBAJ&dq=intitle:How+to+Fall+in+Love+with+Anyone,+Mandy+Len+Catron&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/How_to_Fall_in_Love_with_Anyone.html?hl=&id=t-IoDwAAQBAJ"
+    },
+    "issueNumber": 69,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-12-16T05:57:30.000Z"
+  },
+  {
     "title": "How to Stay Married",
     "authors": [
       "Harrison Scott Key"
@@ -340,11 +367,8 @@
     },
     "issueNumber": 54,
     "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-05-18T17:07:12.000Z",
-    "completedAt": "2023-12-12T03:21:45.000Z",
-    "timeToComplete": 17921673000,
-    "timeToCompleteFormatted": "6 months"
+    "state": "reading",
+    "startedAt": "2023-05-18T17:07:12.000Z"
   },
   {
     "title": "The Experience Machine",
