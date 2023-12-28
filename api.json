@@ -1,5 +1,30 @@
 [
   {
+    "title": "The Annenbergs",
+    "authors": [
+      "John E. Cooney"
+    ],
+    "publisher": "Simon & Schuster",
+    "publishedDate": "1982",
+    "description": "\"This is the colorful and dramatic biography of two of America's most controversial entrepreneurs: Moses Louis Annenberg, 'the racing wire king, ' who built his fortune in racketeering, invested it in publishing, and lost much of it in the biggest tax evasion case in United States history; and his son, Walter, launcher of TV Guide and Seventeen magazines and former ambassador to Great Britain.\"--Jacket.",
+    "image": "http://books.google.com/books/content?id=JdkqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Ambassadors"
+    ],
+    "pageCount": 456,
+    "googleBooks": {
+      "id": "JdkqAAAAMAAJ",
+      "preview": "http://books.google.com/books?id=JdkqAAAAMAAJ&q=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&dq=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=JdkqAAAAMAAJ&dq=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Annenbergs.html?hl=&id=JdkqAAAAMAAJ"
+    },
+    "issueNumber": 70,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-12-28T04:57:00.000Z"
+  },
+  {
     "title": "How to Fall in Love with Anyone",
     "authors": [
       "Mandy Len Catron"
