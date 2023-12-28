@@ -23,8 +23,11 @@
     },
     "issueNumber": 69,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-12-16T05:57:30.000Z"
+    "state": "completed",
+    "startedAt": "2023-12-16T05:57:30.000Z",
+    "completedAt": "2023-12-28T04:56:04.000Z",
+    "timeToComplete": 1033114000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "How to Stay Married",
