@@ -23,8 +23,11 @@
     },
     "issueNumber": 71,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-12-28T04:57:53.000Z"
+    "state": "completed",
+    "startedAt": "2023-12-28T04:57:53.000Z",
+    "completedAt": "2024-01-03T05:43:06.000Z",
+    "timeToComplete": 521113000,
+    "timeToCompleteFormatted": "6 days"
   },
   {
     "title": "The Annenbergs",
@@ -48,8 +51,11 @@
     },
     "issueNumber": 70,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-12-28T04:57:00.000Z"
+    "state": "completed",
+    "startedAt": "2023-12-28T04:57:00.000Z",
+    "completedAt": "2024-01-03T05:43:19.000Z",
+    "timeToComplete": 521179000,
+    "timeToCompleteFormatted": "6 days"
   },
   {
     "title": "How to Fall in Love with Anyone",
