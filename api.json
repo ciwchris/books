@@ -1,5 +1,33 @@
 [
   {
+    "title": "Wilfred Grenfell",
+    "authors": [
+      "Janet Benge",
+      "Geoff Benge"
+    ],
+    "publisher": "Christian Heroes: Then & Now",
+    "publishedDate": "2003",
+    "description": "A biography of the twentieth-century English missionary doctor who started hospitals, fishermen's cooperatives, schools, and an orphanage in the poor fishing communities of Newfoundland and Labrador.",
+    "image": "http://books.google.com/books/content?id=ss-tPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Juvenile Nonfiction"
+    ],
+    "pageCount": 0,
+    "isbn10": "1576582922",
+    "isbn13": "9781576582923",
+    "googleBooks": {
+      "id": "ss-tPQAACAAJ",
+      "preview": "http://books.google.com/books?id=ss-tPQAACAAJ&dq=intitle:Wilfred+Grenfell:+Fisher+of+Men,++Janet+Benge,+Geoff+Benge&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=ss-tPQAACAAJ&dq=intitle:Wilfred+Grenfell:+Fisher+of+Men,++Janet+Benge,+Geoff+Benge&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Wilfred_Grenfell.html?hl=&id=ss-tPQAACAAJ"
+    },
+    "issueNumber": 73,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-02-03T05:58:47.000Z"
+  },
+  {
     "title": "The Second Mountain",
     "authors": [
       "David Brooks"
