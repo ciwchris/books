@@ -24,8 +24,11 @@
     },
     "issueNumber": 73,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-02-03T05:58:47.000Z"
+    "state": "completed",
+    "startedAt": "2024-02-03T05:58:47.000Z",
+    "completedAt": "2024-02-11T06:12:10.000Z",
+    "timeToComplete": 692003000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "The Second Mountain",
