@@ -23,8 +23,11 @@
     },
     "issueNumber": 74,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-02-11T06:14:13.000Z"
+    "state": "completed",
+    "startedAt": "2024-02-11T06:14:13.000Z",
+    "completedAt": "2024-02-12T04:43:42.000Z",
+    "timeToComplete": 80969000,
+    "timeToCompleteFormatted": "22 hours"
   },
   {
     "title": "Wilfred Grenfell",
