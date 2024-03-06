@@ -24,8 +24,11 @@
     },
     "issueNumber": 75,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-03-06T06:53:32.000Z"
+    "state": "completed",
+    "startedAt": "2024-03-06T06:53:32.000Z",
+    "completedAt": "2024-03-06T16:07:42.000Z",
+    "timeToComplete": 33250000,
+    "timeToCompleteFormatted": "9 hours"
   },
   {
     "title": "How To Know a Person",
