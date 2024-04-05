@@ -1,5 +1,32 @@
 [
   {
+    "title": "My Bright Abyss",
+    "authors": [
+      "Christian Wiman"
+    ],
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedDate": "2013-04-02",
+    "description": "Seven years ago, Christian Wiman, a well-known poet and the editor of Poetry magazine, wrote a now-famous essay about having faith in the face of death. My Bright Abyss, composed in the difficult years since and completed in the wake of a bone marrow transplant, is a moving meditation on what a viable contemporary faith—responsive not only to modern thought and science but also to religious tradition—might look like. Joyful, sorrowful, and beautifully written, My Bright Abyss is destined to become a spiritual classic, useful not only to believers but to anyone whose experience of life and art seems at times to overbrim its boundaries. How do we answer this \"burn of being\"? Wiman asks. What might it mean for our lives—and for our deaths—if we acknowledge the \"insistent, persistent ghost\" that some of us call God? One of Publishers Weekly's Best Religion Books of 2013",
+    "image": "http://books.google.com/books/content?id=qWZr21gI2lMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 194,
+    "isbn10": "1466836741",
+    "isbn13": "9781466836747",
+    "googleBooks": {
+      "id": "qWZr21gI2lMC",
+      "preview": "http://books.google.com/books?id=qWZr21gI2lMC&printsec=frontcover&dq=intitle:By+Bright+Abyss:+Meditation+of+a+Moder+Beliver,+Christian+Wiman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=qWZr21gI2lMC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=qWZr21gI2lMC"
+    },
+    "issueNumber": 76,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-04-05T04:31:11.000Z"
+  },
+  {
     "title": "Lillian Trasher",
     "authors": [
       "Janet Benge",
