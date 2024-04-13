@@ -23,8 +23,11 @@
     },
     "issueNumber": 78,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-04-12T17:10:16.000Z"
+    "state": "completed",
+    "startedAt": "2024-04-12T17:10:16.000Z",
+    "completedAt": "2024-04-13T22:16:39.000Z",
+    "timeToComplete": 104783000,
+    "timeToCompleteFormatted": "1 day"
   },
   {
     "title": "The Highly Sensitive Person",
