@@ -1,5 +1,9 @@
 ## Library
 
+- The tangled tree: a radical new history of life
+- I contain multitudes: the microbes within us and a grander view of life
+- Entangled life: how fungi make our worlds change our minds & shape our futures
+
 - River Boy, Tim Bowler
 - The biological mind : how brain, body, and environment collaborate to make us who we are, Alan Jasanoff
 - The biology book : from the origin of life to epigenetics, 250 milestones in the history of biology, Michael Gerald
