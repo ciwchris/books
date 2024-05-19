@@ -1,5 +1,32 @@
 [
   {
+    "title": "Co-Intelligence",
+    "authors": [
+      "Ethan Mollick"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2024-04-02",
+    "description": "From Wharton professor and author of the popular One Useful Thing Substack newsletter Ethan Mollick comes the definitive playbook for working, learning, and living in the new age of AI Something new entered our world in November 2022 — the first general purpose AI that could pass for a human and do the kinds of creative, innovative work that only humans could do previously. Wharton professor Ethan Mollick immediately understood what ChatGPT meant: after millions of years on our own, humans had developed a kind of co-intelligence that could augment, or even replace, human thinking. Through his writing, speaking, and teaching, Mollick has become one of the most prominent and provocative explainers of AI, focusing on the practical aspects of how these new tools for thought can transform our world. In Co-Intelligence, Mollick urges us to engage with AI as co-worker, co-teacher, and coach. He assesses its profound impact on business and education, using dozens of real-time examples of AI in action. Co-Intelligence shows what it means to think and work together with smart machines, and why it's imperative that we master that skill. Mollick challenges us to utilize AI's enormous power without losing our identity, to learn from it without being misled, and to harness its gifts to create a better human future. Wide ranging, hugely thought-provoking, optimistic, and lucid, Co-Intelligence reveals the promise and power of this new era.",
+    "image": "http://books.google.com/books/content?id=r13gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 257,
+    "isbn10": "0593716728",
+    "isbn13": "9780593716724",
+    "googleBooks": {
+      "id": "r13gEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=r13gEAAAQBAJ&printsec=frontcover&dq=intitle:Co-intelligence+living+and+working+with+AI,+Ethan+Mollick&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=r13gEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=r13gEAAAQBAJ"
+    },
+    "issueNumber": 79,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-05-19T23:56:44.000Z"
+  },
+  {
     "title": "Supercommunicators",
     "authors": [
       "Charles Duhigg"
