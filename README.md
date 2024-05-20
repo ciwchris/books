@@ -1,17 +1,17 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (6)
+### ⌛ Currently reading (5)
 
 [![Book cover of A Companion in Crisis](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D7EdkzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/80 "A Companion in Crisis by Philip Yancey")
-[![Book cover of Co-Intelligence](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dr13gEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/79 "Co-Intelligence by Ethan Mollick")
 [![Book cover of Team Human](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFF-NEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/54 "Team Human by Douglas Rushkoff")
 [![Book cover of Invisible Man](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dd_a3QgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/8 "Invisible Man by Ralph Ellison")
 [![Book cover of Lifespan](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx--oDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/6 "Lifespan by David A. Sinclair, Matthew D. LaPlante")
 [![Book cover of How Emotions Are Made](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhN8MBgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/4 "How Emotions Are Made by Lisa Feldman Barrett")
 
-### ✅ Completed (46)
+### ✅ Completed (47)
 
+[![Book cover of Co-Intelligence](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dr13gEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/79 "Co-Intelligence by Ethan Mollick completed in 5 hours on May 2024")
 [![Book cover of Supercommunicators](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DD9e_EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/78 "Supercommunicators by Charles Duhigg completed in 1 day on April 2024")
 [![Book cover of The Highly Sensitive Person](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKZwhAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/77 "The Highly Sensitive Person by Elaine N. Aron completed in 1 week on April 2024")
 [![Book cover of My Bright Abyss](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqWZr21gI2lMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/76 "My Bright Abyss by Christian Wiman completed in 1 week on April 2024")

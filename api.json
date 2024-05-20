@@ -46,8 +46,11 @@
     },
     "issueNumber": 79,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-05-19T23:56:44.000Z"
+    "state": "completed",
+    "startedAt": "2024-05-19T23:56:44.000Z",
+    "completedAt": "2024-05-20T05:20:05.000Z",
+    "timeToComplete": 19401000,
+    "timeToCompleteFormatted": "5 hours"
   },
   {
     "title": "Supercommunicators",
