@@ -1,5 +1,28 @@
 [
   {
+    "title": "A Companion in Crisis",
+    "authors": [
+      "Philip Yancey"
+    ],
+    "publishedDate": "2021-04-13",
+    "description": "Where Can We Turn? As the world entered a long dark night, Philip Yancey returned to a nearly 400-year-old manuscript for guidance. In it, he found a trustworthy companion for living through a global pandemic - or any other crisis. As Yancey says, \"Nothing had prepared me for John Donne's raw account of confrontations with God.\" Preacher and poet John Donne wrote Devotions in 1623, during a pandemic in his city of London. For a month he lay sick, hearing the church bell toll for others while wondering if his death would be next. From what he believed to be his death bed, the great poet wrote a triumph of literature that has given us such familiar phrases as \"No man is an island...\" and \"Never send to know for whom the bell tolls...\" This new version of a classic work is arranged as a 30-day reader based on Donne's meditations, with startling relevance as we face similar questions: What is God trying to tell us? Does God use illness as punishment? How do I find peace and comfort? A Companion in Crisis combines Donne's timeless reflections with present-day commentary, offering universal truths on how to live and die well.",
+    "image": "http://books.google.com/books/content?id=7EdkzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 160,
+    "isbn10": "1947360884",
+    "isbn13": "9781947360884",
+    "googleBooks": {
+      "id": "7EdkzgEACAAJ",
+      "preview": "http://books.google.com/books?id=7EdkzgEACAAJ&dq=intitle:A+companion+in+crisis:+a+moddern+paraphrase+of+John+Donne%27s+devotions,+Philip+Yancey&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=7EdkzgEACAAJ&dq=intitle:A+companion+in+crisis:+a+moddern+paraphrase+of+John+Donne%27s+devotions,+Philip+Yancey&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/A_Companion_in_Crisis.html?hl=&id=7EdkzgEACAAJ"
+    },
+    "issueNumber": 80,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-05-20T05:14:02.000Z"
+  },
+  {
     "title": "Co-Intelligence",
     "authors": [
       "Ethan Mollick"
