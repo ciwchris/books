@@ -1590,8 +1590,11 @@
     },
     "issueNumber": 21,
     "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2022-08-29T03:28:36.000Z"
+    "state": "completed",
+    "startedAt": "2022-08-29T03:28:36.000Z",
+    "completedAt": "2024-06-11T04:18:01.000Z",
+    "timeToComplete": 56335765000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "Anger, Madness, and the Daimonic",
