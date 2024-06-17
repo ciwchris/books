@@ -28,8 +28,11 @@
     },
     "issueNumber": 81,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-06-16T03:40:24.000Z"
+    "state": "completed",
+    "startedAt": "2024-06-16T03:40:24.000Z",
+    "completedAt": "2024-06-17T03:50:14.000Z",
+    "timeToComplete": 86990000,
+    "timeToCompleteFormatted": "1 day"
   },
   {
     "title": "A Companion in Crisis",
