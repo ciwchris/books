@@ -20,15 +20,11 @@
 
 - A Theory of Everyone: The New Science of Who We Are, How We Got Here, and Where We’re Going, Michael Muthukrishna (Mindscape Oct 30, 2023)
 - I Don't Want to Talk About It: Overcoming the Secret Legacy of Male Depression, Terrence Real (The book Outlive)
-- The Soul of Civility: Timeless Principles to Heal Society and Ourselves, Alexandra Hudson (EconTalk Oct 16, 2023)
 - The World Behind the World: Consciousness, Free Will, and the Limits of Science, Erik Hoel (EconTalk July 24h 2023)
 - The Truth and Beauty: How the Lives and Works of England's Greatest Poets Point the Way to a Deeper Understanding of the Words of Jesus, Andrew Klavan (Maybe God podcast 71)
 - Different: gender through the eyes of a primatologist, Frans de Waal (Or maybe any of his book, Peterson)
 - From Extraterrestrials to Animal Minds: Six Myths of Evolution, Simon Conway Morris (Langauage of God 122)
-- Agile Conversations: Transform Your Conversations, Transform Your Culture, Douglas Squirrel, Jeffrey Fredrick
 - The Better Angels of Our Nature: Why Violence Has Declined, Steven Pinker
-- Anger: The Misunderstood Emotion, Carol Tavris
-- Rule Makers, Rule Breakers: How Tight and Loose Cultures Wire Our World, Michele Gelfand 
 - Risk Savvy: How to Make Good Decisions, Gerd Gigerenzer
 - The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal, Jim Loehr
 - The Spike: An Epic Journey Through the Brain in 2.1 Seconds, Mark Humphries 
