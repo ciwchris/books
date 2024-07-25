@@ -23,8 +23,11 @@
     },
     "issueNumber": 83,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-07-14T20:53:42.000Z"
+    "state": "completed",
+    "startedAt": "2024-07-14T20:53:42.000Z",
+    "completedAt": "2024-07-25T04:29:11.000Z",
+    "timeToComplete": 891329000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "You're Not That Great",
