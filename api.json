@@ -1,5 +1,37 @@
 [
   {
+    "title": "Team Human",
+    "authors": [
+      "Douglas Rushkoff"
+    ],
+    "publisher": "National Geographic Books",
+    "publishedDate": "2021-01-12",
+    "description": "Porchlight’s Management and Workplace Culture Book of The Year “[A] thoroughly fascinating exploration of the long interplay between power and the technologies of communication.” —Adam Frank, NPR Team Human is a fiery distillation of preeminent digital theorist Douglas Rushkoff’s most urgent thoughts on civilization, technology, and human nature. In one hundred concise statements, he argues that we are essentially social creatures who achieve our greatest aspirations when we work together not as individuals. Yet today, an antihuman ethos has overtaken our society, undermining our ability to connect. Technologies that were meant to foster cooperation from currency to computers too often are used to exploit and divide us. If we are to adapt and survive these destructive forces, we must recognize that being human is a team sport. Rushkoff inspires us to find the others who understand this fundamental truth and reassert our humanity together.",
+    "image": "http://books.google.com/books/content?id=FF-NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 1,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 0,
+    "isbn10": "0393541533",
+    "isbn13": "9780393541533",
+    "googleBooks": {
+      "id": "FF-NEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=FF-NEAAAQBAJ&dq=intitle:Team+Human,++Douglas+Rushkoff&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=FF-NEAAAQBAJ&dq=intitle:Team+Human,++Douglas+Rushkoff&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Team_Human.html?hl=&id=FF-NEAAAQBAJ"
+    },
+    "issueNumber": 54,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-05-18T17:07:12.000Z",
+    "completedAt": "2024-08-22T21:55:16.000Z",
+    "timeToComplete": 39934084000,
+    "timeToCompleteFormatted": "1 year"
+  },
+  {
     "title": "Probably Overthinking It",
     "authors": [
       "Allen B. Downey"
@@ -76,6 +108,34 @@
       "info": "http://books.google.com/books?id=2TO2NAEACAAJ&dq=intitle:You%27re+Not+That+Great,+Daniel+Crosby&hl=&source=gbs_api",
       "canonical": "https://books.google.com/books/about/You_re_Not_That_Great.html?hl=&id=2TO2NAEACAAJ"
     },
+    "issueNumber": 49,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-03-29T04:29:58.000Z",
+    "completedAt": "2024-07-15T04:34:53.000Z",
+    "timeToComplete": 40953895000,
+    "timeToCompleteFormatted": "1 year"
+  },
+  {
+    "title": "You're Not That Great",
+    "authors": [
+      "Daniel Crosby"
+    ],
+    "publishedDate": "2012-11-09",
+    "image": "https://tse2.mm.bing.net/th?q=You're%20Not%20That%20Great%20by%20Daniel%20Crosby&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "categories": [
+      "Conduct of life"
+    ],
+    "pageCount": 0,
+    "isbn10": "1595718362",
+    "isbn13": "9781595718365",
+    "googleBooks": {
+      "id": "2TO2NAEACAAJ",
+      "preview": "http://books.google.com/books?id=2TO2NAEACAAJ&dq=intitle:You%27re+Not+That+Great,+Daniel+Crosby&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=2TO2NAEACAAJ&dq=intitle:You%27re+Not+That+Great,+Daniel+Crosby&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/You_re_Not_That_Great.html?hl=&id=2TO2NAEACAAJ"
+    },
     "issueNumber": 82,
     "progressPercent": 0,
     "state": "completed",
@@ -118,6 +178,70 @@
     "completedAt": "2024-06-17T03:50:14.000Z",
     "timeToComplete": 86990000,
     "timeToCompleteFormatted": "1 day"
+  },
+  {
+    "title": "How Emotions Are Made",
+    "authors": [
+      "Lisa Feldman Barrett"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2017-03-07",
+    "description": "Preeminent psychologist Lisa Barrett lays out how the brain constructs emotions in a way that could revolutionize psychology, health care, the legal system, and our understanding of the human mind. “Fascinating . . . A thought-provoking journey into emotion science.”—The Wall Street Journal “A singular book, remarkable for the freshness of its ideas and the boldness and clarity with which they are presented.”—Scientific American “A brilliant and original book on the science of emotion, by the deepest thinker about this topic since Darwin.”—Daniel Gilbert, best-selling author of Stumbling on Happiness The science of emotion is in the midst of a revolution on par with the discovery of relativity in physics and natural selection in biology. Leading the charge is psychologist and neuroscientist Lisa Feldman Barrett, whose research overturns the long-standing belief that emotions are automatic, universal, and hardwired in different brain regions. Instead, Barrett shows, we construct each instance of emotion through a unique interplay of brain, body, and culture. A lucid report from the cutting edge of emotion science, How Emotions Are Made reveals the profound real-world consequences of this breakthrough for everything from neuroscience and medicine to the legal system and even national security, laying bare the immense implications of our latest and most intimate scientific revolution.",
+    "image": "http://books.google.com/books/content?id=hN8MBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 5,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 448,
+    "isbn10": "0544129962",
+    "isbn13": "9780544129962",
+    "googleBooks": {
+      "id": "hN8MBgAAQBAJ",
+      "preview": "http://books.google.com/books?id=hN8MBgAAQBAJ&printsec=frontcover&dq=intitle:How+Emotions+Are+Made:+The+Secret+Life+of+the+Brain++Barrett,+Lisa+Feldman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ"
+    },
+    "issueNumber": 4,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-05-07T21:15:13.000Z",
+    "completedAt": "2024-06-16T05:05:58.000Z",
+    "timeToComplete": 66556245000,
+    "timeToCompleteFormatted": "2 years"
+  },
+  {
+    "title": "Rule Makers, Rule Breakers",
+    "authors": [
+      "Michele Gelfand"
+    ],
+    "publisher": "Scribner",
+    "publishedDate": "2019-08-20",
+    "description": "A celebrated social psychologist offers a radical new perspective on cultural differences that reveals why some countries, cultures, and individuals take rules more seriously and how following the rules influences the way we think and act. In Rule Makers, Rule Breakers, Michele Gelfand, “an engaging writer with intellectual range” (The New York Times Book Review), takes us on an epic journey through human cultures, offering a startling new view of the world and ourselves. With a mix of brilliantly conceived studies and surprising on-the-ground discoveries, she shows that much of the diversity in the way we think and act derives from a key difference—how tightly or loosely we adhere to social norms. Just as DNA affects everything from eye color to height, our tight-loose social coding influences much of what we do. Why are clocks in Germany so accurate while those in Brazil are frequently wrong? Why do New Zealand’s women have the highest number of sexual partners? Why are red and blue states really so divided? Why was the Daimler-Chrysler merger ill-fated from the start? Why is the driver of a Jaguar more likely to run a red light than the driver of a plumber’s van? Why does one spouse prize running a tight ship while the other refuses to sweat the small stuff? In search of a common answer, Gelfand spent two decades conducting research in more than fifty countries. Across all age groups, family variations, social classes, businesses, states, and nationalities, she has identified a primal pattern that can trigger cooperation or conflict. Her fascinating conclusion: behavior is highly influenced by the perception of threat. “A useful and engaging take on human behavior” (Kirkus Reviews) with an approach that is consistently riveting, Rule Makers, Ruler Breakers thrusts many of the puzzling attitudes and actions we observe into sudden and surprising clarity.",
+    "image": "http://books.google.com/books/content?id=bLSkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 384,
+    "isbn10": "1501152947",
+    "isbn13": "9781501152948",
+    "googleBooks": {
+      "id": "bLSkDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=bLSkDwAAQBAJ&pg=PP6&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=bLSkDwAAQBAJ&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Rule_Makers_Rule_Breakers.html?hl=&id=bLSkDwAAQBAJ"
+    },
+    "issueNumber": 21,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-08-29T03:28:36.000Z",
+    "completedAt": "2024-06-11T04:18:01.000Z",
+    "timeToComplete": 56335765000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "A Companion in Crisis",
@@ -206,6 +330,36 @@
     "timeToCompleteFormatted": "1 day"
   },
   {
+    "title": "My Bright Abyss",
+    "authors": [
+      "Christian Wiman"
+    ],
+    "publisher": "Farrar, Straus and Giroux",
+    "publishedDate": "2013-04-02",
+    "description": "Seven years ago, Christian Wiman, a well-known poet and the editor of Poetry magazine, wrote a now-famous essay about having faith in the face of death. My Bright Abyss, composed in the difficult years since and completed in the wake of a bone marrow transplant, is a moving meditation on what a viable contemporary faith—responsive not only to modern thought and science but also to religious tradition—might look like. Joyful, sorrowful, and beautifully written, My Bright Abyss is destined to become a spiritual classic, useful not only to believers but to anyone whose experience of life and art seems at times to overbrim its boundaries. How do we answer this \"burn of being\"? Wiman asks. What might it mean for our lives—and for our deaths—if we acknowledge the \"insistent, persistent ghost\" that some of us call God? One of Publishers Weekly's Best Religion Books of 2013",
+    "image": "http://books.google.com/books/content?id=qWZr21gI2lMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 194,
+    "isbn10": "1466836741",
+    "isbn13": "9781466836747",
+    "googleBooks": {
+      "id": "qWZr21gI2lMC",
+      "preview": "http://books.google.com/books?id=qWZr21gI2lMC&printsec=frontcover&dq=intitle:By+Bright+Abyss:+Meditation+of+a+Moder+Beliver,+Christian+Wiman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=qWZr21gI2lMC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=qWZr21gI2lMC"
+    },
+    "issueNumber": 76,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2024-04-05T04:31:11.000Z",
+    "completedAt": "2024-04-12T17:08:52.000Z",
+    "timeToComplete": 650261000,
+    "timeToCompleteFormatted": "1 week"
+  },
+  {
     "title": "The Highly Sensitive Person",
     "authors": [
       "Elaine N. Aron"
@@ -235,36 +389,6 @@
     "startedAt": "2024-04-05T04:32:12.000Z",
     "completedAt": "2024-04-12T17:08:40.000Z",
     "timeToComplete": 650188000,
-    "timeToCompleteFormatted": "1 week"
-  },
-  {
-    "title": "My Bright Abyss",
-    "authors": [
-      "Christian Wiman"
-    ],
-    "publisher": "Farrar, Straus and Giroux",
-    "publishedDate": "2013-04-02",
-    "description": "Seven years ago, Christian Wiman, a well-known poet and the editor of Poetry magazine, wrote a now-famous essay about having faith in the face of death. My Bright Abyss, composed in the difficult years since and completed in the wake of a bone marrow transplant, is a moving meditation on what a viable contemporary faith—responsive not only to modern thought and science but also to religious tradition—might look like. Joyful, sorrowful, and beautifully written, My Bright Abyss is destined to become a spiritual classic, useful not only to believers but to anyone whose experience of life and art seems at times to overbrim its boundaries. How do we answer this \"burn of being\"? Wiman asks. What might it mean for our lives—and for our deaths—if we acknowledge the \"insistent, persistent ghost\" that some of us call God? One of Publishers Weekly's Best Religion Books of 2013",
-    "image": "http://books.google.com/books/content?id=qWZr21gI2lMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 194,
-    "isbn10": "1466836741",
-    "isbn13": "9781466836747",
-    "googleBooks": {
-      "id": "qWZr21gI2lMC",
-      "preview": "http://books.google.com/books?id=qWZr21gI2lMC&printsec=frontcover&dq=intitle:By+Bright+Abyss:+Meditation+of+a+Moder+Beliver,+Christian+Wiman&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=qWZr21gI2lMC&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=qWZr21gI2lMC"
-    },
-    "issueNumber": 76,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2024-04-05T04:31:11.000Z",
-    "completedAt": "2024-04-12T17:08:52.000Z",
-    "timeToComplete": 650261000,
     "timeToCompleteFormatted": "1 week"
   },
   {
@@ -390,6 +514,34 @@
     "timeToCompleteFormatted": "4 days"
   },
   {
+    "title": "The Annenbergs",
+    "authors": [
+      "John E. Cooney"
+    ],
+    "publisher": "Simon & Schuster",
+    "publishedDate": "1982",
+    "description": "\"This is the colorful and dramatic biography of two of America's most controversial entrepreneurs: Moses Louis Annenberg, 'the racing wire king, ' who built his fortune in racketeering, invested it in publishing, and lost much of it in the biggest tax evasion case in United States history; and his son, Walter, launcher of TV Guide and Seventeen magazines and former ambassador to Great Britain.\"--Jacket.",
+    "image": "http://books.google.com/books/content?id=JdkqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Ambassadors"
+    ],
+    "pageCount": 456,
+    "googleBooks": {
+      "id": "JdkqAAAAMAAJ",
+      "preview": "http://books.google.com/books?id=JdkqAAAAMAAJ&q=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&dq=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=JdkqAAAAMAAJ&dq=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Annenbergs.html?hl=&id=JdkqAAAAMAAJ"
+    },
+    "issueNumber": 70,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-12-28T04:57:00.000Z",
+    "completedAt": "2024-01-03T05:43:19.000Z",
+    "timeToComplete": 521179000,
+    "timeToCompleteFormatted": "6 days"
+  },
+  {
     "title": "I Am Weak, I Am Strong",
     "authors": [
       "Jay Hewitt"
@@ -417,34 +569,6 @@
     "startedAt": "2023-12-28T04:57:53.000Z",
     "completedAt": "2024-01-03T05:43:06.000Z",
     "timeToComplete": 521113000,
-    "timeToCompleteFormatted": "6 days"
-  },
-  {
-    "title": "The Annenbergs",
-    "authors": [
-      "John E. Cooney"
-    ],
-    "publisher": "Simon & Schuster",
-    "publishedDate": "1982",
-    "description": "\"This is the colorful and dramatic biography of two of America's most controversial entrepreneurs: Moses Louis Annenberg, 'the racing wire king, ' who built his fortune in racketeering, invested it in publishing, and lost much of it in the biggest tax evasion case in United States history; and his son, Walter, launcher of TV Guide and Seventeen magazines and former ambassador to Great Britain.\"--Jacket.",
-    "image": "http://books.google.com/books/content?id=JdkqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Ambassadors"
-    ],
-    "pageCount": 456,
-    "googleBooks": {
-      "id": "JdkqAAAAMAAJ",
-      "preview": "http://books.google.com/books?id=JdkqAAAAMAAJ&q=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&dq=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=JdkqAAAAMAAJ&dq=intitle:+The+Six+Conversations+Pathways+to+Connection+in+an+Age+of+Isolation+and+Incivility,+Heather+Holleman&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Annenbergs.html?hl=&id=JdkqAAAAMAAJ"
-    },
-    "issueNumber": 70,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-12-28T04:57:00.000Z",
-    "completedAt": "2024-01-03T05:43:19.000Z",
-    "timeToComplete": 521179000,
     "timeToCompleteFormatted": "6 days"
   },
   {
@@ -478,36 +602,6 @@
     "timeToCompleteFormatted": "1 week"
   },
   {
-    "title": "How to Stay Married",
-    "authors": [
-      "Harrison Scott Key"
-    ],
-    "publisher": "Simon and Schuster",
-    "publishedDate": "2023-06-13",
-    "description": "\"From Harrison Scott Key, winner of the 2016 Thurber Prize for American Humor, How to Stay Married is a shockingly candid, hilarious, voyeuristic, and inspiring account of one man's personal journey through hell and back when his wife's infidelity threatens their marriage\"--",
-    "image": "http://books.google.com/books/content?id=piC_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 320,
-    "isbn10": "1668015501",
-    "isbn13": "9781668015506",
-    "googleBooks": {
-      "id": "piC_EAAAQBAJ",
-      "preview": "http://books.google.com/books?id=piC_EAAAQBAJ&printsec=frontcover&dq=intitle:How+to+Stay+Married:+The+Most+Insane+Love+Story+Ever+Told,+Harrison+Scott+Key&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=piC_EAAAQBAJ&dq=intitle:How+to+Stay+Married:+The+Most+Insane+Love+Story+Ever+Told,+Harrison+Scott+Key&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/How_to_Stay_Married.html?hl=&id=piC_EAAAQBAJ"
-    },
-    "issueNumber": 68,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-12-05T05:41:40.000Z",
-    "completedAt": "2023-12-12T03:21:33.000Z",
-    "timeToComplete": 596393000,
-    "timeToCompleteFormatted": "6 days"
-  },
-  {
     "title": "Being Mortal",
     "authors": [
       "Atul Gawande"
@@ -538,6 +632,70 @@
     "completedAt": "2023-12-12T03:22:44.000Z",
     "timeToComplete": 596618000,
     "timeToCompleteFormatted": "6 days"
+  },
+  {
+    "title": "How to Stay Married",
+    "authors": [
+      "Harrison Scott Key"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2023-06-13",
+    "description": "\"From Harrison Scott Key, winner of the 2016 Thurber Prize for American Humor, How to Stay Married is a shockingly candid, hilarious, voyeuristic, and inspiring account of one man's personal journey through hell and back when his wife's infidelity threatens their marriage\"--",
+    "image": "http://books.google.com/books/content?id=piC_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 320,
+    "isbn10": "1668015501",
+    "isbn13": "9781668015506",
+    "googleBooks": {
+      "id": "piC_EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=piC_EAAAQBAJ&printsec=frontcover&dq=intitle:How+to+Stay+Married:+The+Most+Insane+Love+Story+Ever+Told,+Harrison+Scott+Key&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=piC_EAAAQBAJ&dq=intitle:How+to+Stay+Married:+The+Most+Insane+Love+Story+Ever+Told,+Harrison+Scott+Key&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/How_to_Stay_Married.html?hl=&id=piC_EAAAQBAJ"
+    },
+    "issueNumber": 68,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-12-05T05:41:40.000Z",
+    "completedAt": "2023-12-12T03:21:33.000Z",
+    "timeToComplete": 596393000,
+    "timeToCompleteFormatted": "6 days"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "authors": [
+      "Fyodor Dostoyevsky",
+      "Larissa Volokhonsky",
+      "Malcolm V. Jones"
+    ],
+    "publisher": "Everyman's Library Limited",
+    "publishedDate": "1997",
+    "description": "A magnificent new translation of Dostoevsky's masterpiece, which when first published in 1991 was described by the TIMES as 'a miracle' and by THE INDEPENDENT as a near 'ideal translation'. The BROTHERS KARAMAZOV - Dostoevsky's most widely read novel - is at once a murder mystery, a mordant comedy of family intrigue, a pioneering work of psychological realism and an unblinking look into the abyss of human suffering.",
+    "image": "http://books.google.com/books/content?id=YgNgQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 130,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 796,
+    "isbn10": "1857150708",
+    "isbn13": "9781857150704",
+    "googleBooks": {
+      "id": "YgNgQgAACAAJ",
+      "preview": "http://books.google.com/books?id=YgNgQgAACAAJ&dq=intitle:The+Brothers+Karamazov,+Fyodor+Dostoevsky&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=YgNgQgAACAAJ&dq=intitle:The+Brothers+Karamazov,+Fyodor+Dostoevsky&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Brothers_Karamazov.html?hl=&id=YgNgQgAACAAJ"
+    },
+    "issueNumber": 58,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-08-24T05:29:07.000Z",
+    "completedAt": "2023-12-02T05:00:48.000Z",
+    "timeToComplete": 8638301000,
+    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Wild Problems",
@@ -634,6 +792,66 @@
     "timeToCompleteFormatted": "3 days"
   },
   {
+    "title": "The Experience Machine",
+    "authors": [
+      "Andy Clark"
+    ],
+    "publisher": "Pantheon",
+    "publishedDate": "2023-05-02",
+    "description": "A brilliant new theory of the mind that upends our understanding of how the brain interacts with the world For as long as we’ve studied human cognition, we’ve believed that our senses give us direct access to the world. What we see is what’s really there—or so the thinking goes. But new discoveries in neuroscience and psychology have turned this assumption on its head. What if rather than perceiving reality passively, your mind actively predicts it? “This thoroughly readable book will convince you that the brain and the world are partners in constructing our understanding.” —Sean Carroll, New York Times bestselling author of The Biggest Ideas in the Universe: Space, Time, and Motion Widely acclaimed philosopher and cognitive scientist Andy Clark unpacks this provocative new theory that the brain is a powerful, dynamic prediction engine, mediating our experience of both body and world. From the most mundane experiences to the most sublime, reality as we know it is the complex synthesis of sensory information and expectation. Exploring its fascinating mechanics and remarkable implications for our lives, mental health, and society, Clark nimbly illustrates how the predictive brain sculpts all human experience. Chronic pain and mental illness are shown to involve subtle malfunctions of our unconscious predictions, pointing the way towards more effective, targeted treatments. Under renewed scrutiny, the very boundary between ourselves and the outside world dissolves, showing that we are as entangled with our environments as we are with our onboard memories, thoughts, and feelings. And perception itself is revealed to be something of a controlled hallucination. Unveiling the extraordinary explanatory power of the predictive brain, The Experience Machine is a mesmerizing window onto one of the most significant developments in our understanding of the mind.",
+    "image": "http://books.google.com/books/content?id=u7F3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 305,
+    "isbn10": "1524748463",
+    "isbn13": "9781524748463",
+    "googleBooks": {
+      "id": "u7F3EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=u7F3EAAAQBAJ&printsec=frontcover&dq=intitle:The+Experience+Machine:+How+Our+Minds+Predict+and+Shape+Reality,+Andy+Clark&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=u7F3EAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=u7F3EAAAQBAJ"
+    },
+    "issueNumber": 53,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-05-02T04:07:01.000Z",
+    "completedAt": "2023-09-25T05:27:21.000Z",
+    "timeToComplete": 12619220000,
+    "timeToCompleteFormatted": "4 months"
+  },
+  {
+    "title": "God Can't",
+    "authors": [
+      "Thomas Jay Oord"
+    ],
+    "publisher": "SacraSage Press",
+    "publishedDate": "2019-01-05",
+    "description": "Hurting people ask heart-felt questions about God and suffering. Some \"answers\" they receive appeal to mystery: “God’s ways are not our ways”. Some answers say God allows evil for a greater purpose. Some say evil is God's punishment. The usual answers fail. They don't support the truth that God loves everyone all the time. God Can't gives a believable answer to why a good and powerful God doesn't prevent evil. Author Thomas Jay Oord says God’s love is inherently uncontrolling. God loves everyone and everything, so God can't control anyone or anything. This means God cannot prevent evil singlehandedly. God can’t stop evildoers, whether human, animal, organism, or inanimate objects and forces. In God Can't, Oord gives a plausible reason why some are healed, but many others are not. God always works to heal everyone, but sometimes our bodies, organisms, or other creatures do not cooperate with God's healing work. Or the conditions of creation are not right for the healing God wants to do. Some people think God causes or allows suffering to teach us lessons or build our character. God Can't disagrees. Oord says God squeezes good from the evil God didn’t want in the first place. God uses pain and suffering without willing or even allowing it. Most people think God can overcome evil singlehandedly. In God Can't, Oord says God needs cooperation for love to reign now and later. This leads to a better view of the afterlife called “relentless love.” It rejects traditional ideas of heaven, hell, and annihilation. Relentless love holds to the possibility all creatures and all creation will respond to God’s love. God Can't is written in understandable language. As a world-renown theologian, Thomas Jay Oord brings credibility to the book’s radical ideas. He explains these ideas through true stories, illustrations, and scripture. God Can't is for those who want answers to tragedy, abuse, and other evils that make sense! What They're Saying... “If conventional notions of God make less and less sense to you, you’ll find Thomas Jay Oord’s new book a breath of fresh air. Simply put, “God Can’t” presents an understanding of God that thoughtful, ethical people can believe in.” -- Brian D. McLaren, author of The Great Spiritual Migration \"I did not want this book to end. I wish Dr. Oord had written it 100 years ago, or 1000 years ago... To find your understanding of life and your love for God renewed, read this book.\" -- Dr. Karen Strand Winslow, Ph.D., Biblical and Jewish Studies Professor of Bible, Azusa Pacific University \"As a clinical psychologist working with people in trauma, I owe Thomas Jay Oord an enormous debt of gratitude for recasting the so-called problem of evil in terms that are conceptually satisfying, theologically consistent, and pastorally liberating.” -- Dr Roger Bretherton- Principal Lecturer at the University of Lincoln (UK), Chair of the British Association of Christians in Psychology “Victims of trauma sometimes hear theological responses that imply their suffering is somehow “God’s will.\" A more careful theological reflection on the nature of the power of a God who is love can help. Oord gives us a clear and compelling alternative in this profoundly insightful and admirably concrete and accessible book.” -- Dr. Anna Case-Winters, Professor of Theology at McCormick Theological Seminary “I know of no book that speaks to suffering with the depth of theological sophistication and psychological sensitivity as God Can’t. This book is a rare combination of depth and accessibility, truly written for the wounded. I recommend it to my students, parishioners, and therapy clients.” -- Dr. Brad D. Strawn, Professor of the Integration of Psychology and Theology, Fuller Theological Seminary",
+    "image": "http://books.google.com/books/content?id=gtv8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 212,
+    "isbn10": "1948609134",
+    "isbn13": "9781948609135",
+    "googleBooks": {
+      "id": "gtv8DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=gtv8DwAAQBAJ&printsec=frontcover&dq=intitle:God+Can%27t:+How+to+Believe+in+God+and+Love+after+Tragedy,+Abuse,+and+Other+Evils,+Jay+Oord&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=gtv8DwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=gtv8DwAAQBAJ"
+    },
+    "issueNumber": 19,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-08-29T03:27:11.000Z",
+    "completedAt": "2023-09-09T17:58:36.000Z",
+    "timeToComplete": 32538685000,
+    "timeToCompleteFormatted": "1 year"
+  },
+  {
     "title": "From Strength to Strength",
     "authors": [
       "Arthur C. Brooks"
@@ -666,40 +884,6 @@
     "timeToCompleteFormatted": "5 days"
   },
   {
-    "title": "The Brothers Karamazov",
-    "authors": [
-      "Fyodor Dostoyevsky",
-      "Larissa Volokhonsky",
-      "Malcolm V. Jones"
-    ],
-    "publisher": "Everyman's Library Limited",
-    "publishedDate": "1997",
-    "description": "A magnificent new translation of Dostoevsky's masterpiece, which when first published in 1991 was described by the TIMES as 'a miracle' and by THE INDEPENDENT as a near 'ideal translation'. The BROTHERS KARAMAZOV - Dostoevsky's most widely read novel - is at once a murder mystery, a mordant comedy of family intrigue, a pioneering work of psychological realism and an unblinking look into the abyss of human suffering.",
-    "image": "http://books.google.com/books/content?id=YgNgQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 130,
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 796,
-    "isbn10": "1857150708",
-    "isbn13": "9781857150704",
-    "googleBooks": {
-      "id": "YgNgQgAACAAJ",
-      "preview": "http://books.google.com/books?id=YgNgQgAACAAJ&dq=intitle:The+Brothers+Karamazov,+Fyodor+Dostoevsky&hl=&cd=7&source=gbs_api",
-      "info": "http://books.google.com/books?id=YgNgQgAACAAJ&dq=intitle:The+Brothers+Karamazov,+Fyodor+Dostoevsky&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Brothers_Karamazov.html?hl=&id=YgNgQgAACAAJ"
-    },
-    "issueNumber": 58,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-08-24T05:29:07.000Z",
-    "completedAt": "2023-12-02T05:00:48.000Z",
-    "timeToComplete": 8638301000,
-    "timeToCompleteFormatted": "3 months"
-  },
-  {
     "title": "Excellent Advice for Living",
     "authors": [
       "Kevin Kelly"
@@ -728,37 +912,6 @@
     "completedAt": "2023-08-26T04:52:46.000Z",
     "timeToComplete": 170802000,
     "timeToCompleteFormatted": "1 day"
-  },
-  {
-    "title": "Jonathan Livingston Seagull",
-    "authors": [
-      "Richard Bach"
-    ],
-    "publishedDate": "2011",
-    "description": "Jonathan Livingston Seagull, the most celebrated inspirational fable of our time, tells the story of a bird determined to be more than ordinary. This bestselling modern classic, reissued with a beautiful new cover design, is a story for people who want to follow their dreams and make their own rules and has inspired people for decades. `Most gulls don't bother to learn more than the simplest facts of flight how to get from shore to food and back again,' writes author Richard Bach in this allegory about a unique bird named Jonathan Livingston Seagull. `For most gulls it is not flying that matters, but eating. For this gull, though, it was not eating that mattered, but flight.' Flight is indeed the metaphor that makes this story soar. This bestselling modern classic is a fable about seeking a higher purpose in life, even if your flock, tribe or neighbourhood finds your ambition threatening (at one point our beloved gull is even banished from his flock). By not compromising his higher vision, Jonathan learns the meaning of love and kindness and gets the ultimate payoff transcendence. The dreamy illustrations by Russell Munson provide just the right illustrations for this spirituality classic that has inspired thousands of readers to follow their own path in life and so fulfill their true potential.",
-    "image": "https://tse2.mm.bing.net/th?q=Jonathan%20Livingston%20Seagull%20by%20Richard%20Bach&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 80,
-    "categories": [
-      "Fables"
-    ],
-    "pageCount": 87,
-    "isbn10": "817223578X",
-    "isbn13": "9788172235789",
-    "googleBooks": {
-      "id": "rQVlPgAACAAJ",
-      "preview": "http://books.google.com/books?id=rQVlPgAACAAJ&dq=intitle:Jonathan+Livingston+Seagul,+Richard+Bach&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=rQVlPgAACAAJ&dq=intitle:Jonathan+Livingston+Seagul,+Richard+Bach&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Jonathan_Livingston_Seagull.html?hl=&id=rQVlPgAACAAJ"
-    },
-    "issueNumber": 56,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-08-11T20:02:27.000Z",
-    "completedAt": "2023-08-11T20:09:25.000Z",
-    "timeToComplete": 418000,
-    "timeToCompleteFormatted": "6 minutes"
   },
   {
     "title": "The Gene",
@@ -793,63 +946,65 @@
     "timeToCompleteFormatted": "2 months"
   },
   {
-    "title": "Team Human",
+    "title": "Jonathan Livingston Seagull",
     "authors": [
-      "Douglas Rushkoff"
+      "Richard Bach"
     ],
-    "publisher": "National Geographic Books",
-    "publishedDate": "2021-01-12",
-    "description": "Porchlight’s Management and Workplace Culture Book of The Year “[A] thoroughly fascinating exploration of the long interplay between power and the technologies of communication.” —Adam Frank, NPR Team Human is a fiery distillation of preeminent digital theorist Douglas Rushkoff’s most urgent thoughts on civilization, technology, and human nature. In one hundred concise statements, he argues that we are essentially social creatures who achieve our greatest aspirations when we work together not as individuals. Yet today, an antihuman ethos has overtaken our society, undermining our ability to connect. Technologies that were meant to foster cooperation from currency to computers too often are used to exploit and divide us. If we are to adapt and survive these destructive forces, we must recognize that being human is a team sport. Rushkoff inspires us to find the others who understand this fundamental truth and reassert our humanity together.",
-    "image": "http://books.google.com/books/content?id=FF-NEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "publishedDate": "2011",
+    "description": "Jonathan Livingston Seagull, the most celebrated inspirational fable of our time, tells the story of a bird determined to be more than ordinary. This bestselling modern classic, reissued with a beautiful new cover design, is a story for people who want to follow their dreams and make their own rules and has inspired people for decades. `Most gulls don't bother to learn more than the simplest facts of flight how to get from shore to food and back again,' writes author Richard Bach in this allegory about a unique bird named Jonathan Livingston Seagull. `For most gulls it is not flying that matters, but eating. For this gull, though, it was not eating that mattered, but flight.' Flight is indeed the metaphor that makes this story soar. This bestselling modern classic is a fable about seeking a higher purpose in life, even if your flock, tribe or neighbourhood finds your ambition threatening (at one point our beloved gull is even banished from his flock). By not compromising his higher vision, Jonathan learns the meaning of love and kindness and gets the ultimate payoff transcendence. The dreamy illustrations by Russell Munson provide just the right illustrations for this spirituality classic that has inspired thousands of readers to follow their own path in life and so fulfill their true potential.",
+    "image": "https://tse2.mm.bing.net/th?q=Jonathan%20Livingston%20Seagull%20by%20Richard%20Bach&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
     "language": "en",
-    "averageRating": 3,
-    "ratingsCount": 1,
+    "averageRating": 3.5,
+    "ratingsCount": 80,
     "categories": [
-      "Social Science"
+      "Fables"
     ],
-    "pageCount": 0,
-    "isbn10": "0393541533",
-    "isbn13": "9780393541533",
+    "pageCount": 87,
+    "isbn10": "817223578X",
+    "isbn13": "9788172235789",
     "googleBooks": {
-      "id": "FF-NEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=FF-NEAAAQBAJ&dq=intitle:Team+Human,++Douglas+Rushkoff&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=FF-NEAAAQBAJ&dq=intitle:Team+Human,++Douglas+Rushkoff&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Team_Human.html?hl=&id=FF-NEAAAQBAJ"
+      "id": "rQVlPgAACAAJ",
+      "preview": "http://books.google.com/books?id=rQVlPgAACAAJ&dq=intitle:Jonathan+Livingston+Seagul,+Richard+Bach&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=rQVlPgAACAAJ&dq=intitle:Jonathan+Livingston+Seagul,+Richard+Bach&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Jonathan_Livingston_Seagull.html?hl=&id=rQVlPgAACAAJ"
     },
-    "issueNumber": 54,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-05-18T17:07:12.000Z"
-  },
-  {
-    "title": "The Experience Machine",
-    "authors": [
-      "Andy Clark"
-    ],
-    "publisher": "Pantheon",
-    "publishedDate": "2023-05-02",
-    "description": "A brilliant new theory of the mind that upends our understanding of how the brain interacts with the world For as long as we’ve studied human cognition, we’ve believed that our senses give us direct access to the world. What we see is what’s really there—or so the thinking goes. But new discoveries in neuroscience and psychology have turned this assumption on its head. What if rather than perceiving reality passively, your mind actively predicts it? “This thoroughly readable book will convince you that the brain and the world are partners in constructing our understanding.” —Sean Carroll, New York Times bestselling author of The Biggest Ideas in the Universe: Space, Time, and Motion Widely acclaimed philosopher and cognitive scientist Andy Clark unpacks this provocative new theory that the brain is a powerful, dynamic prediction engine, mediating our experience of both body and world. From the most mundane experiences to the most sublime, reality as we know it is the complex synthesis of sensory information and expectation. Exploring its fascinating mechanics and remarkable implications for our lives, mental health, and society, Clark nimbly illustrates how the predictive brain sculpts all human experience. Chronic pain and mental illness are shown to involve subtle malfunctions of our unconscious predictions, pointing the way towards more effective, targeted treatments. Under renewed scrutiny, the very boundary between ourselves and the outside world dissolves, showing that we are as entangled with our environments as we are with our onboard memories, thoughts, and feelings. And perception itself is revealed to be something of a controlled hallucination. Unveiling the extraordinary explanatory power of the predictive brain, The Experience Machine is a mesmerizing window onto one of the most significant developments in our understanding of the mind.",
-    "image": "http://books.google.com/books/content?id=u7F3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 305,
-    "isbn10": "1524748463",
-    "isbn13": "9781524748463",
-    "googleBooks": {
-      "id": "u7F3EAAAQBAJ",
-      "preview": "http://books.google.com/books?id=u7F3EAAAQBAJ&printsec=frontcover&dq=intitle:The+Experience+Machine:+How+Our+Minds+Predict+and+Shape+Reality,+Andy+Clark&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=u7F3EAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=u7F3EAAAQBAJ"
-    },
-    "issueNumber": 53,
+    "issueNumber": 56,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2023-05-02T04:07:01.000Z",
-    "completedAt": "2023-09-25T05:27:21.000Z",
-    "timeToComplete": 12619220000,
-    "timeToCompleteFormatted": "4 months"
+    "startedAt": "2023-08-11T20:02:27.000Z",
+    "completedAt": "2023-08-11T20:09:25.000Z",
+    "timeToComplete": 418000,
+    "timeToCompleteFormatted": "6 minutes"
+  },
+  {
+    "title": "Hello Sleep",
+    "authors": [
+      "Jade Wu"
+    ],
+    "publisher": "St. Martin's Essentials",
+    "publishedDate": "2023-02-07",
+    "description": "Hello Sleep is a practical and compassionate guide to having a better relationship with sleep and overcoming insomnia from Jade Wu, an experienced expert in behavioral sleep medicine. For many people who have trouble sleeping, each night is an anxious odyssey where getting a good night’s sleep feels like a battle to win rather than a basic biologic process. Hello Sleep is a guide for people with insomnia to help them shift their relationship with sleep, so that it stops being a battle and starts being enjoyable and natural again. It is a practical, self-guided tour through evidence-based interventions for chronic insomnia, including cognitive behavioral therapy for insomnia (CBT-I), phototherapy, chronotherapy, mindfulness-based approaches, and medication tapering. Jade Wu is a behavioral sleep medicine specialist and researcher who has helped hundreds of patients over a period of ten years. She provides in-depth but down-to-earth scientific explanations of how sleep and insomnia work; anecdotes about real patients’ experiences with overcoming insomnia; rationale for why the evidence-based interventions help; and tips for how to problem-solve common pitfalls, along with tailored recommendations for special circumstances (e.g., pregnancy/postpartum, menopause, chronic pain, depression, older adults etc.). Wu’s practical recommendations support a philosophical theme: Sleep is a friend, and it’s the nurturing of our relationship with this friend—rather than an anxious nightly battle—that will give us sustainable sleep health. Hello Sleep is not a rigid set of rules or a one-size-fits-all approach. Wu believes this can make things worse for those with insomnia issues, making what was once easy and intuitive into something effortful and elusive. Instead, this book treats insomniacs with respect, by giving them knowledge and empowering them to trust themselves and their own sleep.",
+    "image": "http://books.google.com/books/content?id=7IxrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Health & Fitness"
+    ],
+    "pageCount": 235,
+    "isbn10": "1250828414",
+    "isbn13": "9781250828415",
+    "googleBooks": {
+      "id": "7IxrEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=7IxrEAAAQBAJ&printsec=frontcover&dq=intitle:Hello+Sleep,+Jade+Wu&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=7IxrEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=7IxrEAAAQBAJ"
+    },
+    "issueNumber": 44,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-03-14T04:46:11.000Z",
+    "completedAt": "2023-06-19T22:36:01.000Z",
+    "timeToComplete": 8444990000,
+    "timeToCompleteFormatted": "3 months"
   },
   {
     "title": "Where the Crawdads Sing (Movie Tie-In)",
@@ -912,34 +1067,6 @@
     "completedAt": "2023-04-15T16:04:27.000Z",
     "timeToComplete": 392669000,
     "timeToCompleteFormatted": "4 days"
-  },
-  {
-    "title": "You're Not That Great",
-    "authors": [
-      "Daniel Crosby"
-    ],
-    "publishedDate": "2012-11-09",
-    "image": "https://tse2.mm.bing.net/th?q=You're%20Not%20That%20Great%20by%20Daniel%20Crosby&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
-    "language": "en",
-    "categories": [
-      "Conduct of life"
-    ],
-    "pageCount": 0,
-    "isbn10": "1595718362",
-    "isbn13": "9781595718365",
-    "googleBooks": {
-      "id": "2TO2NAEACAAJ",
-      "preview": "http://books.google.com/books?id=2TO2NAEACAAJ&dq=intitle:You%27re+Not+That+Great,+Daniel+Crosby&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=2TO2NAEACAAJ&dq=intitle:You%27re+Not+That+Great,+Daniel+Crosby&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/You_re_Not_That_Great.html?hl=&id=2TO2NAEACAAJ"
-    },
-    "issueNumber": 49,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-03-29T04:29:58.000Z",
-    "completedAt": "2024-07-15T04:34:53.000Z",
-    "timeToComplete": 40953895000,
-    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "Transcendent Kingdom",
@@ -1035,36 +1162,6 @@
     "startedAt": "2023-03-18T17:02:38.000Z"
   },
   {
-    "title": "Hello Sleep",
-    "authors": [
-      "Jade Wu"
-    ],
-    "publisher": "St. Martin's Essentials",
-    "publishedDate": "2023-02-07",
-    "description": "Hello Sleep is a practical and compassionate guide to having a better relationship with sleep and overcoming insomnia from Jade Wu, an experienced expert in behavioral sleep medicine. For many people who have trouble sleeping, each night is an anxious odyssey where getting a good night’s sleep feels like a battle to win rather than a basic biologic process. Hello Sleep is a guide for people with insomnia to help them shift their relationship with sleep, so that it stops being a battle and starts being enjoyable and natural again. It is a practical, self-guided tour through evidence-based interventions for chronic insomnia, including cognitive behavioral therapy for insomnia (CBT-I), phototherapy, chronotherapy, mindfulness-based approaches, and medication tapering. Jade Wu is a behavioral sleep medicine specialist and researcher who has helped hundreds of patients over a period of ten years. She provides in-depth but down-to-earth scientific explanations of how sleep and insomnia work; anecdotes about real patients’ experiences with overcoming insomnia; rationale for why the evidence-based interventions help; and tips for how to problem-solve common pitfalls, along with tailored recommendations for special circumstances (e.g., pregnancy/postpartum, menopause, chronic pain, depression, older adults etc.). Wu’s practical recommendations support a philosophical theme: Sleep is a friend, and it’s the nurturing of our relationship with this friend—rather than an anxious nightly battle—that will give us sustainable sleep health. Hello Sleep is not a rigid set of rules or a one-size-fits-all approach. Wu believes this can make things worse for those with insomnia issues, making what was once easy and intuitive into something effortful and elusive. Instead, this book treats insomniacs with respect, by giving them knowledge and empowering them to trust themselves and their own sleep.",
-    "image": "http://books.google.com/books/content?id=7IxrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Health & Fitness"
-    ],
-    "pageCount": 235,
-    "isbn10": "1250828414",
-    "isbn13": "9781250828415",
-    "googleBooks": {
-      "id": "7IxrEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=7IxrEAAAQBAJ&printsec=frontcover&dq=intitle:Hello+Sleep,+Jade+Wu&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=7IxrEAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=7IxrEAAAQBAJ"
-    },
-    "issueNumber": 44,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-03-14T04:46:11.000Z",
-    "completedAt": "2023-06-19T22:36:01.000Z",
-    "timeToComplete": 8444990000,
-    "timeToCompleteFormatted": "3 months"
-  },
-  {
     "title": "Tread of Angels",
     "authors": [
       "Rebecca Roanhorse"
@@ -1097,27 +1194,6 @@
     "timeToCompleteFormatted": "4 days"
   },
   {
-    "title": "Seeing with Fresh Eyes",
-    "authors": [
-      "Edward Tufte"
-    ],
-    "publishedDate": "2020-08-17",
-    "image": "https://tse2.mm.bing.net/th?q=Seeing%20with%20Fresh%20Eyes%20by%20Edward%20Tufte&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
-    "language": "en",
-    "isbn10": "0961392193",
-    "isbn13": "9780961392192",
-    "googleBooks": {
-      "id": "qPuuzQEACAAJ",
-      "preview": "http://books.google.com/books?id=qPuuzQEACAAJ&dq=intitle:Seeing+With+Fresh+Eyes:+Meaning,+Space,+Data,+Truth,+Edward+Tufte&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=qPuuzQEACAAJ&dq=intitle:Seeing+With+Fresh+Eyes:+Meaning,+Space,+Data,+Truth,+Edward+Tufte&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Seeing_with_Fresh_Eyes.html?hl=&id=qPuuzQEACAAJ"
-    },
-    "issueNumber": 42,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2023-01-23T18:39:23.000Z"
-  },
-  {
     "title": "Four Thousand Weeks",
     "authors": [
       "Oliver Burkeman"
@@ -1148,6 +1224,57 @@
     "completedAt": "2023-01-28T17:23:50.000Z",
     "timeToComplete": 684248000,
     "timeToCompleteFormatted": "1 week"
+  },
+  {
+    "title": "Seeing with Fresh Eyes",
+    "authors": [
+      "Edward Tufte"
+    ],
+    "publishedDate": "2020-08-17",
+    "image": "https://tse2.mm.bing.net/th?q=Seeing%20with%20Fresh%20Eyes%20by%20Edward%20Tufte&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "isbn10": "0961392193",
+    "isbn13": "9780961392192",
+    "googleBooks": {
+      "id": "qPuuzQEACAAJ",
+      "preview": "http://books.google.com/books?id=qPuuzQEACAAJ&dq=intitle:Seeing+With+Fresh+Eyes:+Meaning,+Space,+Data,+Truth,+Edward+Tufte&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=qPuuzQEACAAJ&dq=intitle:Seeing+With+Fresh+Eyes:+Meaning,+Space,+Data,+Truth,+Edward+Tufte&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Seeing_with_Fresh_Eyes.html?hl=&id=qPuuzQEACAAJ"
+    },
+    "issueNumber": 42,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-23T18:39:23.000Z"
+  },
+  {
+    "title": "Quit",
+    "authors": [
+      "Annie Duke"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2022-10-04",
+    "description": "From the bestselling author of Thinking in Bets comes a toolkit for mastering the skill of quitting to achieve greater success Business leaders, with millions of dollars down the drain, struggle to abandon a new app or product that just isn’t working. Governments, caught in a hopeless conflict, believe that the next tactic will finally be the one that wins the war. And in our own lives, we persist in relationships or careers that no longer serve us. Why? According to Annie Duke, in the face of tough decisions, we’re terrible quitters. And that is significantly holding us back. In Quit, Duke teaches you how to get good at quitting. Drawing on stories from elite athletes like Mount Everest climbers, founders of leading companies like Stewart Butterfield, the CEO of Slack, and top entertainers like Dave Chappelle, Duke explains why quitting is integral to success, as well as strategies for determining when to hold em, and when to fold em, that will save you time, energy, and money. You’ll learn: How the paradox of quitting influences decision making: If you quit on time, you will feel you quit early What forces work against good quitting behavior, such as escalation commitment, desire for certainty, and status quo bias How to think in expected value in order to make better decisions, as well as other best practices, such as increasing flexibility in goal-setting, establishing “quitting contracts,” anticipating optionality, and conducting premortems and backcasts Whether you’re facing a make-or-break business decision or life-altering personal choice, mastering the skill of quitting will help you make the best next move.",
+    "image": "http://books.google.com/books/content?id=o6hXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 337,
+    "isbn10": "0593422996",
+    "isbn13": "9780593422991",
+    "googleBooks": {
+      "id": "o6hXEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=o6hXEAAAQBAJ&printsec=frontcover&dq=intitle:Quit:+The+Power+of+Knowing+When+to+Walk+Away,+Annie+Duke&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=o6hXEAAAQBAJ&dq=intitle:Quit:+The+Power+of+Knowing+When+to+Walk+Away,+Annie+Duke&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Quit.html?hl=&id=o6hXEAAAQBAJ"
+    },
+    "issueNumber": 34,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-12-04T21:59:44.000Z",
+    "completedAt": "2023-01-18T18:19:37.000Z",
+    "timeToComplete": 3874793000,
+    "timeToCompleteFormatted": "1 month"
   },
   {
     "title": "Algorithms to Live By",
@@ -1212,34 +1339,6 @@
     "timeToCompleteFormatted": "1 week"
   },
   {
-    "title": "11 Lessons in Self-leadership",
-    "authors": [
-      "Larry Holman"
-    ],
-    "publishedDate": "1995",
-    "image": "http://books.google.com/books/content?id=39KgdL6Zj6wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Executive ability"
-    ],
-    "pageCount": 268,
-    "isbn10": "0964882906",
-    "isbn13": "9780964882904",
-    "googleBooks": {
-      "id": "39KgdL6Zj6wC",
-      "preview": "http://books.google.com/books?id=39KgdL6Zj6wC&q=intitle:11+Lessons+in+self-leadership,+Larry+Holman&dq=intitle:11+Lessons+in+self-leadership,+Larry+Holman&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=39KgdL6Zj6wC&dq=intitle:11+Lessons+in+self-leadership,+Larry+Holman&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/11_Lessons_in_Self_leadership.html?hl=&id=39KgdL6Zj6wC"
-    },
-    "issueNumber": 38,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-12-20T22:35:49.000Z",
-    "completedAt": "2022-12-27T01:38:09.000Z",
-    "timeToComplete": 529340000,
-    "timeToCompleteFormatted": "6 days"
-  },
-  {
     "title": "Letters to a Young Poet",
     "authors": [
       "Rainer Maria Rilke"
@@ -1270,6 +1369,34 @@
     "completedAt": "2022-12-27T01:38:30.000Z",
     "timeToComplete": 849281000,
     "timeToCompleteFormatted": "1 week"
+  },
+  {
+    "title": "11 Lessons in Self-leadership",
+    "authors": [
+      "Larry Holman"
+    ],
+    "publishedDate": "1995",
+    "image": "http://books.google.com/books/content?id=39KgdL6Zj6wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Executive ability"
+    ],
+    "pageCount": 268,
+    "isbn10": "0964882906",
+    "isbn13": "9780964882904",
+    "googleBooks": {
+      "id": "39KgdL6Zj6wC",
+      "preview": "http://books.google.com/books?id=39KgdL6Zj6wC&q=intitle:11+Lessons+in+self-leadership,+Larry+Holman&dq=intitle:11+Lessons+in+self-leadership,+Larry+Holman&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=39KgdL6Zj6wC&dq=intitle:11+Lessons+in+self-leadership,+Larry+Holman&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/11_Lessons_in_Self_leadership.html?hl=&id=39KgdL6Zj6wC"
+    },
+    "issueNumber": 38,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-12-20T22:35:49.000Z",
+    "completedAt": "2022-12-27T01:38:09.000Z",
+    "timeToComplete": 529340000,
+    "timeToCompleteFormatted": "6 days"
   },
   {
     "title": "Sooley",
@@ -1331,34 +1458,36 @@
     "startedAt": "2022-12-07T05:59:10.000Z"
   },
   {
-    "title": "Quit",
+    "title": "Angela's Ashes",
     "authors": [
-      "Annie Duke"
+      "Frank McCourt"
     ],
-    "publisher": "Penguin",
-    "publishedDate": "2022-10-04",
-    "description": "From the bestselling author of Thinking in Bets comes a toolkit for mastering the skill of quitting to achieve greater success Business leaders, with millions of dollars down the drain, struggle to abandon a new app or product that just isn’t working. Governments, caught in a hopeless conflict, believe that the next tactic will finally be the one that wins the war. And in our own lives, we persist in relationships or careers that no longer serve us. Why? According to Annie Duke, in the face of tough decisions, we’re terrible quitters. And that is significantly holding us back. In Quit, Duke teaches you how to get good at quitting. Drawing on stories from elite athletes like Mount Everest climbers, founders of leading companies like Stewart Butterfield, the CEO of Slack, and top entertainers like Dave Chappelle, Duke explains why quitting is integral to success, as well as strategies for determining when to hold em, and when to fold em, that will save you time, energy, and money. You’ll learn: How the paradox of quitting influences decision making: If you quit on time, you will feel you quit early What forces work against good quitting behavior, such as escalation commitment, desire for certainty, and status quo bias How to think in expected value in order to make better decisions, as well as other best practices, such as increasing flexibility in goal-setting, establishing “quitting contracts,” anticipating optionality, and conducting premortems and backcasts Whether you’re facing a make-or-break business decision or life-altering personal choice, mastering the skill of quitting will help you make the best next move.",
-    "image": "http://books.google.com/books/content?id=o6hXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2005",
+    "description": "A heartfelt account of poverty in Ireland and emigration to America. -- back cover.",
+    "image": "http://books.google.com/books/content?id=5KBImUDYq2QC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
+    "averageRating": 1,
+    "ratingsCount": 19,
     "categories": [
-      "Business & Economics"
+      "Children"
     ],
-    "pageCount": 337,
-    "isbn10": "0593422996",
-    "isbn13": "9780593422991",
+    "pageCount": 468,
+    "isbn10": "0007205236",
+    "isbn13": "9780007205233",
     "googleBooks": {
-      "id": "o6hXEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=o6hXEAAAQBAJ&printsec=frontcover&dq=intitle:Quit:+The+Power+of+Knowing+When+to+Walk+Away,+Annie+Duke&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=o6hXEAAAQBAJ&dq=intitle:Quit:+The+Power+of+Knowing+When+to+Walk+Away,+Annie+Duke&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Quit.html?hl=&id=o6hXEAAAQBAJ"
+      "id": "5KBImUDYq2QC",
+      "preview": "http://books.google.com/books?id=5KBImUDYq2QC&dq=intitle:Angela%27s+Ashes,+Frank+McCourt&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=5KBImUDYq2QC&dq=intitle:Angela%27s+Ashes,+Frank+McCourt&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Angela_s_Ashes.html?hl=&id=5KBImUDYq2QC"
     },
-    "issueNumber": 34,
+    "issueNumber": 32,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2022-12-04T21:59:44.000Z",
-    "completedAt": "2023-01-18T18:19:37.000Z",
-    "timeToComplete": 3874793000,
-    "timeToCompleteFormatted": "1 month"
+    "startedAt": "2022-11-27T04:52:57.000Z",
+    "completedAt": "2022-12-07T05:57:43.000Z",
+    "timeToComplete": 867886000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "The Lion, the Witch and the Wardrobe Read-Aloud Edition",
@@ -1391,38 +1520,6 @@
     "completedAt": "2022-12-04T21:58:52.000Z",
     "timeToComplete": 101185000,
     "timeToCompleteFormatted": "1 day"
-  },
-  {
-    "title": "Angela's Ashes",
-    "authors": [
-      "Frank McCourt"
-    ],
-    "publisher": "HarperCollins UK",
-    "publishedDate": "2005",
-    "description": "A heartfelt account of poverty in Ireland and emigration to America. -- back cover.",
-    "image": "http://books.google.com/books/content?id=5KBImUDYq2QC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "averageRating": 1,
-    "ratingsCount": 19,
-    "categories": [
-      "Children"
-    ],
-    "pageCount": 468,
-    "isbn10": "0007205236",
-    "isbn13": "9780007205233",
-    "googleBooks": {
-      "id": "5KBImUDYq2QC",
-      "preview": "http://books.google.com/books?id=5KBImUDYq2QC&dq=intitle:Angela%27s+Ashes,+Frank+McCourt&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=5KBImUDYq2QC&dq=intitle:Angela%27s+Ashes,+Frank+McCourt&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Angela_s_Ashes.html?hl=&id=5KBImUDYq2QC"
-    },
-    "issueNumber": 32,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-11-27T04:52:57.000Z",
-    "completedAt": "2022-12-07T05:57:43.000Z",
-    "timeToComplete": 867886000,
-    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Redefining Rich",
@@ -1688,38 +1785,6 @@
     "startedAt": "2022-08-29T03:30:19.000Z"
   },
   {
-    "title": "Rule Makers, Rule Breakers",
-    "authors": [
-      "Michele Gelfand"
-    ],
-    "publisher": "Scribner",
-    "publishedDate": "2019-08-20",
-    "description": "A celebrated social psychologist offers a radical new perspective on cultural differences that reveals why some countries, cultures, and individuals take rules more seriously and how following the rules influences the way we think and act. In Rule Makers, Rule Breakers, Michele Gelfand, “an engaging writer with intellectual range” (The New York Times Book Review), takes us on an epic journey through human cultures, offering a startling new view of the world and ourselves. With a mix of brilliantly conceived studies and surprising on-the-ground discoveries, she shows that much of the diversity in the way we think and act derives from a key difference—how tightly or loosely we adhere to social norms. Just as DNA affects everything from eye color to height, our tight-loose social coding influences much of what we do. Why are clocks in Germany so accurate while those in Brazil are frequently wrong? Why do New Zealand’s women have the highest number of sexual partners? Why are red and blue states really so divided? Why was the Daimler-Chrysler merger ill-fated from the start? Why is the driver of a Jaguar more likely to run a red light than the driver of a plumber’s van? Why does one spouse prize running a tight ship while the other refuses to sweat the small stuff? In search of a common answer, Gelfand spent two decades conducting research in more than fifty countries. Across all age groups, family variations, social classes, businesses, states, and nationalities, she has identified a primal pattern that can trigger cooperation or conflict. Her fascinating conclusion: behavior is highly influenced by the perception of threat. “A useful and engaging take on human behavior” (Kirkus Reviews) with an approach that is consistently riveting, Rule Makers, Ruler Breakers thrusts many of the puzzling attitudes and actions we observe into sudden and surprising clarity.",
-    "image": "http://books.google.com/books/content?id=bLSkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 1,
-    "categories": [
-      "Social Science"
-    ],
-    "pageCount": 384,
-    "isbn10": "1501152947",
-    "isbn13": "9781501152948",
-    "googleBooks": {
-      "id": "bLSkDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=bLSkDwAAQBAJ&pg=PP6&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=bLSkDwAAQBAJ&dq=intitle:Rule+Makers,+Rule+Breakers:+How+Tight+and+Loose+Cultures+Wire+Our+World,+Michele+Gelfand&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Rule_Makers_Rule_Breakers.html?hl=&id=bLSkDwAAQBAJ"
-    },
-    "issueNumber": 21,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-08-29T03:28:36.000Z",
-    "completedAt": "2024-06-11T04:18:01.000Z",
-    "timeToComplete": 56335765000,
-    "timeToCompleteFormatted": "1 year"
-  },
-  {
     "title": "Anger, Madness, and the Daimonic",
     "authors": [
       "Stephen A. Diamond"
@@ -1747,36 +1812,6 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2022-08-29T03:27:56.000Z"
-  },
-  {
-    "title": "God Can't",
-    "authors": [
-      "Thomas Jay Oord"
-    ],
-    "publisher": "SacraSage Press",
-    "publishedDate": "2019-01-05",
-    "description": "Hurting people ask heart-felt questions about God and suffering. Some \"answers\" they receive appeal to mystery: “God’s ways are not our ways”. Some answers say God allows evil for a greater purpose. Some say evil is God's punishment. The usual answers fail. They don't support the truth that God loves everyone all the time. God Can't gives a believable answer to why a good and powerful God doesn't prevent evil. Author Thomas Jay Oord says God’s love is inherently uncontrolling. God loves everyone and everything, so God can't control anyone or anything. This means God cannot prevent evil singlehandedly. God can’t stop evildoers, whether human, animal, organism, or inanimate objects and forces. In God Can't, Oord gives a plausible reason why some are healed, but many others are not. God always works to heal everyone, but sometimes our bodies, organisms, or other creatures do not cooperate with God's healing work. Or the conditions of creation are not right for the healing God wants to do. Some people think God causes or allows suffering to teach us lessons or build our character. God Can't disagrees. Oord says God squeezes good from the evil God didn’t want in the first place. God uses pain and suffering without willing or even allowing it. Most people think God can overcome evil singlehandedly. In God Can't, Oord says God needs cooperation for love to reign now and later. This leads to a better view of the afterlife called “relentless love.” It rejects traditional ideas of heaven, hell, and annihilation. Relentless love holds to the possibility all creatures and all creation will respond to God’s love. God Can't is written in understandable language. As a world-renown theologian, Thomas Jay Oord brings credibility to the book’s radical ideas. He explains these ideas through true stories, illustrations, and scripture. God Can't is for those who want answers to tragedy, abuse, and other evils that make sense! What They're Saying... “If conventional notions of God make less and less sense to you, you’ll find Thomas Jay Oord’s new book a breath of fresh air. Simply put, “God Can’t” presents an understanding of God that thoughtful, ethical people can believe in.” -- Brian D. McLaren, author of The Great Spiritual Migration \"I did not want this book to end. I wish Dr. Oord had written it 100 years ago, or 1000 years ago... To find your understanding of life and your love for God renewed, read this book.\" -- Dr. Karen Strand Winslow, Ph.D., Biblical and Jewish Studies Professor of Bible, Azusa Pacific University \"As a clinical psychologist working with people in trauma, I owe Thomas Jay Oord an enormous debt of gratitude for recasting the so-called problem of evil in terms that are conceptually satisfying, theologically consistent, and pastorally liberating.” -- Dr Roger Bretherton- Principal Lecturer at the University of Lincoln (UK), Chair of the British Association of Christians in Psychology “Victims of trauma sometimes hear theological responses that imply their suffering is somehow “God’s will.\" A more careful theological reflection on the nature of the power of a God who is love can help. Oord gives us a clear and compelling alternative in this profoundly insightful and admirably concrete and accessible book.” -- Dr. Anna Case-Winters, Professor of Theology at McCormick Theological Seminary “I know of no book that speaks to suffering with the depth of theological sophistication and psychological sensitivity as God Can’t. This book is a rare combination of depth and accessibility, truly written for the wounded. I recommend it to my students, parishioners, and therapy clients.” -- Dr. Brad D. Strawn, Professor of the Integration of Psychology and Theology, Fuller Theological Seminary",
-    "image": "http://books.google.com/books/content?id=gtv8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Religion"
-    ],
-    "pageCount": 212,
-    "isbn10": "1948609134",
-    "isbn13": "9781948609135",
-    "googleBooks": {
-      "id": "gtv8DwAAQBAJ",
-      "preview": "http://books.google.com/books?id=gtv8DwAAQBAJ&printsec=frontcover&dq=intitle:God+Can%27t:+How+to+Believe+in+God+and+Love+after+Tragedy,+Abuse,+and+Other+Evils,+Jay+Oord&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=gtv8DwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=gtv8DwAAQBAJ"
-    },
-    "issueNumber": 19,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-08-29T03:27:11.000Z",
-    "completedAt": "2023-09-09T17:58:36.000Z",
-    "timeToComplete": 32538685000,
-    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "The Nature of the Beast",
@@ -1890,38 +1925,6 @@
     "startedAt": "2022-08-29T03:24:01.000Z"
   },
   {
-    "title": "The Obstacle Is the Way",
-    "authors": [
-      "Ryan Holiday"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2014-05-01",
-    "description": "#1 Wall Street Journal Bestseller The Obstacle is the Way has become a cult classic, beloved by men and women around the world who apply its wisdom to become more successful at whatever they do. Its many fans include a former governor and movie star (Arnold Schwarzenegger), a hip hop icon (LL Cool J), an Irish tennis pro (James McGee), an NBC sportscaster (Michele Tafoya), and the coaches and players of winning teams like the New England Patriots, Seattle Seahawks, Chicago Cubs, and University of Texas men’s basketball team. The book draws its inspiration from stoicism, the ancient Greek philosophy of enduring pain or adversity with perseverance and resilience. Stoics focus on the things they can control, let go of everything else, and turn every new obstacle into an opportunity to get better, stronger, tougher. As Marcus Aurelius put it nearly 2000 years ago: “The impediment to action advances action. What stands in the way becomes the way.” Ryan Holiday shows us how some of the most successful people in history—from John D. Rockefeller to Amelia Earhart to Ulysses S. Grant to Steve Jobs—have applied stoicism to overcome difficult or even impossible situations. Their embrace of these principles ultimately mattered more than their natural intelligence, talents, or luck. If you’re feeling frustrated, demoralized, or stuck in a rut, this book can help you turn your problems into your biggest advantages. And along the way it will inspire you with dozens of true stories of the greats from every age and era.",
-    "image": "http://books.google.com/books/content?id=jWqJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 426,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 224,
-    "isbn10": "1591846358",
-    "isbn13": "9781591846352",
-    "googleBooks": {
-      "id": "jWqJDQAAQBAJ",
-      "preview": "http://books.google.com/books?id=jWqJDQAAQBAJ&pg=PA195&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&cd=10&source=gbs_api",
-      "info": "http://books.google.com/books?id=jWqJDQAAQBAJ&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Obstacle_Is_the_Way.html?hl=&id=jWqJDQAAQBAJ"
-    },
-    "issueNumber": 12,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-08-22T00:22:39.000Z",
-    "completedAt": "2022-08-28T23:16:32.000Z",
-    "timeToComplete": 600833000,
-    "timeToCompleteFormatted": "6 days"
-  },
-  {
     "title": "Curious",
     "authors": [
       "Ian Leslie"
@@ -1954,6 +1957,38 @@
     "timeToCompleteFormatted": "1 week"
   },
   {
+    "title": "The Obstacle Is the Way",
+    "authors": [
+      "Ryan Holiday"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2014-05-01",
+    "description": "#1 Wall Street Journal Bestseller The Obstacle is the Way has become a cult classic, beloved by men and women around the world who apply its wisdom to become more successful at whatever they do. Its many fans include a former governor and movie star (Arnold Schwarzenegger), a hip hop icon (LL Cool J), an Irish tennis pro (James McGee), an NBC sportscaster (Michele Tafoya), and the coaches and players of winning teams like the New England Patriots, Seattle Seahawks, Chicago Cubs, and University of Texas men’s basketball team. The book draws its inspiration from stoicism, the ancient Greek philosophy of enduring pain or adversity with perseverance and resilience. Stoics focus on the things they can control, let go of everything else, and turn every new obstacle into an opportunity to get better, stronger, tougher. As Marcus Aurelius put it nearly 2000 years ago: “The impediment to action advances action. What stands in the way becomes the way.” Ryan Holiday shows us how some of the most successful people in history—from John D. Rockefeller to Amelia Earhart to Ulysses S. Grant to Steve Jobs—have applied stoicism to overcome difficult or even impossible situations. Their embrace of these principles ultimately mattered more than their natural intelligence, talents, or luck. If you’re feeling frustrated, demoralized, or stuck in a rut, this book can help you turn your problems into your biggest advantages. And along the way it will inspire you with dozens of true stories of the greats from every age and era.",
+    "image": "http://books.google.com/books/content?id=jWqJDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 426,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 224,
+    "isbn10": "1591846358",
+    "isbn13": "9781591846352",
+    "googleBooks": {
+      "id": "jWqJDQAAQBAJ",
+      "preview": "http://books.google.com/books?id=jWqJDQAAQBAJ&pg=PA195&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&cd=10&source=gbs_api",
+      "info": "http://books.google.com/books?id=jWqJDQAAQBAJ&dq=intitle:The+Bed+of+Procrustes:+Philosophical+and+Practical+Aphorisms,+Nassim+Nicholas+Taleb&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Obstacle_Is_the_Way.html?hl=&id=jWqJDQAAQBAJ"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2022-08-22T00:22:39.000Z",
+    "completedAt": "2022-08-28T23:16:32.000Z",
+    "timeToComplete": 600833000,
+    "timeToCompleteFormatted": "6 days"
+  },
+  {
     "title": "Bittersweet",
     "authors": [
       "Susan Cain"
@@ -1984,33 +2019,36 @@
     "timeToCompleteFormatted": "3 weeks"
   },
   {
-    "title": "Invisible Man",
+    "title": "The God-Shaped Heart",
     "authors": [
-      "Ralph Ellison"
+      "Timothy R. MD Jennings"
     ],
-    "publisher": "Penguin Modern Classics",
-    "publishedDate": "2001-01-01",
-    "description": "Ralph Ellison's impassioned first novel, winner of the prestigious American National Book Award, tells the story of an invisible man simply because people refuse to see me. Yet his powerfully depicted adventures go far beyond the story of one man.",
-    "image": "http://books.google.com/books/content?id=d_a3QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "publisher": "Baker Books",
+    "publishedDate": "2017-09-05",
+    "description": "The key to spiritual and emotional health is to grasp the truth of God's transforming love for us and then let that reality influence our own hearts and relationships. It seems simple, but we are experts at complicating simple things. Instead of living lives characterized by love we find ourselves trapped in cycles of shame, violence, and addiction that steal our joy and keep us from loving others--so much so that, by all indications, Christians are living no differently than anyone else when it comes to abuse rates, use of pornography, alcohol and drug addiction, and more. Christian psychiatrist Dr. Timothy Jennings wants to release us from this prison. With powerful illustrations from case studies and from Scripture, Jennings shows believers who are stuck in addiction, violence, fear, and broken relationships how to experience true freedom through God's transforming love to experience greater health, fulfillment, and well-being.",
+    "image": "http://books.google.com/books/content?id=O8U4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 94,
+    "averageRating": 5,
+    "ratingsCount": 1,
     "categories": [
-      "African Americans"
+      "Religion"
     ],
-    "pageCount": 581,
-    "isbn10": "0141184426",
-    "isbn13": "9780141184425",
+    "pageCount": 304,
+    "isbn10": "1493409433",
+    "isbn13": "9781493409433",
     "googleBooks": {
-      "id": "d_a3QgAACAAJ",
-      "preview": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Invisible_Man.html?hl=&id=d_a3QgAACAAJ"
+      "id": "O8U4DgAAQBAJ",
+      "preview": "http://books.google.com/books?id=O8U4DgAAQBAJ&pg=PT3&dq=intitle:The+Soul+of+Desire:+Discovering+the+Neuroscience+of+Longing,+Beauty,+and+Community+by+Thompson+MD,+Curt&hl=&cd=3&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ"
     },
-    "issueNumber": 8,
+    "issueNumber": 1,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-06-01T05:13:01.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-07T20:43:23.000Z",
+    "completedAt": "2022-07-27T14:47:15.000Z",
+    "timeToComplete": 6977032000,
+    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "Screwtape Letters, The - UK Gift Edition",
@@ -2045,96 +2083,33 @@
     "timeToCompleteFormatted": "1 month"
   },
   {
-    "title": "Lifespan",
+    "title": "Invisible Man",
     "authors": [
-      "David A. Sinclair",
-      "Matthew D. LaPlante"
+      "Ralph Ellison"
     ],
-    "publisher": "Atria Books",
-    "publishedDate": "2019-09-10",
-    "description": "A NEW YORK TIMES BESTSELLER “Brilliant and enthralling.”​ —The Wall Street Journal A paradigm-shifting book from an acclaimed Harvard Medical School scientist and one of Time’s most influential people. It’s a seemingly undeniable truth that aging is inevitable. But what if everything we’ve been taught to believe about aging is wrong? What if we could choose our lifespan? In this groundbreaking book, Dr. David Sinclair, leading world authority on genetics and longevity, reveals a bold new theory for why we age. As he writes: “Aging is a disease, and that disease is treatable.” This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger. Through a page-turning narrative, Dr. Sinclair invites you into the process of scientific discovery and reveals the emerging technologies and simple lifestyle changes—such as intermittent fasting, cold exposure, exercising with the right intensity, and eating less meat—that have been shown to help us live younger and healthier for longer. At once a roadmap for taking charge of our own health destiny and a bold new vision for the future of humankind, Lifespan will forever change the way we think about why we age and what we can do about it.",
-    "image": "http://books.google.com/books/content?id=x--oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publisher": "Penguin Modern Classics",
+    "publishedDate": "2001-01-01",
+    "description": "Ralph Ellison's impassioned first novel, winner of the prestigious American National Book Award, tells the story of an invisible man simply because people refuse to see me. Yet his powerfully depicted adventures go far beyond the story of one man.",
+    "image": "http://books.google.com/books/content?id=d_a3QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 4,
+    "averageRating": 3.5,
+    "ratingsCount": 94,
     "categories": [
-      "Science"
+      "African Americans"
     ],
-    "pageCount": 432,
-    "isbn10": "1501191977",
-    "isbn13": "9781501191978",
+    "pageCount": 581,
+    "isbn10": "0141184426",
+    "isbn13": "9780141184425",
     "googleBooks": {
-      "id": "x--oDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=x--oDwAAQBAJ&printsec=frontcover&dq=intitle:Lifespan:+Why+We+Age%E2%80%94and+Why+We+Don%27t+Have+To++Sinclair,+David%3B+LaPlante,+Matt&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=x--oDwAAQBAJ&dq=intitle:Lifespan:+Why+We+Age%E2%80%94and+Why+We+Don%27t+Have+To++Sinclair,+David%3B+LaPlante,+Matt&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Lifespan.html?hl=&id=x--oDwAAQBAJ"
+      "id": "d_a3QgAACAAJ",
+      "preview": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=d_a3QgAACAAJ&dq=intitle:Invisible+Man,+Rasph+Ellison&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Invisible_Man.html?hl=&id=d_a3QgAACAAJ"
     },
-    "issueNumber": 6,
+    "issueNumber": 8,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2022-05-07T21:18:07.000Z"
-  },
-  {
-    "title": "Projections",
-    "authors": [
-      "Karl Deisseroth"
-    ],
-    "publisher": "Random House",
-    "publishedDate": "2021-06-15",
-    "description": "A groundbreaking tour of the human mind that illuminates the biological nature of our inner worlds and emotions, through gripping, moving—and, at times, harrowing—clinical stories “[A] scintillating and moving analysis of the human brain and emotions.”—Nature “Beautifully connects the inner feelings within all human beings to deep insights from modern psychiatry and neuroscience.”—Robert Lefkowitz, Nobel Laureate Karl Deisseroth has spent his life pursuing truths about the human mind, both as a renowned clinical psychiatrist and as a researcher creating and developing the revolutionary field of optogenetics, which uses light to help decipher the brain’s workings. In Projections, he combines his knowledge of the brain’s inner circuitry with a deep empathy for his patients to examine what mental illness reveals about the human mind and the origin of human feelings—how the broken can illuminate the unbroken. Through cutting-edge research and gripping case studies from Deisseroth’s own patients, Projections tells a larger story about the material origins of human emotion, bridging the gap between the ancient circuits of our brain and the poignant moments of suffering in our daily lives. The stories of Deisseroth’s patients are rich with humanity and shine an unprecedented light on the self—and the ways in which it can break down. A young woman with an eating disorder reveals how the mind can rebel against the brain’s most primitive drives of hunger and thirst; an older man, smothered into silence by depression and dementia, shows how humans evolved to feel not only joy but also its absence; and a lonely Uighur woman far from her homeland teaches both the importance—and challenges—of deep social bonds. Illuminating, literary, and essential, Projections is a revelatory, immensely powerful work. It transforms our understanding not only of the brain but of ourselves as social beings—giving vivid illustrations through science and resonant human stories of our yearning for connection and meaning.",
-    "image": "http://books.google.com/books/content?id=4AEvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 256,
-    "isbn10": "1984853694",
-    "isbn13": "9781984853691",
-    "googleBooks": {
-      "id": "4AEvEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=4AEvEAAAQBAJ&printsec=frontcover&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=4AEvEAAAQBAJ&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Projections.html?hl=&id=4AEvEAAAQBAJ"
-    },
-    "issueNumber": 5,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-05-07T21:16:59.000Z",
-    "completedAt": "2022-05-30T18:09:10.000Z",
-    "timeToComplete": 1975931000,
-    "timeToCompleteFormatted": "3 weeks"
-  },
-  {
-    "title": "How Emotions Are Made",
-    "authors": [
-      "Lisa Feldman Barrett"
-    ],
-    "publisher": "HarperCollins",
-    "publishedDate": "2017-03-07",
-    "description": "Preeminent psychologist Lisa Barrett lays out how the brain constructs emotions in a way that could revolutionize psychology, health care, the legal system, and our understanding of the human mind. “Fascinating . . . A thought-provoking journey into emotion science.”—The Wall Street Journal “A singular book, remarkable for the freshness of its ideas and the boldness and clarity with which they are presented.”—Scientific American “A brilliant and original book on the science of emotion, by the deepest thinker about this topic since Darwin.”—Daniel Gilbert, best-selling author of Stumbling on Happiness The science of emotion is in the midst of a revolution on par with the discovery of relativity in physics and natural selection in biology. Leading the charge is psychologist and neuroscientist Lisa Feldman Barrett, whose research overturns the long-standing belief that emotions are automatic, universal, and hardwired in different brain regions. Instead, Barrett shows, we construct each instance of emotion through a unique interplay of brain, body, and culture. A lucid report from the cutting edge of emotion science, How Emotions Are Made reveals the profound real-world consequences of this breakthrough for everything from neuroscience and medicine to the legal system and even national security, laying bare the immense implications of our latest and most intimate scientific revolution.",
-    "image": "http://books.google.com/books/content?id=hN8MBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 5,
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 448,
-    "isbn10": "0544129962",
-    "isbn13": "9780544129962",
-    "googleBooks": {
-      "id": "hN8MBgAAQBAJ",
-      "preview": "http://books.google.com/books?id=hN8MBgAAQBAJ&printsec=frontcover&dq=intitle:How+Emotions+Are+Made:+The+Secret+Life+of+the+Brain++Barrett,+Lisa+Feldman&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=hN8MBgAAQBAJ"
-    },
-    "issueNumber": 4,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2022-05-07T21:15:13.000Z",
-    "completedAt": "2024-06-16T05:05:58.000Z",
-    "timeToComplete": 66556245000,
-    "timeToCompleteFormatted": "2 years"
+    "startedAt": "2022-06-01T05:13:01.000Z"
   },
   {
     "title": "The Molecule of More",
@@ -2170,35 +2145,63 @@
     "timeToCompleteFormatted": "3 weeks"
   },
   {
-    "title": "The God-Shaped Heart",
+    "title": "Projections",
     "authors": [
-      "Timothy R. MD Jennings"
+      "Karl Deisseroth"
     ],
-    "publisher": "Baker Books",
-    "publishedDate": "2017-09-05",
-    "description": "The key to spiritual and emotional health is to grasp the truth of God's transforming love for us and then let that reality influence our own hearts and relationships. It seems simple, but we are experts at complicating simple things. Instead of living lives characterized by love we find ourselves trapped in cycles of shame, violence, and addiction that steal our joy and keep us from loving others--so much so that, by all indications, Christians are living no differently than anyone else when it comes to abuse rates, use of pornography, alcohol and drug addiction, and more. Christian psychiatrist Dr. Timothy Jennings wants to release us from this prison. With powerful illustrations from case studies and from Scripture, Jennings shows believers who are stuck in addiction, violence, fear, and broken relationships how to experience true freedom through God's transforming love to experience greater health, fulfillment, and well-being.",
-    "image": "http://books.google.com/books/content?id=O8U4DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publisher": "Random House",
+    "publishedDate": "2021-06-15",
+    "description": "A groundbreaking tour of the human mind that illuminates the biological nature of our inner worlds and emotions, through gripping, moving—and, at times, harrowing—clinical stories “[A] scintillating and moving analysis of the human brain and emotions.”—Nature “Beautifully connects the inner feelings within all human beings to deep insights from modern psychiatry and neuroscience.”—Robert Lefkowitz, Nobel Laureate Karl Deisseroth has spent his life pursuing truths about the human mind, both as a renowned clinical psychiatrist and as a researcher creating and developing the revolutionary field of optogenetics, which uses light to help decipher the brain’s workings. In Projections, he combines his knowledge of the brain’s inner circuitry with a deep empathy for his patients to examine what mental illness reveals about the human mind and the origin of human feelings—how the broken can illuminate the unbroken. Through cutting-edge research and gripping case studies from Deisseroth’s own patients, Projections tells a larger story about the material origins of human emotion, bridging the gap between the ancient circuits of our brain and the poignant moments of suffering in our daily lives. The stories of Deisseroth’s patients are rich with humanity and shine an unprecedented light on the self—and the ways in which it can break down. A young woman with an eating disorder reveals how the mind can rebel against the brain’s most primitive drives of hunger and thirst; an older man, smothered into silence by depression and dementia, shows how humans evolved to feel not only joy but also its absence; and a lonely Uighur woman far from her homeland teaches both the importance—and challenges—of deep social bonds. Illuminating, literary, and essential, Projections is a revelatory, immensely powerful work. It transforms our understanding not only of the brain but of ourselves as social beings—giving vivid illustrations through science and resonant human stories of our yearning for connection and meaning.",
+    "image": "http://books.google.com/books/content?id=4AEvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 1,
     "categories": [
-      "Religion"
+      "Science"
     ],
-    "pageCount": 304,
-    "isbn10": "1493409433",
-    "isbn13": "9781493409433",
+    "pageCount": 256,
+    "isbn10": "1984853694",
+    "isbn13": "9781984853691",
     "googleBooks": {
-      "id": "O8U4DgAAQBAJ",
-      "preview": "http://books.google.com/books?id=O8U4DgAAQBAJ&pg=PT3&dq=intitle:The+Soul+of+Desire:+Discovering+the+Neuroscience+of+Longing,+Beauty,+and+Community+by+Thompson+MD,+Curt&hl=&cd=3&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=O8U4DgAAQBAJ"
+      "id": "4AEvEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=4AEvEAAAQBAJ&printsec=frontcover&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=4AEvEAAAQBAJ&dq=intitle:Projections:+A+Story+of+Human+Emotions++Deisseroth,+Karl&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Projections.html?hl=&id=4AEvEAAAQBAJ"
     },
-    "issueNumber": 1,
+    "issueNumber": 5,
     "progressPercent": 0,
     "state": "completed",
-    "startedAt": "2022-05-07T20:43:23.000Z",
-    "completedAt": "2022-07-27T14:47:15.000Z",
-    "timeToComplete": 6977032000,
-    "timeToCompleteFormatted": "2 months"
+    "startedAt": "2022-05-07T21:16:59.000Z",
+    "completedAt": "2022-05-30T18:09:10.000Z",
+    "timeToComplete": 1975931000,
+    "timeToCompleteFormatted": "3 weeks"
+  },
+  {
+    "title": "Lifespan",
+    "authors": [
+      "David A. Sinclair",
+      "Matthew D. LaPlante"
+    ],
+    "publisher": "Atria Books",
+    "publishedDate": "2019-09-10",
+    "description": "A NEW YORK TIMES BESTSELLER “Brilliant and enthralling.”​ —The Wall Street Journal A paradigm-shifting book from an acclaimed Harvard Medical School scientist and one of Time’s most influential people. It’s a seemingly undeniable truth that aging is inevitable. But what if everything we’ve been taught to believe about aging is wrong? What if we could choose our lifespan? In this groundbreaking book, Dr. David Sinclair, leading world authority on genetics and longevity, reveals a bold new theory for why we age. As he writes: “Aging is a disease, and that disease is treatable.” This eye-opening and provocative work takes us to the frontlines of research that is pushing the boundaries on our perceived scientific limitations, revealing incredible breakthroughs—many from Dr. David Sinclair’s own lab at Harvard—that demonstrate how we can slow down, or even reverse, aging. The key is activating newly discovered vitality genes, the descendants of an ancient genetic survival circuit that is both the cause of aging and the key to reversing it. Recent experiments in genetic reprogramming suggest that in the near future we may not just be able to feel younger, but actually become younger. Through a page-turning narrative, Dr. Sinclair invites you into the process of scientific discovery and reveals the emerging technologies and simple lifestyle changes—such as intermittent fasting, cold exposure, exercising with the right intensity, and eating less meat—that have been shown to help us live younger and healthier for longer. At once a roadmap for taking charge of our own health destiny and a bold new vision for the future of humankind, Lifespan will forever change the way we think about why we age and what we can do about it.",
+    "image": "http://books.google.com/books/content?id=x--oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 4,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 432,
+    "isbn10": "1501191977",
+    "isbn13": "9781501191978",
+    "googleBooks": {
+      "id": "x--oDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=x--oDwAAQBAJ&printsec=frontcover&dq=intitle:Lifespan:+Why+We+Age%E2%80%94and+Why+We+Don%27t+Have+To++Sinclair,+David%3B+LaPlante,+Matt&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=x--oDwAAQBAJ&dq=intitle:Lifespan:+Why+We+Age%E2%80%94and+Why+We+Don%27t+Have+To++Sinclair,+David%3B+LaPlante,+Matt&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Lifespan.html?hl=&id=x--oDwAAQBAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T21:18:07.000Z"
   }
 ]
