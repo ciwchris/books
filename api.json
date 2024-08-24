@@ -1,5 +1,33 @@
 [
   {
+    "title": "The Concise Mastery",
+    "authors": [
+      "Robert Greene"
+    ],
+    "publishedDate": "2014",
+    "description": "This concise version of the business classic Mastery provides a shortcut to Greene's powerful new tools for achieving greatness. Around the globe, people are facing the same problem - that we are born as individuals but are forced to conform to the rules of society if we want to succeed. To see our uniqueness expressed in our achievements, we must first learn the rules - and then change them completely. Charles Darwin began as an underachieving schoolboy, Leonardo da Vinci as an illegitimate outcast. The secret of their eventual greatness lies in a 'rigorous apprenticeship': they learnt to master the 'hidden codes' which determine ultimate success or failure. Then, they rewrote the rules as a reflection of their own individuality. Drawing on interviews with world leaders, this book builds on the strategies outlined in The 48 Laws of Power to provide a practical guide to greatness - and learn how to start living by your own rules.",
+    "image": "http://books.google.com/books/content?id=ilzBJwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 208,
+    "isbn10": "1846681561",
+    "isbn13": "9781846681561",
+    "googleBooks": {
+      "id": "ilzBJwAACAAJ",
+      "preview": "http://books.google.com/books?id=ilzBJwAACAAJ&dq=intitle:Mastery,+Robert+Greene&hl=&cd=8&source=gbs_api",
+      "info": "http://books.google.com/books?id=ilzBJwAACAAJ&dq=intitle:Mastery,+Robert+Greene&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Concise_Mastery.html?hl=&id=ilzBJwAACAAJ"
+    },
+    "issueNumber": 85,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-08-24T17:43:28.000Z"
+  },
+  {
     "title": "Team Human",
     "authors": [
       "Douglas Rushkoff"
@@ -115,6 +143,34 @@
     "completedAt": "2024-07-15T04:34:53.000Z",
     "timeToComplete": 40953895000,
     "timeToCompleteFormatted": "1 year"
+  },
+  {
+    "title": "You're Not That Great",
+    "authors": [
+      "Daniel Crosby"
+    ],
+    "publishedDate": "2012-11-09",
+    "image": "https://tse2.mm.bing.net/th?q=You're%20Not%20That%20Great%20by%20Daniel%20Crosby&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "categories": [
+      "Conduct of life"
+    ],
+    "pageCount": 0,
+    "isbn10": "1595718362",
+    "isbn13": "9781595718365",
+    "googleBooks": {
+      "id": "2TO2NAEACAAJ",
+      "preview": "http://books.google.com/books?id=2TO2NAEACAAJ&dq=intitle:You%27re+Not+That+Great,+Daniel+Crosby&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=2TO2NAEACAAJ&dq=intitle:You%27re+Not+That+Great,+Daniel+Crosby&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/You_re_Not_That_Great.html?hl=&id=2TO2NAEACAAJ"
+    },
+    "issueNumber": 82,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2024-07-14T20:52:26.000Z",
+    "completedAt": "2024-07-14T20:53:58.000Z",
+    "timeToComplete": 92000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Crucial Conversations Tools for Talking When Stakes Are High, Second Edition",
