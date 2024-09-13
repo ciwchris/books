@@ -23,8 +23,11 @@
     },
     "issueNumber": 89,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-09-13T03:58:56.000Z"
+    "state": "completed",
+    "startedAt": "2024-09-13T03:58:56.000Z",
+    "completedAt": "2024-09-13T03:59:47.000Z",
+    "timeToComplete": 51000,
+    "timeToCompleteFormatted": "51 seconds"
   },
   {
     "title": "Probably Overthinking It",
