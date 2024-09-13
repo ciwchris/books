@@ -1,5 +1,35 @@
 [
   {
+    "title": "Probably Overthinking It",
+    "authors": [
+      "Allen B. Downey"
+    ],
+    "publisher": "University of Chicago Press",
+    "publishedDate": "2023",
+    "description": "An essential guide to the ways data can improve decision making. Statistics are everywhere: in news reports, at the doctor's office, and in every sort of forecast, from the stock market to the weather report. Blogger, teacher, and computer scientist Allen B. Downey knows well that we have both an innate ability to understand statistics and to be fooled by them. As he makes clear in this accessible introduction to statistical thinking, the stakes are big. Simple misunderstandings have led to incorrect patient prognoses, underestimated the likelihood of large earthquakes, hindered social justice efforts, and resulted in dubious policy decisions. There are right and wrong ways to look at numbers, and Downey will help you see which is which. Probably Overthinking It uses real data to delve into real examples with real consequences, drawing on cases from health campaigns, political beliefs, chess rankings, and more. He lays out common pitfalls--like the base rate fallacy, length-biased sampling, and Simpson's paradox--and shines a light on what we learn when we interpret data correctly, and what goes wrong when we don't. Using data visualizations instead of equations, he builds understanding from the basics to help you recognize errors--whether in your own thinking or media reports. Even if you have never studied statistics--or if you have and forgot everything you learned--this book will offer new insight into the methods and measurements that help us understand the world.",
+    "image": "http://books.google.com/books/content?id=Z17ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Statistics"
+    ],
+    "pageCount": 259,
+    "isbn10": "0226822583",
+    "isbn13": "9780226822587",
+    "googleBooks": {
+      "id": "Z17ZEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=Z17ZEAAAQBAJ&printsec=frontcover&dq=intitle:Probably+Overthinking+It:+How+to+Use+Data+to+Answer+Questions,+Avoid+Statistical+Traps,+and+Make+Better+Decisions,+Allen+B.+Downey&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Z17ZEAAAQBAJ&dq=intitle:Probably+Overthinking+It:+How+to+Use+Data+to+Answer+Questions,+Avoid+Statistical+Traps,+and+Make+Better+Decisions,+Allen+B.+Downey&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Probably_Overthinking_It.html?hl=&id=Z17ZEAAAQBAJ"
+    },
+    "issueNumber": 84,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2024-07-25T04:30:09.000Z",
+    "completedAt": "2024-09-13T03:56:48.000Z",
+    "timeToComplete": 4317999000,
+    "timeToCompleteFormatted": "1 month"
+  },
+  {
     "title": "Judaism Is About Love",
     "authors": [
       "Shai Held"
@@ -88,33 +118,6 @@
     "completedAt": "2024-08-22T21:55:16.000Z",
     "timeToComplete": 39934084000,
     "timeToCompleteFormatted": "1 year"
-  },
-  {
-    "title": "Probably Overthinking It",
-    "authors": [
-      "Allen B. Downey"
-    ],
-    "publisher": "University of Chicago Press",
-    "publishedDate": "2023",
-    "description": "An essential guide to the ways data can improve decision making. Statistics are everywhere: in news reports, at the doctor's office, and in every sort of forecast, from the stock market to the weather report. Blogger, teacher, and computer scientist Allen B. Downey knows well that we have both an innate ability to understand statistics and to be fooled by them. As he makes clear in this accessible introduction to statistical thinking, the stakes are big. Simple misunderstandings have led to incorrect patient prognoses, underestimated the likelihood of large earthquakes, hindered social justice efforts, and resulted in dubious policy decisions. There are right and wrong ways to look at numbers, and Downey will help you see which is which. Probably Overthinking It uses real data to delve into real examples with real consequences, drawing on cases from health campaigns, political beliefs, chess rankings, and more. He lays out common pitfalls--like the base rate fallacy, length-biased sampling, and Simpson's paradox--and shines a light on what we learn when we interpret data correctly, and what goes wrong when we don't. Using data visualizations instead of equations, he builds understanding from the basics to help you recognize errors--whether in your own thinking or media reports. Even if you have never studied statistics--or if you have and forgot everything you learned--this book will offer new insight into the methods and measurements that help us understand the world.",
-    "image": "http://books.google.com/books/content?id=Z17ZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Statistics"
-    ],
-    "pageCount": 259,
-    "isbn10": "0226822583",
-    "isbn13": "9780226822587",
-    "googleBooks": {
-      "id": "Z17ZEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=Z17ZEAAAQBAJ&printsec=frontcover&dq=intitle:Probably+Overthinking+It:+How+to+Use+Data+to+Answer+Questions,+Avoid+Statistical+Traps,+and+Make+Better+Decisions,+Allen+B.+Downey&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=Z17ZEAAAQBAJ&dq=intitle:Probably+Overthinking+It:+How+to+Use+Data+to+Answer+Questions,+Avoid+Statistical+Traps,+and+Make+Better+Decisions,+Allen+B.+Downey&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Probably_Overthinking_It.html?hl=&id=Z17ZEAAAQBAJ"
-    },
-    "issueNumber": 84,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-07-25T04:30:09.000Z"
   },
   {
     "title": "The Soul of Civility",
