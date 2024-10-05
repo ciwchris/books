@@ -25,8 +25,11 @@
     },
     "issueNumber": 91,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-09-15T22:41:27.000Z"
+    "state": "completed",
+    "startedAt": "2024-09-15T22:41:27.000Z",
+    "completedAt": "2024-10-05T01:10:22.000Z",
+    "timeToComplete": 1650535000,
+    "timeToCompleteFormatted": "2 weeks"
   },
   {
     "title": "Beyond Death: The Gnostic Book of the Dead",
