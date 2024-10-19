@@ -23,8 +23,11 @@
     },
     "issueNumber": 96,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-10-19T17:15:43.000Z"
+    "state": "completed",
+    "startedAt": "2024-10-19T17:15:43.000Z",
+    "completedAt": "2024-10-19T17:16:39.000Z",
+    "timeToComplete": 56000,
+    "timeToCompleteFormatted": "56 seconds"
   },
   {
     "title": "Late Admissions: Confessions of a Black Conservative",
