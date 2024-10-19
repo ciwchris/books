@@ -1,5 +1,35 @@
 [
   {
+    "title": "Late Admissions: Confessions of a Black Conservative",
+    "authors": [
+      "Glenn Loury"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2024-05-14",
+    "description": "A shockingly frank memoir from a prize-winning economist, reflecting on his remarkable personal odyssey and his changing positions on identity, race, and belief. Economist Glenn C. Loury is one of the most prominent public intellectuals of our time: he’s often radically opposed to the political mainstream, and delights in upending what’s expected of a Black public figure. But more so than the arguments themselves—on affirmative action, institutional racism, Trumpism—his public life has been characterized by fearlessness and a willingness to recalibrate strongly held and forcefully argued beliefs. Loury grew up on the south side of Chicago, earned a PhD in MIT’s economics program, and became the first Black tenured professor of economics at Harvard at the age of thirty-three. He has been, at turns, a young father, a drug addict, an adulterer, a psychiatric patient, a born-again Christian, a lapsed born-again Christian, a Black Reaganite who has swung from the right to the left and back again. In Late Admissions, Loury examines what it means to chart a sense of self over the course of a tempestuous, but well-considered, life.",
+    "image": "http://books.google.com/books/content?id=3CrXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Biography & Autobiography"
+    ],
+    "pageCount": 426,
+    "isbn10": "0393881350",
+    "isbn13": "9780393881356",
+    "googleBooks": {
+      "id": "3CrXEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=3CrXEAAAQBAJ&printsec=frontcover&dq=intitle:Late+Admissions:+Confessions+of+a+black+conservative,+Glenn+C.+Loury&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=3CrXEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=3CrXEAAAQBAJ"
+    },
+    "issueNumber": 94,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2024-10-19T17:11:41.000Z",
+    "completedAt": "2024-10-19T17:18:08.000Z",
+    "timeToComplete": 387000,
+    "timeToCompleteFormatted": "6 minutes"
+  },
+  {
     "title": "On Second Thought",
     "authors": [
       "William R. Miller"
@@ -28,33 +58,6 @@
     "completedAt": "2024-10-19T17:16:39.000Z",
     "timeToComplete": 56000,
     "timeToCompleteFormatted": "56 seconds"
-  },
-  {
-    "title": "Late Admissions: Confessions of a Black Conservative",
-    "authors": [
-      "Glenn Loury"
-    ],
-    "publisher": "W. W. Norton & Company",
-    "publishedDate": "2024-05-14",
-    "description": "A shockingly frank memoir from a prize-winning economist, reflecting on his remarkable personal odyssey and his changing positions on identity, race, and belief. Economist Glenn C. Loury is one of the most prominent public intellectuals of our time: he’s often radically opposed to the political mainstream, and delights in upending what’s expected of a Black public figure. But more so than the arguments themselves—on affirmative action, institutional racism, Trumpism—his public life has been characterized by fearlessness and a willingness to recalibrate strongly held and forcefully argued beliefs. Loury grew up on the south side of Chicago, earned a PhD in MIT’s economics program, and became the first Black tenured professor of economics at Harvard at the age of thirty-three. He has been, at turns, a young father, a drug addict, an adulterer, a psychiatric patient, a born-again Christian, a lapsed born-again Christian, a Black Reaganite who has swung from the right to the left and back again. In Late Admissions, Loury examines what it means to chart a sense of self over the course of a tempestuous, but well-considered, life.",
-    "image": "http://books.google.com/books/content?id=3CrXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Biography & Autobiography"
-    ],
-    "pageCount": 426,
-    "isbn10": "0393881350",
-    "isbn13": "9780393881356",
-    "googleBooks": {
-      "id": "3CrXEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=3CrXEAAAQBAJ&printsec=frontcover&dq=intitle:Late+Admissions:+Confessions+of+a+black+conservative,+Glenn+C.+Loury&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=3CrXEAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=3CrXEAAAQBAJ"
-    },
-    "issueNumber": 94,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-10-19T17:11:41.000Z"
   },
   {
     "title": "Judaism Is About Love",
