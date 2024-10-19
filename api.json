@@ -1,5 +1,32 @@
 [
   {
+    "title": "On Second Thought",
+    "authors": [
+      "William R. Miller"
+    ],
+    "publisher": "Guilford Publications",
+    "publishedDate": "2021-12-28",
+    "description": "The rich inner world of a human being is far more complex than either/or. You can love and hate, want to go and want to stay, feel both joy and sadness. Psychologist William Miller--one of the world's leading experts on the science of change--offers a fresh perspective on ambivalence and its transformative potential in this revealing book. Rather than trying to overcome indecision by force of will, Dr. Miller explores what happens when people allow opposing arguments from their “inner committee members” to converse freely with each other. Learning to tolerate and even welcome feelings of ambivalence can help you get unstuck from unwanted habits, clarify your desires and values, explore the pros and cons of tough decisions, and open doorways to change. Vivid examples from everyday life, literature, and history illustrate why we are so often \"of two minds,\" and how to work through it.",
+    "image": "http://books.google.com/books/content?id=yURFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 210,
+    "isbn10": "1462547508",
+    "isbn13": "9781462547500",
+    "googleBooks": {
+      "id": "yURFEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=yURFEAAAQBAJ&printsec=frontcover&dq=intitle:On+Second+Thought:+How+Ambivalence+Shapes+Your+Life,+William+R.+Miller&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=yURFEAAAQBAJ&dq=intitle:On+Second+Thought:+How+Ambivalence+Shapes+Your+Life,+William+R.+Miller&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/On_Second_Thought.html?hl=&id=yURFEAAAQBAJ"
+    },
+    "issueNumber": 96,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-10-19T17:15:43.000Z"
+  },
+  {
     "title": "Late Admissions: Confessions of a Black Conservative",
     "authors": [
       "Glenn Loury"
