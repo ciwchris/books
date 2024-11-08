@@ -23,8 +23,11 @@
     },
     "issueNumber": 98,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-11-01T21:09:30.000Z"
+    "state": "completed",
+    "startedAt": "2024-11-01T21:09:30.000Z",
+    "completedAt": "2024-11-08T18:18:08.000Z",
+    "timeToComplete": 594518000,
+    "timeToCompleteFormatted": "6 days"
   },
   {
     "title": "Groomed",
