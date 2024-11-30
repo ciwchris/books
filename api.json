@@ -23,8 +23,11 @@
     },
     "issueNumber": 99,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-11-30T06:16:26.000Z"
+    "state": "completed",
+    "startedAt": "2024-11-30T06:16:26.000Z",
+    "completedAt": "2024-11-30T06:18:09.000Z",
+    "timeToComplete": 103000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Pathogenesis",
