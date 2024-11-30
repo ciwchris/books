@@ -1,5 +1,32 @@
 [
   {
+    "title": "Blind Spots",
+    "authors": [
+      "Marty Makary, M.D."
+    ],
+    "publisher": "Bloomsbury Publishing USA",
+    "publishedDate": "2024-09-17",
+    "description": "From Johns Hopkins medical expert Dr. Marty Makary, the New York Times-bestselling author of The Price We Pay-an eye-opening look at the medical groupthink that has led to public harm, and what you need to know about your health.",
+    "image": "http://books.google.com/books/content?id=huQhEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Health & Fitness"
+    ],
+    "pageCount": 289,
+    "isbn10": "1639735313",
+    "isbn13": "9781639735310",
+    "googleBooks": {
+      "id": "huQhEQAAQBAJ",
+      "preview": "http://books.google.com/books?id=huQhEQAAQBAJ&dq=intitle:+Blind+spots+when+medicine+gets+it+wrong,+and+what+it+means+for+our+health,+Marty+Makary&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=huQhEQAAQBAJ&dq=intitle:+Blind+spots+when+medicine+gets+it+wrong,+and+what+it+means+for+our+health,+Marty+Makary&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Blind_Spots.html?hl=&id=huQhEQAAQBAJ"
+    },
+    "issueNumber": 99,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-11-30T06:16:26.000Z"
+  },
+  {
     "title": "Pathogenesis",
     "authors": [
       "Jonathan Kennedy"
