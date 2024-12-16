@@ -25,8 +25,11 @@
     },
     "issueNumber": 100,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-12-16T00:03:19.000Z"
+    "state": "completed",
+    "startedAt": "2024-12-16T00:03:19.000Z",
+    "completedAt": "2024-12-16T00:17:34.000Z",
+    "timeToComplete": 855000,
+    "timeToCompleteFormatted": "14 minutes"
   },
   {
     "title": "Blind Spots",
