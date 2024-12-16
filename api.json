@@ -1,5 +1,34 @@
 [
   {
+    "title": "The New Drawing on the Right Side of the Brain Workbook",
+    "authors": [
+      "Betty Edwards"
+    ],
+    "publisher": "TarcherPerigee",
+    "publishedDate": "2002",
+    "description": "Presents guided practice exercises in a variety of media for use with \"The New Drawing on the Right Side of the Brain\" which explains how to release creative potential and tap into the special abilities of the right hemisphere of the brain.",
+    "image": "http://books.google.com/books/content?id=iccEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "categories": [
+      "Cerebral hemispheres"
+    ],
+    "pageCount": 0,
+    "isbn10": "1585421952",
+    "isbn13": "9781585421954",
+    "googleBooks": {
+      "id": "iccEAAAACAAJ",
+      "preview": "http://books.google.com/books?id=iccEAAAACAAJ&dq=intitle:Drawing+on+the+Dominant+Eye,+Betty+Edwards&hl=&cd=6&source=gbs_api",
+      "info": "http://books.google.com/books?id=iccEAAAACAAJ&dq=intitle:Drawing+on+the+Dominant+Eye,+Betty+Edwards&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_New_Drawing_on_the_Right_Side_of_the.html?hl=&id=iccEAAAACAAJ"
+    },
+    "issueNumber": 100,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-12-16T00:03:19.000Z"
+  },
+  {
     "title": "Blind Spots",
     "authors": [
       "Marty Makary, M.D."
