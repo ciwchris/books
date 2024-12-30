@@ -21,8 +21,11 @@
     },
     "issueNumber": 101,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-12-30T02:18:17.000Z"
+    "state": "completed",
+    "startedAt": "2024-12-30T02:18:17.000Z",
+    "completedAt": "2024-12-30T06:20:06.000Z",
+    "timeToComplete": 14509000,
+    "timeToCompleteFormatted": "4 hours"
   },
   {
     "title": "The New Drawing on the Right Side of the Brain Workbook",
