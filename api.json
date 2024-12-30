@@ -1,5 +1,30 @@
 [
   {
+    "title": "A Severe Mercy",
+    "authors": [
+      "Sheldon Vanauken"
+    ],
+    "publishedDate": "1981-10-01",
+    "image": "https://tse2.mm.bing.net/th?q=A%20Severe%20Mercy%20by%20Sheldon%20Vanauken&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "categories": [
+      "Anglicans"
+    ],
+    "pageCount": 243,
+    "isbn10": "0553230697",
+    "isbn13": "9780553230697",
+    "googleBooks": {
+      "id": "pttUPwAACAAJ",
+      "preview": "http://books.google.com/books?id=pttUPwAACAAJ&dq=intitle:A+Severe+Mercy:+A+Heartrending+Memoir+of+Love,+Faith,+Grief,+and+the+Healing+Power+of+God,+Featuring+Unseen+Letters+from+C.+S.+Lewis,++Sheldon+Vanauken&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=pttUPwAACAAJ&dq=intitle:A+Severe+Mercy:+A+Heartrending+Memoir+of+Love,+Faith,+Grief,+and+the+Healing+Power+of+God,+Featuring+Unseen+Letters+from+C.+S.+Lewis,++Sheldon+Vanauken&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/A_Severe_Mercy.html?hl=&id=pttUPwAACAAJ"
+    },
+    "issueNumber": 101,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-12-30T02:18:17.000Z"
+  },
+  {
     "title": "The New Drawing on the Right Side of the Brain Workbook",
     "authors": [
       "Betty Edwards"
