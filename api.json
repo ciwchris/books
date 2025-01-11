@@ -1,5 +1,34 @@
 [
   {
+    "title": "Blink",
+    "authors": [
+      "Malcolm Gladwell"
+    ],
+    "publisher": "Back Bay Books",
+    "publishedDate": "2007-04-03",
+    "description": "From the #1 bestselling author of The Bomber Mafia, the landmark book that has revolutionized the way we understand leadership and decision making. In his breakthrough bestseller The Tipping Point, Malcolm Gladwell redefined how we understand the world around us. Now, in Blink, he revolutionizes the way we understand the world within. Blink is a book about how we think without thinking, about choices that seem to be made in an instant--in the blink of an eye--that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work--in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others? In Blink we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of \"blink\": the election of Warren Harding; \"New Coke\"; and the shooting of Amadou Diallo by police. Blink reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of \"thin-slicing\"--filtering the very few factors that matter from an overwhelming number of variables.",
+    "image": "http://books.google.com/books/content?id=VKGbb1hg8JAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 34,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 291,
+    "isbn10": "0316005045",
+    "isbn13": "9780316005043",
+    "googleBooks": {
+      "id": "VKGbb1hg8JAC",
+      "preview": "http://books.google.com/books?id=VKGbb1hg8JAC&printsec=frontcover&dq=intitle:+Sorry+I%27m+Late,+I+Didn%27t+Want+to+Come,+Jessica+Pan&hl=&cd=3&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=VKGbb1hg8JAC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=VKGbb1hg8JAC"
+    },
+    "issueNumber": 110,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-01-11T06:34:32.000Z"
+  },
+  {
     "title": "A Severe Mercy",
     "authors": [
       "Sheldon Vanauken"
