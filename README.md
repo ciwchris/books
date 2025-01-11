@@ -1,14 +1,14 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (3)
+### ⌛ Currently reading (2)
 
-[![Sorry I'm Late, I Didn't Want to Come](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQsnTxQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/111 "Sorry I'm Late, I Didn't Want to Come by Jessica Pan")
 [![Invisible Man](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dd_a3QgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/8 "Invisible Man by Ralph Ellison")
 [![Lifespan](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx--oDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/6 "Lifespan by David A. Sinclair, Matthew D. LaPlante")
 
-### ✅ Completed (67)
+### ✅ Completed (68)
 
+[![Sorry I'm Late, I Didn't Want to Come](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQsnTxQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/111 "Sorry I'm Late, I Didn't Want to Come by Jessica Pan completed in 5 minutes on January 2025")
 [![A Severe Mercy](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DA%2520Severe%2520Mercy%2520by%2520Sheldon%2520Vanauken%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/101 "A Severe Mercy by Sheldon Vanauken completed in 4 hours on December 2024")
 [![The New Drawing on the Right Side of the Brain Workbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DiccEAAAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/100 "The New Drawing on the Right Side of the Brain Workbook by Betty Edwards completed in 14 minutes on December 2024")
 [![Blind Spots](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhuQhEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/99 "Blind Spots by Marty Makary, M.D. completed in 1 minute on November 2024")
