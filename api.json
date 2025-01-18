@@ -1,5 +1,32 @@
 [
   {
+    "title": "Blue Horses",
+    "authors": [
+      "Mary Oliver"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2014-10-14",
+    "description": "In this stunning collection of new poems, Mary Oliver returns to the imagery that has defined her life’s work, describing with wonder both the everyday and the unaffected beauty of nature. Herons, sparrows, owls, and kingfishers flit across the page in meditations on love, artistry, and impermanence. Whether considering a bird’s nest, the seeming patience of oak trees, or the artworks of Franz Marc, Oliver reminds us of the transformative power of attention and how much can be contained within the smallest moments. At its heart, Blue Horses asks what it means to truly belong to this world, to live in it attuned to all its changes. Humorous, gentle, and always honest, Oliver is a visionary of the natural world.",
+    "image": "http://books.google.com/books/content?id=wOVhAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Poetry"
+    ],
+    "pageCount": 97,
+    "isbn10": "0698170040",
+    "isbn13": "9780698170049",
+    "googleBooks": {
+      "id": "wOVhAwAAQBAJ",
+      "preview": "http://books.google.com/books?id=wOVhAwAAQBAJ&printsec=frontcover&dq=intitle:Blue+Horses:+Poems,+Mary+Oliver&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=wOVhAwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=wOVhAwAAQBAJ"
+    },
+    "issueNumber": 112,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-01-18T23:47:08.000Z"
+  },
+  {
     "title": "Sorry I'm Late, I Didn't Want to Come",
     "authors": [
       "Jessica Pan"
