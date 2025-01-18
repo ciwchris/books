@@ -1,5 +1,32 @@
 [
   {
+    "title": "Dog Songs",
+    "authors": [
+      "Mary Oliver"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2013-10-08",
+    "description": "“The popularity of [Dog Songs] feels as inevitable and welcome as a wagging tail upon homecoming.” —The Boston Globe Mary Oliver’s Dog Songs is a celebration of the special bond between human and dog, as understood through the poet’s relationships to the canines that have accompanied her daily walks, warmed her home, and inspired her work. Oliver’s poems begin in the small everyday moments familiar to all dog lovers, but through her extraordinary vision, these observations become higher meditations on the world and our place in it. Dog Songs includes visits with old friends, like Oliver’s beloved Percy, and introduces still others in poems of love and laughter, heartbreak and grief. Throughout, the many dogs of Oliver’s life merge as fellow travelers and as guides, uniquely able to open our eyes to the lessons of the moment and the joys of nature and connection.",
+    "image": "http://books.google.com/books/content?id=glNfoV4IDV4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Poetry"
+    ],
+    "pageCount": 126,
+    "isbn10": "1101638737",
+    "isbn13": "9781101638736",
+    "googleBooks": {
+      "id": "glNfoV4IDV4C",
+      "preview": "http://books.google.com/books?id=glNfoV4IDV4C&printsec=frontcover&dq=intitle:Dog+Songs:+Deluxe+Edition,+Mary+Oliver&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=glNfoV4IDV4C&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=glNfoV4IDV4C"
+    },
+    "issueNumber": 113,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-01-18T23:48:13.000Z"
+  },
+  {
     "title": "Blue Horses",
     "authors": [
       "Mary Oliver"
