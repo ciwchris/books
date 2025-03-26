@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Coming Wave",
+    "authors": [
+      "Mustafa Suleyman"
+    ],
+    "publisher": "Crown",
+    "publishedDate": "2023-09-05",
+    "description": "NEW YORK TIMES BESTSELLER • An urgent warning of the unprecedented risks that AI and other fast-developing technologies pose to global order, and how we might contain them while we have the chance—from a co-founder of the pioneering artificial intelligence company DeepMind and current CEO of Microsoft AI “A fascinating, well-written, and important book.”—Yuval Noah Harari “Essential reading.”—Daniel Kahneman “My favorite book on AI.”—Bill Gates, GatesNotes A Best Book of the Year: CNN, Economist, Bloomberg, Politico Playbook, Financial Times, The Guardian, CEO Magazine, Semafor • Winner of the Inc. Non-Obvious Book Award • Finalist for the Porchlight Business Book Award and the Financial Times and Schroders Business Book of the Year Award We are approaching a critical threshold in the history of our species. Everything is about to change. Soon you will live surrounded by AIs. They will organize your life, operate your business, and run core government services. You will live in a world of DNA printers and quantum computers, engineered pathogens and autonomous weapons, robot assistants and abundant energy. None of us are prepared. As co-founder of the pioneering AI company DeepMind, part of Google, Mustafa Suleyman has been at the center of this revolution. The coming decade, he argues, will be defined by this wave of powerful, fast-proliferating new technologies. In The Coming Wave, Suleyman shows how these forces will create immense prosperity but also threaten the nation-state, the foundation of global order. As our fragile governments sleepwalk into disaster, we face an existential dilemma: unprecedented harms on one side, the threat of overbearing surveillance on the other. How do we ensure the flourishing of humankind? How do we maintain control? How do we navigate the narrow path to a successful future? This groundbreaking book from the ultimate AI insider establishes “the containment problem”—the task of maintaining control over powerful technologies—as the essential challenge of our age.",
+    "image": "http://books.google.com/books/content?id=TQ-oEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Technology & Engineering"
+    ],
+    "pageCount": 353,
+    "isbn10": "0593593960",
+    "isbn13": "9780593593967",
+    "googleBooks": {
+      "id": "TQ-oEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=TQ-oEAAAQBAJ&printsec=frontcover&dq=intitle:The+Coming+Wave:+Technology,+Power,+and+the+Twenty-first+Century%27s+Greatest+Dilemma,+Mustafa+Suleyman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=TQ-oEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=TQ-oEAAAQBAJ"
+    },
+    "issueNumber": 116,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-03-26T03:39:20.000Z"
+  },
+  {
     "title": "Plundered",
     "authors": [
       "David W Swanson"
