@@ -1,14 +1,14 @@
 This repository is used to track the books I'm reading these days, powered by [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action).
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (3)
+### ⌛ Currently reading (2)
 
-[![The Coming Wave](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DTQ-oEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/116 "The Coming Wave by Mustafa Suleyman")
 [![Invisible Man](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dd_a3QgAACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/8 "Invisible Man by Ralph Ellison")
 [![Lifespan](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dx--oDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/6 "Lifespan by David A. Sinclair, Matthew D. LaPlante")
 
-### ✅ Completed (71)
+### ✅ Completed (72)
 
+[![The Coming Wave](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DTQ-oEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/116 "The Coming Wave by Mustafa Suleyman completed in 1 minute on March 2025")
 [![Plundered](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DIb6n0AEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/114 "Plundered by David W Swanson completed in 1 week on January 2025")
 [![Blue Horses](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DwOVhAwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/112 "Blue Horses by Mary Oliver completed in 5 days on January 2025")
 [![Dog Songs](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DglNfoV4IDV4C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ciwchris/books/issues/113 "Dog Songs by Mary Oliver completed in 5 days on January 2025")

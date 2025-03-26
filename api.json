@@ -23,8 +23,11 @@
     },
     "issueNumber": 116,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-03-26T03:39:20.000Z"
+    "state": "completed",
+    "startedAt": "2025-03-26T03:39:20.000Z",
+    "completedAt": "2025-03-26T03:40:46.000Z",
+    "timeToComplete": 86000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Plundered",
