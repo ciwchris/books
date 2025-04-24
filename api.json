@@ -1,5 +1,35 @@
 [
   {
+    "title": "Perception: How Artificial Intelligence Sees the World (Fun Picture Book for K-2, AI+ME Series)",
+    "authors": [
+      "ReadyAI"
+    ],
+    "publisher": "Ready AI LLC",
+    "publishedDate": "2020-09-30",
+    "description": "Is your child interested in sci-fi, robots, or video games? Is your kid fascinated by smart home assistants and the prospect of self-driving cars? Time to turn that enthusiasm into action and engage with the exciting world of artificial intelligence! AI+Me is a series designed to introduce the 5 Big Ideas of Artificial Intelligence to young learners. Students take a deep dive into the Five Big Ideas of AI (Perception, Representation and Reasoning, Learning, Natural Interaction, and Societal Impact). This is the first book in the AI+Me series focused on Perception. The series is recommended for K-2 students. Why should children be educated about AI? Learning AI opens up a world of opportunities. As the fastest growing area of computer science, AI will become the most important change force when our children grow up so it is critical they learn about it early. AI is fun! The field of AI started with scientists making computers learn to play games. AI is an incredibly fun way to introduce kids to programming and pique their interest in advanced topics like deep learning. Lastly, a topic like AI naturally opens up discussions about our humanity. In our curriculum, we dig deep into questions like “does AI positively or negatively impact society?” In doing so we aim to develop critical thinking skills and encourage students to reflect deeply. Benefits of AI education: - Gets children interested in #STEM education - Improves their problem-solving and critical-thinking skills - Builds their understanding of the tech tools that’ll shape their future - Starts important conversations about the future of humanity What are educators saying: “I really love these books. I think they are absolutely beautiful and very visually engaging ways for students to learn about artificial intelligence. I like how they progress through the topic and terms related to artificial intelligence and help students to attach meaning to what they are learning by the different examples and step-by-step ways that students build their understanding through the book.” - Rachelle Dene Poth, Author of In Other Words, Unconventional, The Future is Now, and Chart a New Course. What are parents saying: “My 1st grader loves this book. She already is really interested in computers, but this book got her thinking about how we actually tell emotions. She started using her camera on her computer to record different expressions.” “My son learned ReadyAI courses before. I let his friend read AI+Me big idea 1. Surprisingly, both of them finished reading the book, with a lot of interest! I Will recommend this book for elementary school students.” “I have been looking for fun ways to introduce AI to my kid, and this definitely nailed it.”",
+    "image": "http://books.google.com/books/content?id=cR8AEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "categories": [
+      "Education"
+    ],
+    "pageCount": 23,
+    "googleBooks": {
+      "id": "cR8AEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=cR8AEAAAQBAJ&printsec=frontcover&dq=intitle:Brave+New+Words:+How+AI+Will+Revolutionize+Education+(and+Why+That%27s+a+Good+Thing),+Salman+Khan&hl=&cd=7&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=cR8AEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=cR8AEAAAQBAJ"
+    },
+    "issueNumber": 118,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-04-24T04:05:31.000Z",
+    "completedAt": "2025-04-24T04:07:32.000Z",
+    "timeToComplete": 121000,
+    "timeToCompleteFormatted": "2 minutes"
+  },
+  {
     "title": "From Strength to Strength",
     "authors": [
       "Arthur C. Brooks"
