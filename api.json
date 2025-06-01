@@ -1,5 +1,36 @@
 [
   {
+    "title": "Over Ruled",
+    "authors": [
+      "Neil Gorsuch",
+      "Janie Nitze"
+    ],
+    "publisher": "HarperCollins",
+    "publishedDate": "2024-08-06",
+    "description": "America has always been a nation of laws. But today our laws have grown so vast and reach so deeply into our lives that it’s worth asking: In our reverence for law, have we gone too far? Over just the last few decades, laws in this nation have exploded in number; they are increasingly complex; and the punishments they carry are increasingly severe. Some of these laws come from our elected representatives, but many now come from agency officials largely insulated from democratic accountability.? In Over Ruled, Neil Gorsuch and Janie Nitze explore these developments and the human toll so much law can carry for ordinary Americans. At its heart, this is a book of stories—about fishermen in Florida, families in Montana, monks in Louisiana, a young Internet entrepreneur in Massachusetts, and many others who have found themselves trapped unexpectedly in a legal maze. Some law is essential to our lives and our freedoms. But too much law can place those very same freedoms at risk and even undermine respect for law itself. And often those who feel the cost most acutely are those without wealth, power, and status. Deeply researched and superbly written, Over Ruled is one of the most significant books of the year. It is a must-read for every citizen concerned about the erosion of our constitutional system, and its insights will be key to the preservation of our liberties for generations to come.",
+    "image": "http://books.google.com/books/content?id=6pvqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 280,
+    "isbn10": "0063238489",
+    "isbn13": "9780063238480",
+    "googleBooks": {
+      "id": "6pvqEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=6pvqEAAAQBAJ&printsec=frontcover&dq=intitle:Over+Ruled:+The+Human+Toll+of+Too+Much+Law,+Neil+M.+Gorsuch&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=6pvqEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=6pvqEAAAQBAJ"
+    },
+    "issueNumber": 120,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-05-14T02:37:15.000Z",
+    "completedAt": "2025-06-01T04:38:08.000Z",
+    "timeToComplete": 1562453000,
+    "timeToCompleteFormatted": "2 weeks"
+  },
+  {
     "title": "Cross Purposes",
     "authors": [
       "Jonathan Rauch"
