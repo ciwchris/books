@@ -1,5 +1,35 @@
 [
   {
+    "title": "Cross Purposes",
+    "authors": [
+      "Jonathan Rauch"
+    ],
+    "publisher": "Yale University Press",
+    "publishedDate": "2025-02-04",
+    "description": "Why the crisis of Christianity has become a crisis for democracy What happens to American democracy if Christianity is no longer able, or no longer willing, to perform the functions on which our constitutional order depends? In this provocative book, the award-winning journalist Jonathan Rauch—a lifelong atheist—reckons candidly with both the shortcomings of secularism and the corrosion of Christianity. Thin Christianity, as Rauch calls the mainline church, has been unable to inspire and retain believers. Worse, a Church of Fear has distorted white evangelicalism in ways that violate the tenets of both Jesus and James Madison. What to do? For answers, Rauch looks to a new generation of religious thinkers, as well as to the Church of Jesus Christ of Latter-day Saints, which has placed the Constitution at the heart of its spiritual teachings. In this timely critique Rauch addresses secular Americans who think Christianity can be abandoned, and Christian Americans who blame secular culture for their grievances. The two must work together, he argues, to confront our present crisis. He calls on Christians to recommit to the teachings of their faith that align with Madison, not MAGA, and to understand that liberal democracy, far from being oppressive, is uniquely protective of religious freedom. At the same time, he calls on secular liberals to understand that healthy religious institutions are crucial to the survival of the liberal state.",
+    "image": "http://books.google.com/books/content?id=5Fg5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 168,
+    "isbn10": "0300281544",
+    "isbn13": "9780300281545",
+    "googleBooks": {
+      "id": "5Fg5EQAAQBAJ",
+      "preview": "http://books.google.com/books?id=5Fg5EQAAQBAJ&printsec=frontcover&dq=intitle:Cross+Purposes:+Christianity%27s+Broken+Bargain+with+Democracy,+Jonathan+Rauch&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=5Fg5EQAAQBAJ&dq=intitle:Cross+Purposes:+Christianity%27s+Broken+Bargain+with+Democracy,+Jonathan+Rauch&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Cross_Purposes.html?hl=&id=5Fg5EQAAQBAJ"
+    },
+    "issueNumber": 119,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-05-14T02:33:22.000Z",
+    "completedAt": "2025-11-30T06:36:05.000Z",
+    "timeToComplete": 17294563000,
+    "timeToCompleteFormatted": "6 months"
+  },
+  {
     "title": "Over Ruled",
     "authors": [
       "Neil Gorsuch",
@@ -29,33 +59,6 @@
     "completedAt": "2025-06-01T04:38:08.000Z",
     "timeToComplete": 1562453000,
     "timeToCompleteFormatted": "2 weeks"
-  },
-  {
-    "title": "Cross Purposes",
-    "authors": [
-      "Jonathan Rauch"
-    ],
-    "publisher": "Yale University Press",
-    "publishedDate": "2025-02-04",
-    "description": "Why the crisis of Christianity has become a crisis for democracy What happens to American democracy if Christianity is no longer able, or no longer willing, to perform the functions on which our constitutional order depends? In this provocative book, the award-winning journalist Jonathan Rauch—a lifelong atheist—reckons candidly with both the shortcomings of secularism and the corrosion of Christianity. Thin Christianity, as Rauch calls the mainline church, has been unable to inspire and retain believers. Worse, a Church of Fear has distorted white evangelicalism in ways that violate the tenets of both Jesus and James Madison. What to do? For answers, Rauch looks to a new generation of religious thinkers, as well as to the Church of Jesus Christ of Latter-day Saints, which has placed the Constitution at the heart of its spiritual teachings. In this timely critique Rauch addresses secular Americans who think Christianity can be abandoned, and Christian Americans who blame secular culture for their grievances. The two must work together, he argues, to confront our present crisis. He calls on Christians to recommit to the teachings of their faith that align with Madison, not MAGA, and to understand that liberal democracy, far from being oppressive, is uniquely protective of religious freedom. At the same time, he calls on secular liberals to understand that healthy religious institutions are crucial to the survival of the liberal state.",
-    "image": "http://books.google.com/books/content?id=5Fg5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Political Science"
-    ],
-    "pageCount": 168,
-    "isbn10": "0300281544",
-    "isbn13": "9780300281545",
-    "googleBooks": {
-      "id": "5Fg5EQAAQBAJ",
-      "preview": "http://books.google.com/books?id=5Fg5EQAAQBAJ&printsec=frontcover&dq=intitle:Cross+Purposes:+Christianity%27s+Broken+Bargain+with+Democracy,+Jonathan+Rauch&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=5Fg5EQAAQBAJ&dq=intitle:Cross+Purposes:+Christianity%27s+Broken+Bargain+with+Democracy,+Jonathan+Rauch&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Cross_Purposes.html?hl=&id=5Fg5EQAAQBAJ"
-    },
-    "issueNumber": 119,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-05-14T02:33:22.000Z"
   },
   {
     "title": "Perception: How Artificial Intelligence Sees the World (Fun Picture Book for K-2, AI+ME Series)",
