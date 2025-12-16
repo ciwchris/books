@@ -1,5 +1,35 @@
 [
   {
+    "title": "American Covenant",
+    "authors": [
+      "Yuval Levin"
+    ],
+    "publisher": "Basic Books",
+    "publishedDate": "2024-06-11",
+    "description": "“The most important voice in the political culture” (Ben Shapiro) reveals the Constitution’s remarkable power to repair our broken civic culture, rescue our malfunctioning politics, and unify a fractious America Common ground is hard to find in today’s politics. In a society teeming with irreconcilable political perspectives, many people have grown frustrated under a system of government that constantly demands compromise. More and more on both the right and the left have come to blame the Constitution for the resulting discord. But the Constitution is not the problem we face; it is the solution. Blending engaging history with lucid analysis, conservative scholar Yuval Levin’s American Covenant recovers the Constitution’s true genius and reveals how it charts a path to repairing America’s fault lines. Uncovering the framers’ sophisticated grasp of political division, Levin showcases the Constitution’s exceptional power to facilitate constructive disagreement, negotiate resolutions to disputes, and forge unity in a fractured society. Clear-eyed about the ways that contemporary politics have malfunctioned, Levin also offers practical solutions for reforming those aspects of the constitutional order that have gone awry. Hopeful, insightful, and rooted in the best of our political tradition, American Covenant celebrates the Constitution’s remarkable power to bind together a diverse society, reassuring us that a less divided future is within our grasp.",
+    "image": "http://books.google.com/books/content?id=gCnkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 304,
+    "isbn10": "1541606108",
+    "isbn13": "9781541606104",
+    "googleBooks": {
+      "id": "gCnkEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=gCnkEAAAQBAJ&printsec=frontcover&dq=intitle:American+Covenant:+How+the+Constitution+Unified+Our+Nation%E2%80%95and+Could+Again+by+Yuval+Levin&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=gCnkEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=gCnkEAAAQBAJ"
+    },
+    "issueNumber": 123,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-11-30T06:38:03.000Z",
+    "completedAt": "2025-12-16T02:23:20.000Z",
+    "timeToComplete": 1367117000,
+    "timeToCompleteFormatted": "2 weeks"
+  },
+  {
     "title": "Welcoming the Stranger",
     "authors": [
       "Matthew Soerens",
