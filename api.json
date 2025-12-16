@@ -1,5 +1,66 @@
 [
   {
+    "title": "Primal Intelligence",
+    "authors": [
+      "Angus Fletcher"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2025-08-19",
+    "description": "The national bestseller Tap into your hidden intelligence and transform your life How are some people so much smarter than the rest of us? Where do visionary creatives and savvy decision-makers like Vincent van Gogh, Steve Jobs, Abraham Lincoln, Maya Angelou, Nikola Tesla, Marie Curie, Albert Einstein, Wayne Gretzky, Warren Buffett, and William Shakespeare get their extraordinary mental abilities? In 2021, researchers at Ohio State’s Project Narrative, renowned for collaborations with NASA, Hollywood, and Silicon Valley, announced they had the answer. They named it Primal Intelligence. And they published scientific proof that Primal Intelligence was impossible for computers—but could be strengthened in humans. Intrigued, U.S. Army Special Operations developed Primal training for its most classified units. The training succeeded. The Operators saw the future faster. They healed quicker from trauma. In life-and-death situations, they chose wiser. The Army then authorized trials on civilian entrepreneurs, doctors, engineers, managers, salesforces, coaches, teachers, investors, and NFL players. Their leadership and innovation improved significantly. They coped better with change and uncertainty. They experienced less anger and anxiety. Finally, the Army provided Primal training to college and K-12 classrooms. It produced substantial effects in students as young as eight. That revolutionary training is now available for the first time in this book. It’s not an optimization hack or a cheat code. It’s a different way of using your brain. It offers a new neuroscientific approach to intuition, imagination, emotion, and commonsense, helping you think more like van Gogh and Jobs, Lincoln and Shakespeare. It’s your edge over AI. Your human genius. Your Primal Intelligence.",
+    "image": "http://books.google.com/books/content?id=n3QyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 305,
+    "isbn10": "0593715314",
+    "isbn13": "9780593715314",
+    "googleBooks": {
+      "id": "n3QyEQAAQBAJ",
+      "preview": "http://books.google.com/books?id=n3QyEQAAQBAJ&printsec=frontcover&dq=intitle:Primal+Intelligence:+You+Are+Smarter+Than+You+Know+by+Angus+Fletcher&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=n3QyEQAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=n3QyEQAAQBAJ"
+    },
+    "issueNumber": 121,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-11-30T06:36:20.000Z",
+    "completedAt": "2025-12-16T02:24:02.000Z",
+    "timeToComplete": 1367262000,
+    "timeToCompleteFormatted": "2 weeks"
+  },
+  {
+    "title": "Welcoming the Stranger",
+    "authors": [
+      "Matthew Soerens",
+      "Jenny Hwang Yang"
+    ],
+    "publisher": "IVP Books",
+    "publishedDate": "2009-02-28",
+    "description": "Immigration is one of the most complicated issues of our time. Voices on all sides argue strongly for action and change. Christians find themselves torn between the desire to uphold laws and the call to minister to the vulnerable. In this book World Relief staffers Matthew Soerens and Jenny Hwang move beyond the rhetoric to offer a Christian response to immigration. They put a human face on the issue and tell stories of immigrants' experiences in and out of the system. With careful historical understanding and thoughtful policy analysis, they debunk myths and misconceptions about immigration and show the limitations of the current immigration system. Ultimately they point toward immigration reform that is compassionate, sensible and just, as they offer concrete ways for you and your church to welcome and minister to your immigrant neighbors.",
+    "image": "http://books.google.com/books/content?id=vYrowAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Religion"
+    ],
+    "pageCount": 240,
+    "isbn10": "0830833595",
+    "isbn13": "9780830833597",
+    "googleBooks": {
+      "id": "vYrowAEACAAJ",
+      "preview": "http://books.google.com/books?id=vYrowAEACAAJ&dq=intitle:Welcoming+the+Stranger:+Justice,+Compassion+%26+Truth+in+the+Immigration+Debate+by+Matthew+Soerens+,+Jenny+Yang&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=vYrowAEACAAJ&dq=intitle:Welcoming+the+Stranger:+Justice,+Compassion+%26+Truth+in+the+Immigration+Debate+by+Matthew+Soerens+,+Jenny+Yang&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Welcoming_the_Stranger.html?hl=&id=vYrowAEACAAJ"
+    },
+    "issueNumber": 122,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-11-30T06:37:10.000Z",
+    "completedAt": "2025-12-16T02:23:40.000Z",
+    "timeToComplete": 1367190000,
+    "timeToCompleteFormatted": "2 weeks"
+  },
+  {
     "title": "American Covenant",
     "authors": [
       "Yuval Levin"
@@ -28,61 +89,6 @@
     "completedAt": "2025-12-16T02:23:20.000Z",
     "timeToComplete": 1367117000,
     "timeToCompleteFormatted": "2 weeks"
-  },
-  {
-    "title": "Welcoming the Stranger",
-    "authors": [
-      "Matthew Soerens",
-      "Jenny Hwang Yang"
-    ],
-    "publisher": "IVP Books",
-    "publishedDate": "2009-02-28",
-    "description": "Immigration is one of the most complicated issues of our time. Voices on all sides argue strongly for action and change. Christians find themselves torn between the desire to uphold laws and the call to minister to the vulnerable. In this book World Relief staffers Matthew Soerens and Jenny Hwang move beyond the rhetoric to offer a Christian response to immigration. They put a human face on the issue and tell stories of immigrants' experiences in and out of the system. With careful historical understanding and thoughtful policy analysis, they debunk myths and misconceptions about immigration and show the limitations of the current immigration system. Ultimately they point toward immigration reform that is compassionate, sensible and just, as they offer concrete ways for you and your church to welcome and minister to your immigrant neighbors.",
-    "image": "http://books.google.com/books/content?id=vYrowAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Religion"
-    ],
-    "pageCount": 240,
-    "isbn10": "0830833595",
-    "isbn13": "9780830833597",
-    "googleBooks": {
-      "id": "vYrowAEACAAJ",
-      "preview": "http://books.google.com/books?id=vYrowAEACAAJ&dq=intitle:Welcoming+the+Stranger:+Justice,+Compassion+%26+Truth+in+the+Immigration+Debate+by+Matthew+Soerens+,+Jenny+Yang&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=vYrowAEACAAJ&dq=intitle:Welcoming+the+Stranger:+Justice,+Compassion+%26+Truth+in+the+Immigration+Debate+by+Matthew+Soerens+,+Jenny+Yang&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Welcoming_the_Stranger.html?hl=&id=vYrowAEACAAJ"
-    },
-    "issueNumber": 122,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-11-30T06:37:10.000Z"
-  },
-  {
-    "title": "Primal Intelligence",
-    "authors": [
-      "Angus Fletcher"
-    ],
-    "publisher": "Penguin",
-    "publishedDate": "2025-08-19",
-    "description": "The national bestseller Tap into your hidden intelligence and transform your life How are some people so much smarter than the rest of us? Where do visionary creatives and savvy decision-makers like Vincent van Gogh, Steve Jobs, Abraham Lincoln, Maya Angelou, Nikola Tesla, Marie Curie, Albert Einstein, Wayne Gretzky, Warren Buffett, and William Shakespeare get their extraordinary mental abilities? In 2021, researchers at Ohio State’s Project Narrative, renowned for collaborations with NASA, Hollywood, and Silicon Valley, announced they had the answer. They named it Primal Intelligence. And they published scientific proof that Primal Intelligence was impossible for computers—but could be strengthened in humans. Intrigued, U.S. Army Special Operations developed Primal training for its most classified units. The training succeeded. The Operators saw the future faster. They healed quicker from trauma. In life-and-death situations, they chose wiser. The Army then authorized trials on civilian entrepreneurs, doctors, engineers, managers, salesforces, coaches, teachers, investors, and NFL players. Their leadership and innovation improved significantly. They coped better with change and uncertainty. They experienced less anger and anxiety. Finally, the Army provided Primal training to college and K-12 classrooms. It produced substantial effects in students as young as eight. That revolutionary training is now available for the first time in this book. It’s not an optimization hack or a cheat code. It’s a different way of using your brain. It offers a new neuroscientific approach to intuition, imagination, emotion, and commonsense, helping you think more like van Gogh and Jobs, Lincoln and Shakespeare. It’s your edge over AI. Your human genius. Your Primal Intelligence.",
-    "image": "http://books.google.com/books/content?id=n3QyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Psychology"
-    ],
-    "pageCount": 305,
-    "isbn10": "0593715314",
-    "isbn13": "9780593715314",
-    "googleBooks": {
-      "id": "n3QyEQAAQBAJ",
-      "preview": "http://books.google.com/books?id=n3QyEQAAQBAJ&printsec=frontcover&dq=intitle:Primal+Intelligence:+You+Are+Smarter+Than+You+Know+by+Angus+Fletcher&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=n3QyEQAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=n3QyEQAAQBAJ"
-    },
-    "issueNumber": 121,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-11-30T06:36:20.000Z"
   },
   {
     "title": "Cross Purposes",
