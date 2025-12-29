@@ -1,5 +1,34 @@
 [
   {
+    "title": "Murder in the Cathedral",
+    "authors": [
+      "Thomas Stearns Eliot"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "1935",
+    "description": "A play in verse from dramatizes the Murder of Archbishop Thomas Becket by four knights of Henry II's court.",
+    "image": "http://books.google.com/books/content?id=lc3krClq6bEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Drama"
+    ],
+    "pageCount": 100,
+    "isbn10": "0156632772",
+    "isbn13": "9780156632775",
+    "googleBooks": {
+      "id": "lc3krClq6bEC",
+      "preview": "http://books.google.com/books?id=lc3krClq6bEC&printsec=frontcover&dq=intitle:Murder+in+the+Cathedral+by+T.S.+Eliot&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=lc3krClq6bEC&dq=intitle:Murder+in+the+Cathedral+by+T.S.+Eliot&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Murder_in_the_Cathedral.html?hl=&id=lc3krClq6bEC"
+    },
+    "issueNumber": 124,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-12-16T02:24:32.000Z"
+  },
+  {
     "title": "Primal Intelligence",
     "authors": [
       "Angus Fletcher"
