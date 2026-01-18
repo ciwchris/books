@@ -1,5 +1,35 @@
 [
   {
+    "title": "Mathematica",
+    "authors": [
+      "David Bessis"
+    ],
+    "publisher": "Yale University Press",
+    "publishedDate": "2024-05-28",
+    "description": "A fascinating look into how the transformative joys of mathematical experience are available to everyone, not just specialists Math has a reputation for being inaccessible. People think that it requires a special gift or that comprehension is a matter of genes. Yet the greatest mathematicians throughout history, from René Descartes to Alexander Grothendieck, have insisted that this is not the case. Like Albert Einstein, who famously claimed to have \"no special talent,\" they said that they had accomplished what they did using ordinary human doubts, weaknesses, curiosity, and imagination. David Bessis guides us on an illuminating path toward deeper mathematical comprehension, reconnecting us with the mental plasticity we experienced as children. With simple, concrete examples, Bessis shows how mathematical comprehension is integral to the great learning milestones of life, such as learning to see, to speak, to walk, and to eat with a spoon. Focusing on the deeply human roots of mathematics, Bessis dispels the myths of mathematical genius. He offers an engaging initiation into the experience of math not as a series of discouragingly incomprehensible logic problems but as a physical activity akin to yoga, meditation, or a martial art. This perspective will change the way you think not only about math but also about intelligence, intuition, and everything that goes on inside your head.",
+    "image": "http://books.google.com/books/content?id=jYQBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Mathematics"
+    ],
+    "pageCount": 341,
+    "isbn10": "0300270887",
+    "isbn13": "9780300270884",
+    "googleBooks": {
+      "id": "jYQBEQAAQBAJ",
+      "preview": "http://books.google.com/books?id=jYQBEQAAQBAJ&printsec=frontcover&dq=intitle:Mathematica:+A+Secret+World+of+Intuition+and+Curiosity,+David+Bessis&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=jYQBEQAAQBAJ&dq=intitle:Mathematica:+A+Secret+World+of+Intuition+and+Curiosity,+David+Bessis&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Mathematica.html?hl=&id=jYQBEQAAQBAJ"
+    },
+    "issueNumber": 127,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2026-01-18T22:07:23.000Z",
+    "completedAt": "2026-01-18T22:15:24.000Z",
+    "timeToComplete": 481000,
+    "timeToCompleteFormatted": "8 minutes"
+  },
+  {
     "title": "Free Agents",
     "authors": [
       "Kevin J. Mitchell"
