@@ -1,5 +1,35 @@
 [
   {
+    "title": "Free Agents",
+    "authors": [
+      "Kevin J. Mitchell"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2023-10-03",
+    "description": "An evolutionary case for the existence of free will Scientists are learning more and more about how brain activity controls behavior and how neural circuits weigh alternatives and initiate actions. As we probe ever deeper into the mechanics of decision making, many conclude that agency—or free will—is an illusion. In Free Agents, leading neuroscientist Kevin Mitchell presents a wealth of evidence to the contrary, arguing that we are not mere machines responding to physical forces but agents acting with purpose. Traversing billions of years of evolution, Mitchell tells the remarkable story of how living beings capable of choice arose from lifeless matter. He explains how the emergence of nervous systems provided a means to learn about the world, granting sentient animals the capacity to model, predict, and simulate. Mitchell reveals how these faculties reached their peak in humans with our abilities to imagine and to be introspective, to reason in the moment, and to shape our possible futures through the exercise of our individual agency. Mitchell’s argument has important implications—for how we understand decision making, for how our individual agency can be enhanced or infringed, for how we think about collective agency in the face of global crises, and for how we consider the limitations and future of artificial intelligence. An astonishing journey of discovery, Free Agents offers a new framework for understanding how, across a billion years of Earth history, life evolved the power to choose, and why it matters.",
+    "image": "http://books.google.com/books/content?id=Myi4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 352,
+    "isbn10": "0691226237",
+    "isbn13": "9780691226231",
+    "googleBooks": {
+      "id": "Myi4EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=Myi4EAAAQBAJ&printsec=frontcover&dq=intitle:Free+Agents:+How+Evolution+Gave+Us+Free+Will+by+Kevin+J.+Mitchell&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Myi4EAAAQBAJ&dq=intitle:Free+Agents:+How+Evolution+Gave+Us+Free+Will+by+Kevin+J.+Mitchell&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Free_Agents.html?hl=&id=Myi4EAAAQBAJ"
+    },
+    "issueNumber": 126,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-12-29T01:15:45.000Z",
+    "completedAt": "2026-02-17T05:37:25.000Z",
+    "timeToComplete": 4335700000,
+    "timeToCompleteFormatted": "1 month"
+  },
+  {
     "title": "Mathematica",
     "authors": [
       "David Bessis"
@@ -28,33 +58,6 @@
     "completedAt": "2026-01-18T22:15:24.000Z",
     "timeToComplete": 481000,
     "timeToCompleteFormatted": "8 minutes"
-  },
-  {
-    "title": "Free Agents",
-    "authors": [
-      "Kevin J. Mitchell"
-    ],
-    "publisher": "Princeton University Press",
-    "publishedDate": "2023-10-03",
-    "description": "An evolutionary case for the existence of free will Scientists are learning more and more about how brain activity controls behavior and how neural circuits weigh alternatives and initiate actions. As we probe ever deeper into the mechanics of decision making, many conclude that agency—or free will—is an illusion. In Free Agents, leading neuroscientist Kevin Mitchell presents a wealth of evidence to the contrary, arguing that we are not mere machines responding to physical forces but agents acting with purpose. Traversing billions of years of evolution, Mitchell tells the remarkable story of how living beings capable of choice arose from lifeless matter. He explains how the emergence of nervous systems provided a means to learn about the world, granting sentient animals the capacity to model, predict, and simulate. Mitchell reveals how these faculties reached their peak in humans with our abilities to imagine and to be introspective, to reason in the moment, and to shape our possible futures through the exercise of our individual agency. Mitchell’s argument has important implications—for how we understand decision making, for how our individual agency can be enhanced or infringed, for how we think about collective agency in the face of global crises, and for how we consider the limitations and future of artificial intelligence. An astonishing journey of discovery, Free Agents offers a new framework for understanding how, across a billion years of Earth history, life evolved the power to choose, and why it matters.",
-    "image": "http://books.google.com/books/content?id=Myi4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Science"
-    ],
-    "pageCount": 352,
-    "isbn10": "0691226237",
-    "isbn13": "9780691226231",
-    "googleBooks": {
-      "id": "Myi4EAAAQBAJ",
-      "preview": "http://books.google.com/books?id=Myi4EAAAQBAJ&printsec=frontcover&dq=intitle:Free+Agents:+How+Evolution+Gave+Us+Free+Will+by+Kevin+J.+Mitchell&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=Myi4EAAAQBAJ&dq=intitle:Free+Agents:+How+Evolution+Gave+Us+Free+Will+by+Kevin+J.+Mitchell&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Free_Agents.html?hl=&id=Myi4EAAAQBAJ"
-    },
-    "issueNumber": 126,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-12-29T01:15:45.000Z"
   },
   {
     "title": "Murder in the Cathedral",
